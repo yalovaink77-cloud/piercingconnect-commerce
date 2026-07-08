@@ -1,0 +1,38 @@
+# Keyword Schema — Deprecated Alias
+
+Version: 1.0
+
+Status: Deprecated
+
+---
+
+## Canonical Schema
+
+Use **`schemas/keyword-cluster.schema.yaml`** for all SEO keyword cluster records.
+
+Data path: **`data/keywords/`**
+
+Entity name: `keyword-cluster`
+
+---
+
+## Why This File Exists
+
+An empty `keyword.schema.yaml` was created during early schema planning. It duplicates the keyword-cluster entity and was never populated.
+
+This file is retained as documentation only. **Do not create records against `keyword.schema.yaml`.**
+
+---
+
+## Related
+
+- `schemas/keyword-cluster.schema.yaml` — canonical schema
+- `data/keywords/` — keyword cluster YAML records
+- `books/01-aftercare-bible/13-seo-clusters.md` — human-readable index
+- `data/search-intents/` — search intent taxonomy linked from clusters
+
+---
+
+## Migration Note
+
+If tooling references `keyword.schema.yaml`, update it to `keyword-cluster.schema.yaml`. No data migration required — `data/keywords/` always used cluster structure.

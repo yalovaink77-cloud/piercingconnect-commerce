@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.envrc
+
+# Node (if used later)
+node_modules/
+dist/
+.npm
+
+# Generated exports — outputs not source of truth
+exports/**/*.json
+exports/**/*.csv
+exports/**/*.pdf
+exports/**/*.zip
+!exports/.gitkeep
+
+# Logs and cache
+*.log
+.cache/
+.tmp/
+
+# Local overrides
+local/
+*.local.yaml

@@ -1,7 +1,7 @@
 # Book 1 — Aftercare Bible
 
-> Version: 1.0 Draft  
-> Project: PiercingConnect Commerce Blueprint  
+> Version: 1.0  
+> Project: PiercingConnect Commercial Knowledge Core  
 > Role: Commercial Knowledge Base  
 > Status: Active
 
@@ -9,160 +9,96 @@
 
 ## Purpose
 
-The Aftercare Bible is the authoritative knowledge base for piercing aftercare within the PiercingConnect ecosystem.
+The Aftercare Bible is the authoritative human-readable layer for piercing aftercare knowledge within PiercingConnect.
 
-It exists to power:
+It powers educational content, product guides, SEO clusters, affiliate strategy, and PC Media Engine publishing.
 
-- educational articles
-- product guides
-- affiliate content
-- comparison pages
-- FAQs
-- Pinterest posts
-- Facebook posts
-- YouTube scripts
-- email sequences
-- PDF guides
-- future premium content
-- PC Media Engine publishing workflows
-
-This is not a traditional book.
-
-It is a structured commercial knowledge base designed to support safety, trust, SEO, affiliate revenue, and automated publishing.
+Structured truth lives in `data/`. This book summarizes and explains those records.
 
 ---
 
 ## Core Principle
 
-PiercingConnect must never recommend products only because they pay commission.
+Recommendation priority:
 
-Every recommendation follows this order:
-
-1. Safety
-2. Scientific evidence
-3. Professional standards
-4. User trust
-5. Product quality
-6. Availability
-7. Affiliate opportunity
-
-Trust is the most valuable asset of PiercingConnect.
+1. Safety  
+2. Scientific evidence  
+3. Professional standards  
+4. User trust  
+5. Product quality  
+6. Availability  
+7. Affiliate opportunity  
 
 ---
 
-## Main Sections
+## Chapter Map
 
-### 01 — Information Architecture
+### Index and Architecture
 
-Defines the structure of the Aftercare Bible.
+| Ch | File | Description |
+|----|------|-------------|
+| 00 | [`00-index.md`](00-index.md) | This index |
+| 01 | [`01-information-architecture.md`](01-information-architecture.md) | Book structure and data layer mapping |
 
-File:
+### Foundation
 
-`01-information-architecture.md`
+| Ch | File | Description |
+|----|------|-------------|
+| 02 | [`02-medical-foundation.md`](02-medical-foundation.md) | Medical reference outline (draft) |
+| 03 | [`03-product-categories.md`](03-product-categories.md) | Navigation → ch. 12 |
+| 07 | [`07-affiliate-strategy.md`](07-affiliate-strategy.md) | Affiliate strategy (see also ch. 07 healing) |
+| 08 | [`08-pcme-publishing.md`](08-pcme-publishing.md) | Navigation → PCME docs |
 
----
+### Knowledge Databases (synced to `data/`)
 
-### 02 — Medical Foundation
+| Ch | File | Data path |
+|----|------|-----------|
+| 04 | [`04-brand-database.md`](04-brand-database.md) | `data/brands/`, `data/products/` |
+| 05 | [`05-problem-database.md`](05-problem-database.md) | `data/problems/` |
+| 06 | [`06-ingredient-database.md`](06-ingredient-database.md) | `data/ingredients/` |
+| 07 | [`07-healing-stages.md`](07-healing-stages.md) | `data/healing-stages/` |
+| 08 | [`08-piercing-types.md`](08-piercing-types.md) | `data/piercing-types/` |
+| 09 | [`09-body-locations.md`](09-body-locations.md) | `data/body-locations/` |
+| 10 | [`10-jewelry-materials.md`](10-jewelry-materials.md) | `data/materials/` |
+| 11 | [`11-jewelry-types.md`](11-jewelry-types.md) | `data/jewelry-types/` |
+| 12 | [`12-product-categories.md`](12-product-categories.md) | `data/product-categories/` |
+| 13 | [`13-seo-clusters.md`](13-seo-clusters.md) | `data/keywords/` |
+| 14 | [`14-supporting-taxonomies.md`](14-supporting-taxonomies.md) | Supporting taxonomies |
 
-Defines the medical and safety principles behind piercing aftercare.
+### Legacy Navigation Slots
 
-File:
-
-`02-medical-foundation.md`
-
----
-
-### 03 — Product Categories
-
-Defines aftercare product categories and how they should be evaluated.
-
-File:
-
-`03-product-categories.md`
-
----
-
-### 04 — Brand Database
-
-Defines global aftercare brands, products, availability, and trust signals.
-
-File:
-
-`04-brand-database.md`
-
----
-
-### 05 — Problem Database
-
-Defines common healing problems and how content should address them.
-
-File:
-
-`05-problem-database.md`
+| File | Points to |
+|------|-----------|
+| [`03-product-categories.md`](03-product-categories.md) | ch. 12 product categories |
+| [`06-seo-clusters.md`](06-seo-clusters.md) | ch. 13 SEO clusters |
 
 ---
 
-### 06 — SEO Clusters
+## Numbering Note
 
-Defines keyword groups, buyer intent, and content opportunities.
-
-File:
-
-`06-seo-clusters.md`
-
----
-
-### 07 — Affiliate Strategy
-
-Defines how affiliate opportunities are evaluated without compromising trust.
-
-File:
-
-`07-affiliate-strategy.md`
-
----
-
-### 08 — PCME Publishing
-
-Defines how PC Media Engine should transform this knowledge into publishable content.
-
-File:
-
-`08-pcme-publishing.md`
-
----
-
-## Long-Term Goal
-
-Create the world's most complete commercial knowledge base for piercing aftercare.
-
-This knowledge base will support:
-
-- safe piercing education
-- search visibility
-- affiliate revenue
-- AI-assisted publishing
-- digital products
-- premium education
-- future multilingual content
+Chapters 06–08 serve **dual roles**: foundation topics (original outline) and knowledge databases (MVP sprints). Foundation content for affiliate (07) and PCME (08 nav file) coexists with healing stages and piercing types at the same numbers. See [`01-information-architecture.md`](01-information-architecture.md).
 
 ---
 
 ## Related Commerce Books
 
-- Book 2 — Jewelry Bible
-- Book 3 — Professional Studio Bible
-- Book 4 — Healing & Lifestyle Bible
-- Book 5 — Affiliate & Revenue Bible
+- Book 2 — Jewelry Bible  
+- Book 3 — Professional Studio Bible  
+- Book 4 — Healing & Lifestyle Bible  
+- Book 5 — Affiliate & Revenue Bible  
 
 ---
 
-## Current Status
+## Repository Status
 
-Current phase:
+**Phase:** v1.0 stabilized — Knowledge Core MVP complete, templates and taxonomies in place.
 
-Repository Foundation
+**Next:** Revenue Engine / PCME integration per [`docs/roadmap.md`](../../docs/roadmap.md).
 
-Next document:
+---
 
-`01-information-architecture.md`
+## Quick Links
+
+- AI guide: [`docs/ai-developer-guide.md`](../../docs/ai-developer-guide.md)  
+- Content generation: [`docs/content-generation-architecture.md`](../../docs/content-generation-architecture.md)  
+- Standards: [`standards/`](../../standards/)  
