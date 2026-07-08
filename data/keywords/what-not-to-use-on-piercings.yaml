@@ -1,0 +1,50 @@
+id: what-not-to-use-on-piercings
+slug: what-not-to-use-on-piercings
+primary_keyword: what not to use on piercings
+search_intent: informational
+funnel_stage: awareness
+summary: Safety-first educational cluster listing products and ingredients to avoid on healing piercings per APP aftercare and troubleshooting guidance.
+user_problem: What products should I avoid putting on my healing piercing?
+related_piercing_types:
+- helix
+- nostril
+- lobe
+- navel
+- septum
+- tongue
+- labret
+related_products: []
+related_brands: []
+related_ingredients:
+- alcohol
+- hydrogen-peroxide
+- tea-tree-oil
+- benzalkonium-chloride
+- sea-salt
+related_problems:
+- overcleaning
+- allergic-reaction
+- delayed-healing
+- dryness
+- infection-concern
+recommended_content_types:
+- aftercare-guide
+- faq-page
+- pinterest-pin
+- youtube-script
+safety_notes:
+- Pure safety content—affiliate CTAs should be minimal or absent
+- 'List APP-not-recommended items: alcohol, peroxide, harsh antiseptics, inappropriate ointments'
+- Do not shame users; explain why alternatives are preferred
+- Link to ingredient records for evidence-backed detail
+affiliate_opportunity: low
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
+- standards-evidence-policy

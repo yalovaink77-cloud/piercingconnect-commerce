@@ -1,0 +1,161 @@
+schema_version: "1.0"
+
+entity: keyword-cluster
+
+description: >
+  Defines the standard structure for SEO keyword cluster records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - primary_keyword
+  - search_intent
+  - funnel_stage
+  - summary
+  - user_problem
+  - related_piercing_types
+  - related_products
+  - related_brands
+  - related_ingredients
+  - related_problems
+  - recommended_content_types
+  - safety_notes
+  - affiliate_opportunity
+  - priority
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the keyword cluster.
+    example: best-saline-spray-for-piercings
+
+  slug:
+    type: string
+    description: URL-safe cluster identifier matching id.
+    example: best-saline-spray-for-piercings
+
+  primary_keyword:
+    type: string
+    description: Primary target search phrase for the cluster.
+    example: best saline spray for piercings
+
+  search_intent:
+    type: string
+    allowed:
+      - informational
+      - commercial
+      - transactional
+      - comparison
+      - local
+      - urgent-problem-solving
+    description: Why the user is searching per taxonomy search intent types.
+
+  funnel_stage:
+    type: string
+    allowed:
+      - awareness
+      - consideration
+      - decision
+      - problem-urgency
+      - retention
+    description: Editorial funnel stage estimate. Not conversion rate data.
+
+  summary:
+    type: string
+    description: Neutral cluster overview for editors and PC Media Engine.
+
+  user_problem:
+    type: string
+    description: Underlying question or need driving the search.
+
+  related_piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs relevant to this cluster.
+
+  related_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs relevant to this cluster.
+
+  related_brands:
+    type: array
+    items:
+      type: string
+    description: Brand IDs relevant to this cluster.
+
+  related_ingredients:
+    type: array
+    items:
+      type: string
+    description: Ingredient IDs relevant to this cluster.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs relevant to this cluster.
+
+  recommended_content_types:
+    type: array
+    items:
+      type: string
+    description: Suggested publishable content formats for this cluster.
+
+  safety_notes:
+    type: array
+    items:
+      type: string
+    description: Editorial safety requirements. Must override affiliate placement.
+
+  affiliate_opportunity:
+    type: string
+    allowed:
+      - low
+      - moderate
+      - high
+    description: >
+      Editorial commercial opportunity estimate. No search volume or CPC data.
+
+  priority:
+    type: string
+    allowed:
+      - low
+      - medium
+      - high
+      - critical
+    description: Editorial publishing priority estimate.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the cluster.

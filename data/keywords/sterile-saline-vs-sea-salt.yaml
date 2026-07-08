@@ -1,0 +1,54 @@
+id: sterile-saline-vs-sea-salt
+slug: sterile-saline-vs-sea-salt
+primary_keyword: sterile saline vs sea salt
+search_intent: comparison
+funnel_stage: consideration
+summary: Educational comparison cluster contrasting APP-preferred packaged sterile saline with home sea-salt soaks.
+user_problem: Is sterile saline better than sea salt soaks for piercings?
+related_piercing_types:
+- helix
+- nostril
+- navel
+- lobe
+- septum
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+- h2ocean-piercing-aftercare-spray
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+- h2ocean
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+- sea-salt
+related_problems:
+- overcleaning
+- moisture-irritation
+- infection-concern
+- undercleaning
+recommended_content_types:
+- comparison-article
+- faq-page
+- aftercare-guide
+safety_notes:
+- APP recommends packaged sterile saline over home sea-salt mixes
+- Home mixing risks wrong concentration and non-sterile water
+- Sea-salt products in commercial sprays still require individual ingredient review
+- Safety conclusion precedes any product affiliate recommendation
+affiliate_opportunity: moderate
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
+- app-piercing-faq

@@ -1,0 +1,59 @@
+id: best-saline-spray-for-piercings
+slug: best-saline-spray-for-piercings
+primary_keyword: best saline spray for piercings
+search_intent: commercial
+funnel_stage: consideration
+summary: Commercial-intent cluster for users comparing sterile saline aftercare sprays. Content must lead with APP-aligned isotonic saline criteria and individual product trust scores—not affiliate availability alone.
+user_problem: Which packaged saline spray is appropriate and trustworthy for healing piercings?
+related_piercing_types:
+- helix
+- nostril
+- lobe
+- navel
+- septum
+- conch
+- tragus
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+- h2ocean-piercing-aftercare-spray
+- base-laboratories-piercing-aftercare-spray
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+- h2ocean
+- base-laboratories
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+- sea-salt
+- purified-water
+related_problems:
+- undercleaning
+- overcleaning
+- infection-concern
+recommended_content_types:
+- buying-guide
+- product-review
+- comparison-article
+- faq-page
+safety_notes:
+- Lead with APP preference for packaged sterile saline labeled for wound washing
+- Compare ingredients and sterility claims; do not rank by commission
+- Note that simple isotonic saline may be equivalent across brands when formulation matches
+- Disclose affiliate relationships when products are linked
+affiliate_opportunity: high
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
+- taxonomy-keyword-cluster

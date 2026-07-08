@@ -1,0 +1,48 @@
+id: neilmed-vs-h2ocean
+slug: neilmed-vs-h2ocean
+primary_keyword: NeilMed vs H2Ocean
+search_intent: comparison
+funnel_stage: consideration
+summary: Comparison cluster for two widely discussed aftercare spray brands. Must compare ingredients, sterility, and trust scores—not brand popularity alone.
+user_problem: Should I choose NeilMed or H2Ocean for piercing aftercare?
+related_piercing_types:
+- helix
+- nostril
+- lobe
+- navel
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- h2ocean-piercing-aftercare-spray
+related_brands:
+- neilmed
+- h2ocean
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+- sea-salt
+- purified-water
+- lysozyme
+related_problems:
+- allergic-reaction
+- undercleaning
+- overcleaning
+recommended_content_types:
+- comparison-article
+- product-review
+- faq-page
+safety_notes:
+- Present structured product data from repository trust scores and ingredients
+- APP baseline is packaged sterile isotonic saline—note formulation differences honestly
+- Do not declare a winner based on affiliate commission
+- Acknowledge simple sterile saline alternatives exist beyond these two brands
+affiliate_opportunity: high
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- official-neilmed
+- official-h2ocean

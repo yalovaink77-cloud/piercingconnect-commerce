@@ -1,0 +1,49 @@
+id: piercing-aftercare-mist
+slug: piercing-aftercare-mist
+primary_keyword: piercing aftercare mist
+search_intent: commercial
+funnel_stage: consideration
+summary: Commercial cluster for fine-mist saline aftercare sprays. NeilMed is a common reference product; content must generalize criteria for any sterile mist product.
+user_problem: Which fine-mist spray is best for convenient piercing aftercare?
+related_piercing_types:
+- helix
+- nostril
+- lobe
+- conch
+- tragus
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- base-laboratories-piercing-aftercare-spray
+- steri-wash-saline-spray
+- recovery-sterile-saline-wash-7-4oz
+related_brands:
+- neilmed
+- base-laboratories
+- steri-wash
+- recovery-aftercare
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+- purified-water
+related_problems:
+- undercleaning
+- overcleaning
+recommended_content_types:
+- product-review
+- buying-guide
+- comparison-article
+safety_notes:
+- Mist applicator is convenience feature; formulation and sterility matter more
+- Compare ingredient lists—not only spray mechanism
+- Disclose affiliate links on product reviews
+- Other sterile saline sprays with only water and 0.9% sodium chloride may be equivalent per community and professional notes
+affiliate_opportunity: high
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting

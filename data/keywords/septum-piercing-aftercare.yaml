@@ -1,0 +1,47 @@
+id: septum-piercing-aftercare
+slug: septum-piercing-aftercare
+primary_keyword: septum piercing aftercare
+search_intent: informational
+funnel_stage: awareness
+summary: Informational cluster for septum piercing aftercare including saline rinsing and minimizing unnecessary jewelry movement.
+user_problem: How do I clean a new septum piercing and manage early swelling?
+related_piercing_types:
+- septum
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- swelling
+- crusting
+- irritation-bump
+- snagging
+recommended_content_types:
+- aftercare-guide
+- faq-page
+- pinterest-pin
+safety_notes:
+- Use sterile saline; avoid flipping jewelry excessively during early healing
+- Diameter and fit should be assessed by piercer after swelling
+- Do not confuse septum irritation with unrelated sinus symptoms without professional context
+- Affiliate product mentions follow aftercare fundamentals
+affiliate_opportunity: moderate
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
+- app-piercing-faq

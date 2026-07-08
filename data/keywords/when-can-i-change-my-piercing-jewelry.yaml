@@ -1,0 +1,45 @@
+id: when-can-i-change-my-piercing-jewelry
+slug: when-can-i-change-my-piercing-jewelry
+primary_keyword: when can I change my piercing jewelry
+search_intent: informational
+funnel_stage: consideration
+summary: Informational cluster about jewelry change timing. Must emphasize piercer assessment and healing stage variability—not fixed week counts.
+user_problem: When is it safe to change piercing jewelry?
+related_piercing_types:
+- helix
+- nostril
+- lobe
+- septum
+- navel
+- nipple
+- tongue
+- labret
+related_products: []
+related_brands: []
+related_ingredients: []
+related_problems:
+- jewelry-quality-issue
+- delayed-healing
+- embedded-jewelry
+- migration
+- infection-concern
+recommended_content_types:
+- faq-page
+- aftercare-guide
+- problem-guide
+safety_notes:
+- Do not publish fixed universal timelines as guarantees
+- Recommend professional jewelry changes during early healing
+- Changing jewelry too early may cause trauma and complications
+- Jewelry commerce CTAs must not encourage premature changes
+affiliate_opportunity: moderate
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-initial-jewelry
+- app-troubleshooting

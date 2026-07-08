@@ -1,0 +1,52 @@
+id: piercing-swelling
+slug: piercing-swelling
+primary_keyword: piercing swelling
+search_intent: urgent-problem-solving
+funnel_stage: problem-urgency
+summary: Problem cluster for swelling after piercing. Must explain early swelling may be common while flagging worsening or embedding signs.
+user_problem: Is swelling normal after a piercing and when should I worry?
+related_piercing_types:
+- helix
+- nostril
+- septum
+- tongue
+- labret
+- navel
+- nipple
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- swelling
+- embedded-jewelry
+- pressure-irritation
+- infection-concern
+recommended_content_types:
+- problem-guide
+- faq-page
+safety_notes:
+- Early swelling may occur; worsening after first days may need assessment
+- Jewelry too short may embed—seek piercer if tightness develops
+- Do not diagnose infection from swelling alone
+- Compress comfort mentions are secondary to professional assessment
+affiliate_opportunity: low
+priority: high
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-troubleshooting
+- app-aftercare
+- app-piercing-faq

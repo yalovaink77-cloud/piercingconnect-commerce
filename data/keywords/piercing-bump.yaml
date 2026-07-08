@@ -1,0 +1,55 @@
+id: piercing-bump
+slug: piercing-bump
+primary_keyword: piercing bump
+search_intent: urgent-problem-solving
+funnel_stage: problem-urgency
+summary: High-caution problem cluster for users worried about raised tissue near a piercing. Must distinguish irritation bump from infection concern using APP troubleshooting framing without diagnosing.
+user_problem: Why is there a bump near my piercing and what should I do?
+related_piercing_types:
+- helix
+- nostril
+- high-nostril
+- tragus
+- conch
+- daith
+- navel
+- labret
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- irritation-bump
+- jewelry-quality-issue
+- sleeping-irritation
+- snagging
+- overcleaning
+recommended_content_types:
+- problem-guide
+- faq-page
+- pinterest-pin
+safety_notes:
+- Do not diagnose; irritation bumps are commonly mechanical per professional guidance
+- Do not recommend tea tree oil, harsh antiseptics, or unprescribed treatments as primary fixes
+- Encourage piercer assessment; medical evaluation when infection concern signs appear
+- Affiliate product links secondary to removing irritation triggers
+affiliate_opportunity: moderate
+priority: critical
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-troubleshooting
+- app-aftercare
+- app-piercing-faq

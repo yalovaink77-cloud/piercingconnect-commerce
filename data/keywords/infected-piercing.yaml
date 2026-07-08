@@ -1,0 +1,53 @@
+id: infected-piercing
+slug: infected-piercing
+primary_keyword: infected piercing
+search_intent: urgent-problem-solving
+funnel_stage: problem-urgency
+summary: Highest-caution cluster for users fearing infection. Content must not confirm infection online and must encourage professional evaluation when concerning signs appear.
+user_problem: Is my piercing infected and what should I do right now?
+related_piercing_types:
+- helix
+- nostril
+- navel
+- nipple
+- tongue
+- septum
+- lobe
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- infection-concern
+- swelling
+- redness
+- bleeding
+- embedded-jewelry
+recommended_content_types:
+- problem-guide
+- faq-page
+safety_notes:
+- Never state "this is infected" in content generated from this cluster
+- 'Use cautious language: may be a sign of, could indicate, consider professional evaluation'
+- Minimize affiliate CTAs; safety and referral language take precedence
+- Distinguish normal early healing signs from concern signs without false reassurance
+affiliate_opportunity: low
+priority: critical
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-troubleshooting
+- app-piercing-faq
+- standards-evidence-policy

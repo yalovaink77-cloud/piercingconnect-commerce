@@ -1,0 +1,51 @@
+id: piercing-crust
+slug: piercing-crust
+primary_keyword: piercing crust
+search_intent: informational
+funnel_stage: awareness
+summary: Informational cluster explaining normal crusting versus concern signs during healing.
+user_problem: Is crust around my piercing normal and how should I clean it?
+related_piercing_types:
+- helix
+- nostril
+- lobe
+- navel
+- septum
+- labret
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- easypiercing-saline-solution-50ml
+related_brands:
+- neilmed
+- recovery-aftercare
+- steri-wash
+- easypiercing-care-lab
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- crusting
+- overcleaning
+- undercleaning
+- infection-concern
+recommended_content_types:
+- faq-page
+- problem-guide
+- pinterest-pin
+safety_notes:
+- Crusting may be normal during healing; do not diagnose infection from crust alone
+- Spray saline and gently rinse; avoid picking or forcibly removing crust
+- Thick colored discharge with other concern signs requires professional evaluation
+- Do not recommend picking, alcohol, or peroxide to remove crust
+affiliate_opportunity: low
+priority: medium
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial MVP SEO cluster from APP aftercare guidance and taxonomy. Requires keyword research validation before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
