@@ -1,0 +1,53 @@
+id: neilmed-piercing-aftercare-fine-mist
+slug: neilmed-piercing-aftercare-fine-mist
+
+name: NeilMed Piercing Aftercare Fine Mist
+
+brand: neilmed
+
+category: sterile-saline-spray
+
+status: draft
+
+ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+
+preservative_free: true
+sterile: true
+drug_free: true
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+recommended_for:
+  - ear-piercings
+  - nose-piercings
+  - oral-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - 75ml
+  - 177ml
+
+affiliate:
+  available: true
+
+trust:
+  score: 92
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: neilmed
+
+related_products: []
+
+sources:
+  - official-neilmed
