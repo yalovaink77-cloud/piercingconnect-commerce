@@ -1,0 +1,25 @@
+id: steri-wash
+slug: steri-wash
+
+name: Steri-Wash
+
+entity_type: manufacturer
+
+status: draft
+
+product_categories:
+  - sterile-saline-spray
+
+products:
+  - steri-wash-saline-spray
+
+trust:
+  score: 88
+  level: high
+
+affiliate:
+  has_affiliate_opportunity: true
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08

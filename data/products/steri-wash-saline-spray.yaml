@@ -1,0 +1,29 @@
+id: steri-wash-saline-spray
+slug: steri-wash-saline-spray
+
+name: Steri-Wash Saline Spray
+
+brand: steri-wash
+
+category: sterile-saline-spray
+
+status: draft
+
+ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+
+sterile: true
+preservative_free: true
+drug_free: true
+
+trust:
+  score: 89
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+sources:
+  - official-steri-wash
