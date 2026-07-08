@@ -1,0 +1,49 @@
+id: inverness-ear-care-solution
+slug: inverness-ear-care-solution
+
+name: Inverness Ear Care Solution
+
+brand: inverness-aftercare
+
+category: antiseptic-aftercare
+
+status: draft
+
+ingredients:
+  - purified-water
+  - benzalkonium-chloride
+
+sterile: false
+preservative_free: unknown
+drug_free: unknown
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+
+recommended_for:
+  - ear-piercings
+
+not_recommended_for:
+  - general-body-piercing-guidance-pending-review
+
+available_sizes:
+  - unknown
+
+affiliate:
+  available: false
+
+trust:
+  score: 76
+  level: medium
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: inverness-aftercare
+
+related_products: []
+
+sources:
+  - official-inverness

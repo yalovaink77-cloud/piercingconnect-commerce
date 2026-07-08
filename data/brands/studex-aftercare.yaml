@@ -1,0 +1,97 @@
+id: studex-aftercare
+slug: studex-aftercare
+
+name: Studex Aftercare
+
+legal_name: unknown
+
+entity_type: manufacturer
+
+status: draft
+
+website: https://studex.com
+
+headquarters:
+  country: United States
+  region: California
+  city: Gardena
+
+founded: 1976
+
+description: >
+  Aftercare product line from STUDEX, a global ear piercing systems manufacturer,
+  including hypochlorous-based Advanced 2-in-1 cleanser, after piercing lotion,
+  and piercing care gel for retail and professional ear piercing contexts.
+
+product_categories:
+  - piercing-aftercare
+  - hypochlorous-aftercare
+  - ear-piercing-aftercare
+
+products:
+  - studex-advanced-2-in-1-piercing-aftercare-cleanser
+
+available_regions:
+  - United States
+  - international-via-studex-network
+
+professional_relevance:
+  used_by_professionals: true
+  notes: >
+    Widely distributed through ear piercing retail channels and STUDEX partner
+    networks globally.
+
+certifications: []
+
+trust:
+  score: 83
+  level: high
+  notes: >
+    High trust for retail ear piercing aftercare based on established brand,
+    dermatologist testing claims, and cGMP manufacturing. Hypochlorous formula
+    is not sterile saline.
+
+affiliate:
+  has_affiliate_opportunity: false
+  notes: >
+    No official affiliate program confirmed during initial review.
+
+risks:
+  - not-sterile-saline
+  - primarily-ear-piercing-focused
+  - healing-timeline-marketing-requires-editorial-caution
+  - legal-entity-name-unverified
+
+alternatives:
+  - inverness-aftercare
+  - neilmed
+
+source_notes:
+  - Official STUDEX product page confirms ingredients and product claims.
+  - Official STUDEX about and contact pages confirm founding year and headquarters.
+  - European STUDEX site confirms global distribution context.
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record from official sources. Requires deeper review
+    before being marked active.
+
+content_opportunities:
+  - type: brand_profile
+    priority: high
+    notes: Studex Aftercare profile for retail ear piercing market.
+  - type: product_review
+    priority: high
+    notes: Advanced 2-in-1 Piercing Aftercare & Cleanser product review.
+  - type: comparison
+    priority: high
+    notes: Studex Advanced vs Inverness Ear Care Solution comparison.
+  - type: buyer_guide
+    priority: medium
+    notes: Mall and retail ear piercing aftercare buyer guide.
+  - type: faq
+    priority: medium
+    notes: Hypochlorous vs saline aftercare FAQ for ear piercings.

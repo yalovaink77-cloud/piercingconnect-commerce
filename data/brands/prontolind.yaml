@@ -1,0 +1,98 @@
+id: prontolind
+slug: prontolind
+
+name: Prontolind
+
+legal_name: Prontomed GmbH
+
+entity_type: manufacturer
+
+status: draft
+
+website: https://www.prontolind.de/en/
+
+headquarters:
+  country: Germany
+  region: North Rhine-Westphalia
+  city: Hiddenhausen
+
+founded: 2007
+
+description: >
+  German professional tattoo and piercing aftercare brand manufactured by
+  Prontomed GmbH, based on polyhexanide-betaine antimicrobial technology and
+  widely used in European studios and pharmacies.
+
+product_categories:
+  - piercing-aftercare
+  - antimicrobial-aftercare
+  - tattoo-aftercare
+
+products:
+  - prontolind-spray-75ml
+
+available_regions:
+  - Germany
+  - European Union
+  - international-via-distributors
+
+professional_relevance:
+  used_by_professionals: true
+  notes: >
+    Leading European studios recommend Prontolind per manufacturer documentation.
+    Strong professional-channel positioning.
+
+certifications:
+  - din-iso-9001-en-13485
+  - gmp-manufacturing
+
+trust:
+  score: 86
+  level: high
+  notes: >
+    High trust for European professional use based on medical-device positioning,
+    GMP manufacturing, and established studio adoption. Not a sterile saline product.
+
+affiliate:
+  has_affiliate_opportunity: false
+  notes: >
+    No official affiliate program confirmed during initial review.
+
+risks:
+  - not-sterile-saline
+  - limited-us-availability-unverified
+  - antimicrobial-ingredients-require-editorial-caution
+
+alternatives:
+  - easypiercing-care-lab
+  - neilmed
+
+source_notes:
+  - Official Prontolind website confirms manufacturer, certifications, and product claims.
+  - Official Prontomed press area confirms company founding and product launch timeline.
+  - Prontolind Spray product page confirms EAN and primary use case.
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record from official sources. Requires deeper review
+    before being marked active.
+
+content_opportunities:
+  - type: brand_profile
+    priority: high
+    notes: Prontolind is a key European professional aftercare brand profile.
+  - type: product_review
+    priority: high
+    notes: Prontolind Spray 75ml dedicated product review.
+  - type: comparison
+    priority: high
+    notes: Prontolind vs sterile saline aftercare comparison for European readers.
+  - type: buyer_guide
+    priority: medium
+    notes: Professional studio aftercare buyer guide for EU market.
+  - type: faq
+    priority: medium
+    notes: Polyhexanide aftercare FAQ for professional and consumer audiences.

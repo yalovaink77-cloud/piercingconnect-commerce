@@ -1,0 +1,50 @@
+id: studex-advanced-2-in-1-piercing-aftercare-cleanser
+slug: studex-advanced-2-in-1-piercing-aftercare-cleanser
+
+name: STUDEX Advanced 2-in-1 Piercing Aftercare & Cleanser
+
+brand: studex-aftercare
+
+category: hypochlorous-aftercare
+
+status: draft
+
+ingredients:
+  - water
+  - sodium-hypochlorite
+  - phosphoric-acid
+
+sterile: false
+preservative_free: unknown
+drug_free: unknown
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+
+recommended_for:
+  - ear-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - unknown
+
+affiliate:
+  available: false
+
+trust:
+  score: 83
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: studex-aftercare
+
+related_products: []
+
+sources:
+  - official-studex

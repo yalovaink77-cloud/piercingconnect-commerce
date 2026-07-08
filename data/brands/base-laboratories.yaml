@@ -1,0 +1,98 @@
+id: base-laboratories
+slug: base-laboratories
+
+name: Base Laboratories
+
+legal_name: unknown
+
+entity_type: manufacturer
+
+status: draft
+
+website: https://baselaboratories.com
+
+headquarters:
+  country: United States
+  region: California
+  city: Los Angeles
+
+founded: unknown
+
+description: >
+  Los Angeles–based manufacturer of OTC health, wellness, and cosmetic products
+  with a dedicated piercing aftercare line including saline sprays, hypochlorous
+  acid sprays, and bump care products marketed under the Base Labs brand.
+
+product_categories:
+  - piercing-aftercare
+  - saline-spray
+  - hypochlorous-acid-spray
+  - bump-care
+
+products:
+  - base-laboratories-piercing-aftercare-spray
+
+available_regions:
+  - United States
+  - Canada
+  - international-via-online-store
+
+professional_relevance:
+  used_by_professionals: unknown
+  notes: >
+    Base Labs markets products to studios on official site. Professional adoption
+    level not independently verified.
+
+certifications: []
+
+trust:
+  score: 74
+  level: medium
+  notes: >
+    Medium trust pending review. Primary saline spray contains botanical additives
+    beyond simple sterile saline, requiring careful editorial positioning.
+
+affiliate:
+  has_affiliate_opportunity: false
+  notes: >
+    No official direct affiliate program confirmed during initial review.
+
+risks:
+  - enhanced-formula-not-simple-sterile-saline
+  - founded-year-unverified
+  - legal-company-name-unverified
+
+alternatives:
+  - neilmed
+  - recovery-aftercare
+  - steri-wash
+
+source_notes:
+  - Official Base Laboratories website confirms Los Angeles location and product line.
+  - Official product page documents ingredients for Piercing Aftercare Spray.
+  - Marketplace listings treated as secondary evidence only.
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record from official sources. Requires deeper review
+    before being marked active.
+
+content_opportunities:
+  - type: brand_profile
+    priority: high
+    notes: Base Labs is a strong candidate for enhanced-formula vs simple saline education.
+  - type: product_review
+    priority: high
+    notes: Piercing Aftercare Spray requires ingredient-focused review.
+  - type: comparison
+    priority: high
+    notes: Base Labs vs NeilMed vs Recovery sterile saline comparison.
+  - type: buyer_guide
+    priority: medium
+    notes: Suitable for piercing aftercare spray buyer guides with ingredient caveats.
+  - type: faq
+    priority: medium
+    notes: Useful for questions about tea tree oil and added ingredients in aftercare.

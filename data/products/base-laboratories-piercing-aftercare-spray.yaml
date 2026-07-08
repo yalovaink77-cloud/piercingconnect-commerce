@@ -1,0 +1,56 @@
+id: base-laboratories-piercing-aftercare-spray
+slug: base-laboratories-piercing-aftercare-spray
+
+name: Base Labs Piercing Aftercare Spray
+
+brand: base-laboratories
+
+category: saline-spray
+
+status: draft
+
+ingredients:
+  - usp-grade-water
+  - sodium-chloride
+  - tea-tree-oil
+  - allantoin
+  - aloe-vera
+  - rosemary-leaf-oil
+  - panthenol
+
+sterile: unknown
+preservative_free: unknown
+drug_free: unknown
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+recommended_for:
+  - ear-piercings
+  - nose-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - unknown
+
+affiliate:
+  available: false
+
+trust:
+  score: 72
+  level: medium
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: base-laboratories
+
+related_products: []
+
+sources:
+  - official-base-laboratories

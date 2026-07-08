@@ -1,0 +1,97 @@
+id: recovery-aftercare
+slug: recovery-aftercare
+
+name: Recovery Aftercare
+
+legal_name: unknown
+
+entity_type: manufacturer
+
+status: draft
+
+website: https://recoveryaftercare.com
+
+headquarters:
+  country: United States
+  region: unknown
+  city: unknown
+
+founded: 2011
+
+description: >
+  US tattoo and piercing aftercare brand offering sterile saline washes, soaps,
+  oils, and related recovery products with vegan-friendly and environmentally
+  conscious positioning, widely used in professional supply channels.
+
+product_categories:
+  - piercing-aftercare
+  - sterile-saline-spray
+  - tattoo-aftercare
+
+products:
+  - recovery-sterile-saline-wash-7-4oz
+
+available_regions:
+  - United States
+  - international-via-distributors
+
+professional_relevance:
+  used_by_professionals: true
+  notes: >
+    Trusted by tattoo and piercing professionals per official about page.
+    Distributed through professional wholesale suppliers.
+
+certifications: []
+
+trust:
+  score: 87
+  level: high
+  notes: >
+    High trust for sterile saline positioning, cGMP US manufacturing, and
+    professional channel adoption. Exact ingredient specification pending SDS review.
+
+affiliate:
+  has_affiliate_opportunity: unknown
+  notes: >
+    Official site mentions distributor, affiliate, and partner resources but
+    program details were not verified during initial review.
+
+risks:
+  - headquarters-unverified
+  - legal-company-name-unverified
+  - exact-saline-concentration-pending-sds-review
+
+alternatives:
+  - neilmed
+  - steri-wash
+  - h2ocean
+
+source_notes:
+  - Official Recovery Aftercare about page confirms founding year and brand mission.
+  - Official product page confirms sterile saline wash specifications and cGMP production.
+  - Wholesale distributor presence noted as secondary evidence only.
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record from official sources. Requires deeper review
+    before being marked active.
+
+content_opportunities:
+  - type: brand_profile
+    priority: high
+    notes: Recovery Aftercare profile for professional supply channel.
+  - type: product_review
+    priority: high
+    notes: Sterile Saline Wash 7.4oz dedicated product review.
+  - type: comparison
+    priority: high
+    notes: Recovery vs NeilMed vs Steri-Wash sterile saline comparison.
+  - type: buyer_guide
+    priority: high
+    notes: Best sterile saline for professional piercers buyer guide.
+  - type: faq
+    priority: medium
+    notes: Sterile vs purified saline FAQ.

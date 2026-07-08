@@ -1,0 +1,52 @@
+id: easypiercing-saline-solution-50ml
+slug: easypiercing-saline-solution-50ml
+
+name: OTZI By Easypiercing Saline Solution 50ml
+
+brand: easypiercing-care-lab
+
+category: saline-spray
+
+status: draft
+
+ingredients:
+  - water
+  - sodium-chloride
+  - nitrogen
+
+sterile: unknown
+preservative_free: unknown
+drug_free: true
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+recommended_for:
+  - ear-piercings
+  - nose-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - 50ml
+
+affiliate:
+  available: false
+
+trust:
+  score: 80
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: easypiercing-care-lab
+
+related_products: []
+
+sources:
+  - official-otzi

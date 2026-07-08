@@ -1,0 +1,51 @@
+id: prontolind-spray-75ml
+slug: prontolind-spray-75ml
+
+name: Prontolind Spray 75ml
+
+brand: prontolind
+
+category: antimicrobial-aftercare
+
+status: draft
+
+ingredients:
+  - polyhexanide-betaine-complex
+
+sterile: false
+preservative_free: unknown
+drug_free: unknown
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+recommended_for:
+  - ear-piercings
+  - nose-piercings
+  - oral-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - 75ml
+
+affiliate:
+  available: false
+
+trust:
+  score: 86
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: prontolind
+
+related_products: []
+
+sources:
+  - official-prontolind

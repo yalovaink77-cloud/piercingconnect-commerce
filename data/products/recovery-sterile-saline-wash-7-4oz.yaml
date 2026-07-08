@@ -1,0 +1,52 @@
+id: recovery-sterile-saline-wash-7-4oz
+slug: recovery-sterile-saline-wash-7-4oz
+
+name: Recovery Sterile Saline Wash 7.4oz
+
+brand: recovery-aftercare
+
+category: sterile-saline-spray
+
+status: draft
+
+ingredients:
+  - sterile-saline
+
+sterile: true
+preservative_free: true
+drug_free: true
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+recommended_for:
+  - ear-piercings
+  - nose-piercings
+  - oral-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - 7.4oz
+  - 1.5oz
+
+affiliate:
+  available: unknown
+
+trust:
+  score: 87
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: recovery-aftercare
+
+related_products: []
+
+sources:
+  - official-recovery-aftercare

@@ -1,0 +1,98 @@
+id: easypiercing-care-lab
+slug: easypiercing-care-lab
+
+name: EasyPiercing Care Lab
+
+legal_name: Medical Body Art
+
+entity_type: manufacturer
+
+status: draft
+
+website: https://www.otzi.fr/en/
+
+headquarters:
+  country: France
+  region: unknown
+  city: unknown
+
+founded: unknown
+
+description: >
+  Professional piercing aftercare brand developed by Medical Body Art and marketed
+  under the OTZI by Easypiercing line, offering studio-oriented saline spray,
+  cleansing gel, antibacterial solution, and complete care kits.
+
+product_categories:
+  - piercing-aftercare
+  - saline-spray
+  - cleansing-gel
+  - antibacterial-solution
+
+products:
+  - easypiercing-saline-solution-50ml
+
+available_regions:
+  - France
+  - European Union
+  - international-via-distributors
+
+professional_relevance:
+  used_by_professionals: true
+  notes: >
+    B2B distribution model with carton pricing on official site. Care kit developed
+    in collaboration with healthcare professionals per official product page.
+
+certifications: []
+
+trust:
+  score: 81
+  level: high
+  notes: >
+    High trust for European professional studio use. Saline product is simple
+    water and sodium chloride; sterility status not confirmed on official page.
+
+affiliate:
+  has_affiliate_opportunity: false
+  notes: >
+    Professional distributor model on official site. No consumer affiliate program
+    confirmed during initial review.
+
+risks:
+  - sterility-status-unverified
+  - headquarters-details-unverified
+  - companion-products-contain-chlorhexidine-and-alcohol
+
+alternatives:
+  - prontolind
+  - neilmed
+
+source_notes:
+  - Official OTZI website confirms saline product ingredients and professional positioning.
+  - Official SDS PDF confirms aerosol packaging with nitrogen propellant.
+  - Third-party distributor sites treated as secondary evidence only.
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record from official sources. Requires deeper review
+    before being marked active.
+
+content_opportunities:
+  - type: brand_profile
+    priority: high
+    notes: EasyPiercing Care Lab profile for European professional market.
+  - type: product_review
+    priority: high
+    notes: Saline Solution 50ml product review.
+  - type: comparison
+    priority: medium
+    notes: EasyPiercing vs Prontolind professional aftercare comparison.
+  - type: buyer_guide
+    priority: medium
+    notes: Studio aftercare kit buyer guide.
+  - type: faq
+    priority: medium
+    notes: OTZI/EasyPiercing rebrand and kit usage FAQ.

@@ -1,0 +1,96 @@
+id: inverness-aftercare
+slug: inverness-aftercare
+
+name: Inverness Aftercare
+
+legal_name: Inverness Corporation
+
+entity_type: manufacturer
+
+status: draft
+
+website: https://invernesscorp.com
+
+headquarters:
+  country: United States
+  region: Florida
+  city: Tamarac
+
+founded: unknown
+
+description: >
+  Ear care aftercare solution from Inverness Corporation, manufacturer of the
+  Inverness Ear Piercing System, formulated with purified water and benzalkonium
+  chloride for newly pierced ears.
+
+product_categories:
+  - ear-piercing-aftercare
+  - antiseptic-aftercare
+
+products:
+  - inverness-ear-care-solution
+
+available_regions:
+  - United States
+  - international-via-inverness-network
+
+professional_relevance:
+  used_by_professionals: true
+  notes: >
+    Bundled with Inverness ear piercing systems in retail, salon, pharmacy, and
+    medical settings globally.
+
+certifications: []
+
+trust:
+  score: 76
+  level: medium
+  notes: >
+    Medium trust. Established ear piercing brand with official ingredient
+    transparency. Antiseptic formula differs from sterile saline recommendations
+    for general body piercing aftercare.
+
+affiliate:
+  has_affiliate_opportunity: false
+  notes: >
+    No official affiliate program confirmed during initial review.
+
+risks:
+  - not-sterile-saline
+  - benzalkonium-chloride-based
+  - ear-piercing-focused-not-general-body-piercing
+  - founded-year-unverified-on-official-site
+
+alternatives:
+  - studex-aftercare
+  - neilmed
+
+source_notes:
+  - Official Inverness ingredients page confirms water and benzalkonium chloride.
+  - Official Inverness contact page confirms Tamarac, Florida headquarters.
+  - Marketplace FDA claims not used as primary evidence.
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record from official sources. Requires deeper review
+    before being marked active.
+
+content_opportunities:
+  - type: brand_profile
+    priority: medium
+    notes: Inverness Aftercare profile for retail ear piercing context.
+  - type: product_review
+    priority: medium
+    notes: Inverness Ear Care Solution product review with antiseptic framing.
+  - type: comparison
+    priority: high
+    notes: Inverness vs Studex vs sterile saline for ear piercing aftercare.
+  - type: faq
+    priority: high
+    notes: Benzalkonium chloride vs saline aftercare FAQ.
+  - type: buyer_guide
+    priority: low
+    notes: Ear piercing kit aftercare component guide.
