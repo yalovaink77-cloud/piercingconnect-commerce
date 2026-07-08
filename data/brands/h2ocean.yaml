@@ -1,0 +1,50 @@
+id: h2ocean
+slug: h2ocean
+
+name: H2Ocean
+
+legal_name: H2Ocean
+
+entity_type: manufacturer
+
+website: https://h2ocean.com
+
+headquarters:
+  country: United States
+  region: Florida
+  city: Stuart
+
+founded: 2001
+
+description: >
+  Manufacturer of tattoo and piercing aftercare products based on
+  saline and Red Sea Salt formulations.
+
+product_categories:
+  - piercing-aftercare
+  - saline-spray
+  - foam-soap
+  - healing-soak
+
+products:
+  - h2ocean-piercing-aftercare-spray
+
+available_regions:
+  - United States
+  - Canada
+  - Europe
+  - Australia
+
+professional_relevance:
+  used_by_professionals: true
+
+trust:
+  score: 82
+  level: high
+
+affiliate:
+  has_affiliate_opportunity: true
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
