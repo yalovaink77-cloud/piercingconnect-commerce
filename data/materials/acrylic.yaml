@@ -1,0 +1,41 @@
+id: acrylic
+slug: acrylic
+name: Acrylic
+summary: Acrylic is a plastic polymer common in fashion jewelry and some low-cost body jewelry. APP initial jewelry guidance does not list acrylic among materials proven appropriate for fresh body piercings. Acrylic is not inert like implant metals or APP-approved glass types and is generally unsuitable for initial healing channels.
+material_type: polymer
+suitable_for_fresh_piercings: 'false'
+suitable_for_healed_piercings: caution
+allergy_risk: moderate
+biocompatibility_notes: APP-approved initial materials include specific metals, niobium, solid biocompatible gold, platinum, and defined glass types—not acrylic polymers. Acrylic may release chemicals, harbor bacteria on porous or scratched surfaces, and cannot withstand autoclave conditions the way APP-required initial jewelry materials should. Some piercers may discuss acrylic only for fully healed decorative use; that context is piercer-specific and not APP initial jewelry guidance.
+app_alignment: not-recommended
+common_use_cases:
+- Fashion plugs or decorative jewelry sometimes seen in healed stretched lobes—not initial piercing standard
+- Temporary fashion accessories outside APP initial jewelry scope
+- Contexts where professional piercers explicitly advise against use in unhealed piercings
+risks:
+- Not listed by APP as appropriate for fresh piercings
+- Porous or scratched surfaces may harbor bacteria and delay healing
+- May crack, warp, or degrade with heat and cleaning products
+- Mechanical trauma from inflexible or poorly finished acrylic shapes
+- Chemical sensitivity or irritation possible in contact with healing tissue
+related_piercing_types:
+- lobe
+- upper-lobe
+- helix
+- nostril
+- septum
+related_problems:
+- jewelry-quality-issue
+- allergic-reaction
+- delayed-healing
+- infection-concern
+- irritation-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

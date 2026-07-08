@@ -1,0 +1,41 @@
+id: solid-18k-gold
+slug: solid-18k-gold
+name: Solid 18k Gold
+summary: Solid 18 karat gold is softer than 14k gold. APP initial jewelry guidance states gold higher than 18k is too soft for body jewelry because it can easily be scratched or nicked. This record covers solid 18k only; plated gold products are separate and not recommended for fresh piercings.
+material_type: precious-metal
+suitable_for_fresh_piercings: 'false'
+suitable_for_healed_piercings: caution
+allergy_risk: moderate
+biocompatibility_notes: APP allows 14k or higher gold for initial piercings when nickel- and cadmium-free and alloyed for biocompatibility, but notes gold above 18k is too soft. At 18k, APP guidance implies suitability is borderline for mechanical durability in body jewelry. Piercers may prefer 14k for initial wear and reserve higher karat for healed piercings with appropriate design. This is professional guidance, not a product certification.
+app_alignment: not-recommended
+common_use_cases:
+- Healed piercings where client and piercer accept softer metal trade-offs
+- Decorative ends or low-friction placements after professional assessment
+- Not typically recommended as first choice for initial jewelry per APP softness note
+risks:
+- Easier scratching and nicking than 14k gold may affect surface integrity
+- Soft metal may not withstand daily trauma in active piercings
+- Alloy sensitizers still possible if nickel or cadmium are present
+- Marketing as "pure gold" does not override mechanical suitability concerns
+related_piercing_types:
+- lobe
+- upper-lobe
+- nostril
+- helix
+- septum
+- labret
+- medusa
+- philtrum
+related_problems:
+- jewelry-quality-issue
+- allergic-reaction
+- snagging
+- irritation-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting

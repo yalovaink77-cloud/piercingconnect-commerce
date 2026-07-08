@@ -1,0 +1,58 @@
+id: solid-14k-gold
+slug: solid-14k-gold
+name: Solid 14k Gold
+summary: Solid 14 karat gold may be appropriate for initial piercings when it is nickel- and cadmium-free and alloyed for biocompatibility per APP initial jewelry guidance. This record refers to solid gold body jewelry, not plated or gold-filled products. Alloy composition and vendor verification matter because not all gold jewelry meets APP criteria.
+material_type: precious-metal
+suitable_for_fresh_piercings: caution
+suitable_for_healed_piercings: 'true'
+allergy_risk: moderate
+biocompatibility_notes: APP states yellow, rose, or white gold is appropriate for initial piercings if 14k or higher, nickel- and cadmium-free, and alloyed for biocompatibility. Solid gold differs from gold plated, gold-filled, or vermeil jewelry, which APP lists as not acceptable for fresh piercings. PiercingConnect does not certify specific gold alloys; piercers should confirm composition with suppliers.
+app_alignment: acceptable-with-caution
+common_use_cases:
+- Initial or healed jewelry when piercer confirms nickel- and cadmium-free solid alloy
+- Clients preferring precious metal aesthetics in ear, nose, and lip piercings
+- Healed piercings where solid gold meets studio quality standards
+risks:
+- Gold alloys may contain nickel or other sensitizers if not confirmed biocompatible
+- Soft gold can scratch or nick, creating surfaces that may harbor bacteria if poorly maintained
+- Confusion with plated or gold-filled jewelry that is not suitable for fresh piercings
+- Higher cost may lead consumers toward plated alternatives with greater risk
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_problems:
+- allergic-reaction
+- jewelry-quality-issue
+- irritation-bump
+- delayed-healing
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting

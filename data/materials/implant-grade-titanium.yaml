@@ -1,0 +1,60 @@
+id: implant-grade-titanium
+slug: implant-grade-titanium
+name: Implant-Grade Titanium
+summary: Implant-grade titanium is a lightweight metal commonly used for initial body jewelry when it meets recognized ASTM or ISO implant specifications. APP initial jewelry guidance lists implant-certified titanium (such as Ti6Al4V ELI ASTM F-136, ASTM F1295, ISO 5832-3, or commercially pure titanium ASTM F-67) as appropriate for fresh piercings. Marketing labels such as "hypoallergenic titanium" without documented grade do not replace mill test certificates or piercer verification.
+material_type: biocompatible-metal
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+allergy_risk: low
+biocompatibility_notes: APP guidance describes titanium as ideal for people with nickel sensitivity concerns when the material meets implant-grade specifications. Anodization can create color without affecting biocompatibility per APP. Mill test certificates document ASTM or ISO grade designations; presence of documentation indicates a piercer may source from reputable suppliers, but certificates alone cannot verify an individual piece came from that batch. PiercingConnect does not invent or assign certifications to specific products.
+app_alignment: recommended
+common_use_cases:
+- Initial flat-back labret posts for ear and facial piercings
+- Curved and straight barbells for navel, nipple, and oral piercings
+- Threadless and internally threaded body jewelry from professional studios
+- Anodized titanium for color preference after piercer confirms appropriate grade
+risks:
+- Low-quality titanium or undisclosed alloys may still cause irritation in sensitive individuals
+- Anodized color may fade in friction-prone areas; fading is not described as harmful by APP
+- Poor polish, threads, or fit can cause mechanical irritation regardless of material grade
+- Self-purchased jewelry labeled titanium without grade verification may not meet implant standards
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_problems:
+- allergic-reaction
+- jewelry-quality-issue
+- irritation-bump
+- delayed-healing
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

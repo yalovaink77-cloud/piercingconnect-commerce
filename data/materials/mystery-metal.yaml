@@ -1,0 +1,63 @@
+id: mystery-metal
+slug: mystery-metal
+name: Mystery Metal
+summary: Mystery metal is a PiercingConnect editorial term for body or fashion jewelry with unspecified, unverified, or undisclosed alloy composition. APP initial jewelry guidance requires materials with proven biocompatibility and documented grades where applicable; mystery metal fails that standard.
+material_type: unknown-unspecified
+suitable_for_fresh_piercings: 'false'
+suitable_for_healed_piercings: 'false'
+allergy_risk: high
+biocompatibility_notes: APP notes the body jewelry industry is saturated with substandard products and emphasizes cost alone should not drive purchase decisions. Jewelry without mill certs, without piercer verification, or from unverified online sellers often falls into unknown alloy territory. Terms like "hypoallergenic," "surgical," or "premium steel" without ASTM/ISO documentation do not establish biocompatibility. This record educates about material uncertainty; it is not a metallurgical classification.
+app_alignment: not-recommended
+common_use_cases:
+- Inexpensive online body jewelry with unverified composition
+- Mall kiosks, novelty shops, and fashion accessories not from professional studios
+- Butterfly-back earrings and piercing-gun-style jewelry referenced in APP troubleshooting contexts
+risks:
+- Unknown nickel or irritant content may contribute to allergic or irritant reactions
+- No ASTM, ISO, or APP-recognized grade verification
+- Rough machining, external threading, and poor polish common in substandard products
+- Plating over unknown base metals may wear quickly in a healing piercing
+- May contribute to jewelry quality issues, delayed healing, and infection concerns when combined with poor aftercare
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_problems:
+- jewelry-quality-issue
+- allergic-reaction
+- irritation-bump
+- delayed-healing
+- infection-concern
+- rejection
+- migration
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

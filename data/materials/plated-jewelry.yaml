@@ -1,0 +1,61 @@
+id: plated-jewelry
+slug: plated-jewelry
+name: Plated Jewelry
+summary: Plated jewelry—including gold plated, gold-filled, gold overlay, and vermeil—applies a thin surface layer over a base metal. APP initial jewelry guidance explicitly states these are not acceptable for fresh piercings because the coating can wear or chip, exposing underlying alloys.
+material_type: coated-metal
+suitable_for_fresh_piercings: 'false'
+suitable_for_healed_piercings: caution
+allergy_risk: high
+biocompatibility_notes: APP distinguishes solid biocompatible gold from gold plated, gold-filled, or gold overlay/vermeil jewelry. The gold surface is very thin and measured in millionths of an inch; it can wear or chip. Underlying base metals may include nickel or other irritants. Fashion and marketplace listings often use "gold tone" or similar marketing without meeting APP solid gold criteria. PiercingConnect treats plated jewelry as distinct from solid 14k or 18k gold records.
+app_alignment: not-recommended
+common_use_cases:
+- Fashion earrings and costume jewelry not intended for internal long-term wear
+- Marketplace body jewelry where low price reflects plated construction
+- Should not replace implant-grade or APP-listed initial jewelry in healing piercings
+risks:
+- APP lists plated gold products as not acceptable for fresh piercings
+- Coating wear exposes base metal and may cause irritation or staining
+- Nickel or other allergens in base metal may contact tissue after plating failure
+- Rough or chipped plating creates surfaces that may harbor bacteria
+- Green or dark skin staining sometimes reported with plated fashion jewelry
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_problems:
+- allergic-reaction
+- jewelry-quality-issue
+- irritation-bump
+- delayed-healing
+- infection-concern
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

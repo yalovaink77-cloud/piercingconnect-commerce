@@ -1,0 +1,156 @@
+schema_version: "1.0"
+
+entity: material
+
+description: >
+  Defines the standard structure for jewelry material records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - summary
+  - material_type
+  - suitable_for_fresh_piercings
+  - suitable_for_healed_piercings
+  - allergy_risk
+  - biocompatibility_notes
+  - app_alignment
+  - common_use_cases
+  - risks
+  - related_piercing_types
+  - related_problems
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the jewelry material.
+    example: implant-grade-titanium
+
+  slug:
+    type: string
+    description: URL-safe material identifier matching id.
+    example: implant-grade-titanium
+
+  name:
+    type: string
+    description: Human-readable material name.
+    example: Implant-Grade Titanium
+
+  summary:
+    type: string
+    description: >
+      Neutral one- to two-sentence overview distinguishing implant-grade
+      standards from marketing terms.
+
+  material_type:
+    type: string
+    allowed:
+      - biocompatible-metal
+      - precious-metal
+      - metal-alloy
+      - glass
+      - polymer
+      - coated-metal
+      - unknown-unspecified
+    description: Functional category for taxonomy and filtering.
+
+  suitable_for_fresh_piercings:
+    type: string
+    allowed:
+      - true
+      - false
+      - caution
+      - unknown
+    description: PiercingConnect editorial suitability flag for fresh piercings.
+
+  suitable_for_healed_piercings:
+    type: string
+    allowed:
+      - true
+      - false
+      - caution
+      - unknown
+    description: PiercingConnect editorial suitability flag for healed piercings.
+
+  allergy_risk:
+    type: string
+    allowed:
+      - low
+      - moderate
+      - high
+      - variable
+      - unknown
+    description: Relative sensitivity risk when used in body jewelry. Not a diagnosis.
+
+  biocompatibility_notes:
+    type: string
+    description: >
+      Notes on inertness, ASTM/ISO standards where applicable, and limits of
+      marketing language. Do not invent certifications.
+
+  app_alignment:
+    type: string
+    allowed:
+      - recommended
+      - acceptable-with-caution
+      - not-recommended
+      - not-addressed
+      - unknown
+    description: Alignment with Association of Professional Piercers initial jewelry guidance.
+
+  common_use_cases:
+    type: array
+    items:
+      type: string
+    description: Typical piercing or jewelry contexts where this material appears.
+
+  risks:
+    type: array
+    items:
+      type: string
+    description: Known irritation, allergy, mechanical, or healing risks when misused.
+
+  related_piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs where this material is commonly relevant.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs where this material is relevant to causes or care guidance.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the record.

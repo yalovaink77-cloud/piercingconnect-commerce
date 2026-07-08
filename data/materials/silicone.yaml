@@ -1,0 +1,38 @@
+id: silicone
+slug: silicone
+name: Silicone
+summary: Silicone body jewelry and o-rings appear in consumer markets but are not listed in APP initial jewelry guidance as materials proven appropriate for fresh piercings. Quality, grade, and suitability vary widely; medical-grade claims in marketing are not verified by PiercingConnect without manufacturer documentation.
+material_type: polymer
+suitable_for_fresh_piercings: 'false'
+suitable_for_healed_piercings: caution
+allergy_risk: moderate
+biocompatibility_notes: APP initial jewelry materials focus on specific metals, niobium, solid gold meeting criteria, platinum, and defined glass types. Silicone is not included. Some silicone products advertise medical or implant grades; PiercingConnect does not invent certifications and treats such labels as marketing until verified through piercer and manufacturer documentation. Porous or low-grade silicone may harbor bacteria.
+app_alignment: not-recommended
+common_use_cases:
+- Silicone o-rings on barbell assemblies—compatibility depends on overall jewelry quality
+- Occasional healed-piercing contexts discussed in studios; not APP initial standard
+- Not recommended as primary initial jewelry material per APP scope
+risks:
+- Not listed in APP initial jewelry material guidance
+- Grade variability; marketing terms may not reflect actual composition
+- Porous or damaged silicone may harbor bacteria
+- Tight or ill-fitting silicone rings may trap moisture and contribute to irritation
+related_piercing_types:
+- navel
+- nipple
+- tongue
+- lobe
+- septum
+related_problems:
+- jewelry-quality-issue
+- allergic-reaction
+- moisture-irritation
+- delayed-healing
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting

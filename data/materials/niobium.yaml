@@ -1,0 +1,56 @@
+id: niobium
+slug: niobium
+name: Niobium
+summary: Niobium is a metal widely used by professional piercers with good reported results. APP initial jewelry guidance notes it is very similar to titanium but does not carry an implant-grade designation. It may be anodized for color, including black anodizing unlike titanium per APP.
+material_type: biocompatible-metal
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+allergy_risk: low
+biocompatibility_notes: APP describes niobium as inert and compatible for healing piercings when used as quality body jewelry. Unlike titanium, APP explicitly states niobium does not have an implant-grade designation. Anodized niobium may fade due to body chemistry or friction; APP notes this fading is not harmful. Individual sensitivity remains possible despite generally favorable professional use.
+app_alignment: recommended
+common_use_cases:
+- Initial jewelry for clients seeking a titanium alternative
+- Anodized niobium including black anodized styles per APP
+- Ear, facial, and body piercings where piercer selects appropriate gauge and finish
+risks:
+- No implant-grade ASTM/ISO designation means piercer sourcing and finish quality matter
+- Anodized surface color may fade with wear or body chemistry
+- Rough finish or incorrect sizing can still cause healing complications
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_problems:
+- allergic-reaction
+- jewelry-quality-issue
+- irritation-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting

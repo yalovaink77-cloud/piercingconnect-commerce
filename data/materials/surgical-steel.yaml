@@ -1,0 +1,59 @@
+id: surgical-steel
+slug: surgical-steel
+name: Surgical Steel
+summary: Surgical steel is a marketing term covering many stainless steel alloys. APP initial jewelry guidance states only specific grades are proven biocompatible, including ASTM F-138 compliant or ISO 5832-1 compliant steel and related ISO 10993 or EEC Nickel Directive compliance. Unspecified "surgical steel" without documented grade is not equivalent to implant-grade steel.
+material_type: metal-alloy
+suitable_for_fresh_piercings: caution
+suitable_for_healed_piercings: caution
+allergy_risk: moderate
+biocompatibility_notes: APP emphasizes that many alloys are used for body jewelry but only certain grades are proven biocompatible for fresh piercings. Mill test certificates with ASTM or ISO designations document grade; consumers need not interpret certificate numbers but should know documentation exists when piercers review supplier quality. Labeling alone—such as "316L surgical steel" without verified compliance—does not replace professional verification. Nickel content in non-compliant alloys may contribute to sensitivity in some individuals.
+app_alignment: acceptable-with-caution
+common_use_cases:
+- Body jewelry when piercer confirms ASTM F-138 or ISO 5832-1 compliant grade
+- Healed piercings where client tolerates steel and grade is verified
+- Not interchangeable with generic mall or fashion "surgical steel" labels
+risks:
+- Nickel and other alloy components may trigger sensitivity in some people
+- Unverified surgical steel may not meet biocompatibility standards APP lists
+- Marketing term overuse obscures actual alloy grade and nickel release
+- Poor polish or external threading compounds mechanical and biocompatibility risks
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_problems:
+- allergic-reaction
+- jewelry-quality-issue
+- irritation-bump
+- delayed-healing
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

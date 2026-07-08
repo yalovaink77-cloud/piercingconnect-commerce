@@ -1,0 +1,40 @@
+id: glass
+slug: glass
+name: Glass
+summary: Lead-free borosilicate, lead-free soda-lime, and fused quartz glass are described by APP as inert and considered safe for initial piercings. Glass has a long history of use in piercings. It can be autoclave sterilized per APP.
+material_type: glass
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+allergy_risk: low
+biocompatibility_notes: APP lists specific glass types—fused quartz, lead-free borosilicate, and lead-free soda-lime—as inert and safe for initial piercings. Glass must be free of lead and suitable for sterilization. Retainers and plugs are common contexts; breakage risk requires appropriate design and professional selection. This record does not extend APP guidance to unspecified glass or decorative craft glass.
+app_alignment: recommended
+common_use_cases:
+- Glass retainers for school, work, or medical imaging when piercer approves
+- Initial or healed jewelry in nostril and ear piercings from professional sources
+- Situations where a non-metal inert material is preferred after professional assessment
+risks:
+- Glass can break under impact; inappropriate style or fit increases trauma risk
+- Non-body-jewelry glass may contain lead or unsuitable formulations
+- Porous or uneven surfaces on low-quality glass may interfere with healing
+- Requires careful handling during insertion and removal
+related_piercing_types:
+- nostril
+- septum
+- lobe
+- helix
+- conch
+- labret
+- tongue
+- smiley
+related_problems:
+- jewelry-quality-issue
+- snagging
+- embedded-jewelry
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured material record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
