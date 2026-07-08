@@ -1,0 +1,81 @@
+id: tongue
+slug: tongue
+name: Tongue
+body_location: oral
+summary: >
+  Tongue piercing through the tongue midline when anatomically suitable. APP oral aftercare guidance applies; healing varies.
+anatomy: >
+  Midline tongue muscle tissue; vascular; piercer assesses webbing and vein placement.
+common_jewelry:
+  - straight-barbell
+  - longer-barbell-initial
+healing_time: >
+  Oral and lip piercings involve mucosal tissue that may heal on a different schedule than external skin. Timelines vary; follow piercer oral aftercare guidance.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - swelling
+  - crusting
+  - moisture-irritation
+  - overcleaning
+  - infection-concern
+  - swelling
+  - pressure-irritation
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - straight-barbell
+downsizing: >
+  Oral piercings commonly require shorter jewelry after initial swelling; APP notes excessively long oral jewelry can damage teeth and gums. Piercer should perform downsizing.
+pain_level: moderate-to-high
+aftercare_notes:
+  - Use alcohol-free antiseptic mouthwash 4–5 times daily for oral piercings per APP oral guidance
+  - Rinse after meals and before bed; use soft-bristled toothbrush carefully around jewelry
+  - Avoid oral contact and unprotected sexual or oral activity during early healing per piercer guidance
+  - Avoid alcohol-based mouthwash and harsh rinses unless piercer directs otherwise
+  - Expect significant initial swelling; ice and cold water may help comfort per piercer guidance
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+  - Difficulty breathing or swallowing — seek urgent medical care
+related_keywords:
+  - tongue-piercing
+  - oral-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - swelling
+  - crusting
+  - moisture-irritation
+  - overcleaning
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-piercing-faq
+  - app-troubleshooting

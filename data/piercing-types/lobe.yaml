@@ -1,0 +1,82 @@
+id: lobe
+slug: lobe
+name: Lobe
+body_location: ear
+summary: >
+  Earlobe piercing through soft tissue at the bottom of the ear. May heal faster than cartilage but timelines still vary individually.
+anatomy: >
+  Soft fleshy earlobe tissue, typically without cartilage.
+common_jewelry:
+  - labret-post
+  - stud
+  - hoop-after-healing
+healing_time: >
+  Earlobe soft tissue may heal faster than cartilage, but duration still varies by individual, jewelry, and aftercare. Confirm timing with your piercer.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - swelling
+  - redness
+  - crusting
+  - infection-concern
+  - allergic-reaction
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+  - studex-advanced-2-in-1-piercing-aftercare-cleanser
+  - inverness-ear-care-solution
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - labret-post
+  - stud
+  - hoop
+downsizing: >
+  Downsizing may be discussed once swelling settles; timing varies by individual. Do not change jewelry at home during early healing without piercer guidance.
+pain_level: low
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP guidance
+  - Avoid unnecessary jewelry rotation
+  - Avoid alcohol and hydrogen peroxide on the healing site
+  - Keep hands clean before touching the area
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+related_keywords:
+  - lobe-piercing
+  - earlobe-piercing
+  - ear-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - swelling
+  - redness
+  - crusting
+  - infection-concern
+  - allergic-reaction
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-piercing-faq
+  - mayo-clinic-piercings

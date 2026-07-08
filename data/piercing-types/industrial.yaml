@@ -1,0 +1,85 @@
+id: industrial
+slug: industrial
+name: Industrial
+body_location: ear
+summary: >
+  Industrial piercing placed through ear cartilage.  Healing varies by anatomy, jewelry, health, and aftercare.
+anatomy: >
+  Two pierced holes through upper ear cartilage connected by one long barbell, often helix-to-helix.
+common_jewelry:
+  - industrial-barbell
+  - labret-post-initial
+healing_time: >
+  Industrial piercings connect two cartilage sites and may require six months or longer — often longer than single cartilage piercings. Individual variation is significant.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - sleeping-irritation
+  - irritation-bump
+  - migration
+  - delayed-healing
+  - snagging
+  - infection-concern
+  - pressure-irritation
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - labret-post-flat-back
+  - threadless-labret
+  - press-fit-post
+downsizing: >
+  Two channels must heal together; bar length and angle are critical. Piercer should monitor both entries; downsizing and fit adjustments vary.
+pain_level: moderate
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on the piercing; use travel pillow or pressure protection if needed
+  - Do not rotate or move jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, tea tree oil, and harsh antiseptics
+  - Return to piercer for downsizing when initial swelling subsides
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+related_keywords:
+  - industrial
+  - industrial-piercing
+  - cartilage-piercing
+  - ear-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - sleeping-irritation
+  - irritation-bump
+  - migration
+  - delayed-healing
+  - snagging
+  - infection-concern
+  - pressure-irritation
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
+  - app-troubleshooting

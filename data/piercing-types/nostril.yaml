@@ -1,0 +1,80 @@
+id: nostril
+slug: nostril
+name: Nostril
+body_location: nose
+summary: >
+  Nostril piercing through the side wall of the nose. APP groups nostrils with tougher tissue that may take six months or longer to heal.
+anatomy: >
+  Soft tissue and cartilage of the nostril rim or wall; exact angle and depth vary by anatomy.
+common_jewelry:
+  - nose-screw
+  - labret-post
+  - hoop-after-healing
+healing_time: >
+  Nostril piercings are grouped with tougher tissue that may take six months or longer per APP guidance. Individual variation is significant.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - irritation-bump
+  - swelling
+  - crusting
+  - delayed-healing
+  - infection-concern
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - labret-post-flat-back
+  - nose-screw
+  - hoop-after-healing
+downsizing: >
+  Initial jewelry is often longer to accommodate swelling. APP notes missing the downsizing window for helix-type piercings may contribute to migration or angle change. Piercer should downsize — timing varies.
+pain_level: moderate
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on the piercing; use travel pillow or pressure protection if needed
+  - Do not rotate or move jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, tea tree oil, and harsh antiseptics
+  - Return to piercer for downsizing when initial swelling subsides
+  - Avoid makeup and skincare on the site during early healing
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+related_keywords:
+  - nostril-piercing
+  - nose-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - irritation-bump
+  - swelling
+  - crusting
+  - delayed-healing
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare

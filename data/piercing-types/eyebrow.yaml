@@ -1,0 +1,80 @@
+id: eyebrow
+slug: eyebrow
+name: Eyebrow
+body_location: face
+summary: >
+  Surface or shallow piercing through tissue at the eyebrow. Migration and snagging are common concerns; healing varies.
+anatomy: >
+  Eyebrow region tissue; depth and angle vary; often classified as surface-adjacent piercing.
+common_jewelry:
+  - curved-barbell
+  - surface-barbell
+healing_time: >
+  Surface and periorbital piercings may take six months or longer and carry higher migration or rejection risk. Timelines vary individually.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+  - retired-piercing
+common_problems:
+  - migration
+  - rejection
+  - irritation-bump
+  - snagging
+  - delayed-healing
+  - snagging
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - curved-barbell
+downsizing: >
+  Minimize jewelry movement; piercer should assess fit early to reduce migration risk.
+pain_level: low-to-moderate
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on the piercing; use travel pillow or pressure protection if needed
+  - Do not rotate or move jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, tea tree oil, and harsh antiseptics
+  - Return to piercer for downsizing when initial swelling subsides
+  - Monitor closely for migration or rejection signs
+  - Protect from glasses, makeup, and hair product contact
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+related_keywords:
+  - eyebrow-piercing
+  - facial-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - migration
+  - rejection
+  - irritation-bump
+  - snagging
+  - delayed-healing
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-troubleshooting

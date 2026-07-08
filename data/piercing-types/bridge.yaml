@@ -1,0 +1,81 @@
+id: bridge
+slug: bridge
+name: Bridge
+body_location: face
+summary: >
+  Surface piercing through the skin at the bridge of the nose between the eyes. Higher migration and rejection risk; healing varies.
+anatomy: >
+  Surface tissue at the nasal bridge; not a through-and-through cartilage piercing.
+common_jewelry:
+  - surface-barbell
+  - curved-barbell
+healing_time: >
+  Surface and periorbital piercings may take six months or longer and carry higher migration or rejection risk. Timelines vary individually.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+  - retired-piercing
+common_problems:
+  - migration
+  - rejection
+  - irritation-bump
+  - snagging
+  - delayed-healing
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - surface-barbell
+  - curved-barbell-anatomy-dependent
+downsizing: >
+  Minimize jewelry movement; piercer should assess fit early to reduce migration risk.
+pain_level: moderate
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on the piercing; use travel pillow or pressure protection if needed
+  - Do not rotate or move jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, tea tree oil, and harsh antiseptics
+  - Return to piercer for downsizing when initial swelling subsides
+  - Monitor closely for migration or rejection signs
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+  - Progressive jewelry visibility through thinning tissue
+related_keywords:
+  - bridge-piercing
+  - surface-piercing
+  - facial-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - migration
+  - rejection
+  - irritation-bump
+  - snagging
+  - delayed-healing
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-troubleshooting

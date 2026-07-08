@@ -1,0 +1,84 @@
+id: conch
+slug: conch
+name: Conch
+body_location: ear
+summary: >
+  Conch piercing placed through ear cartilage.  Healing varies by anatomy, jewelry, health, and aftercare.
+anatomy: >
+  Cartilage of the ear concha — inner cup area; may be inner or outer conch placement.
+common_jewelry:
+  - labret-post
+  - flat-back-stud
+  - hoop-after-healing
+healing_time: >
+  Ear cartilage may take six months or longer to heal per APP comparative guidance for tougher tissue. Individual timelines vary widely.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - sleeping-irritation
+  - irritation-bump
+  - migration
+  - delayed-healing
+  - snagging
+  - infection-concern
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - labret-post-flat-back
+  - threadless-labret
+  - press-fit-post
+downsizing: >
+  Initial jewelry is often longer to accommodate swelling. APP notes missing the downsizing window for helix-type piercings may contribute to migration or angle change. Piercer should downsize — timing varies.
+pain_level: moderate-to-high
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on the piercing; use travel pillow or pressure protection if needed
+  - Do not rotate or move jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, tea tree oil, and harsh antiseptics
+  - Return to piercer for downsizing when initial swelling subsides
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+related_keywords:
+  - conch
+  - conch-piercing
+  - cartilage-piercing
+  - ear-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - sleeping-irritation
+  - irritation-bump
+  - migration
+  - delayed-healing
+  - snagging
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
+  - app-troubleshooting

@@ -1,0 +1,172 @@
+schema_version: "1.0"
+
+entity: piercing-type
+
+description: >
+  Defines the standard structure for piercing type records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - body_location
+  - summary
+  - anatomy
+  - common_jewelry
+  - healing_time
+  - healing_stages
+  - common_problems
+  - recommended_products
+  - suitable_materials
+  - suitable_jewelry
+  - downsizing
+  - pain_level
+  - aftercare_notes
+  - when_to_seek_help
+  - related_keywords
+  - related_products
+  - related_problems
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    example: helix
+
+  slug:
+    type: string
+    example: helix
+
+  name:
+    type: string
+    example: Helix
+
+  body_location:
+    type: string
+    description: Primary body region taxonomy slug.
+    example: ear
+
+  summary:
+    type: string
+    description: One- to two-sentence neutral overview.
+
+  anatomy:
+    type: string
+    description: Anatomical placement description. Not medical advice.
+
+  common_jewelry:
+    type: array
+    items:
+      type: string
+    description: Jewelry styles commonly used once healed or as initial jewelry.
+
+  healing_time:
+    type: string
+    description: >
+      Non-binding healing timeframe using ranges and cautious language.
+      Must not guarantee fixed durations.
+
+  healing_stages:
+    type: array
+    items:
+      type: string
+    description: Healing stage IDs from data/healing-stages/ relevant to this type.
+
+  common_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs commonly associated with this piercing type.
+
+  recommended_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs that may support aftercare when appropriate.
+
+  suitable_materials:
+    type: array
+    items:
+      type: string
+    description: Jewelry material slugs suitable for initial and long-term wear.
+
+  suitable_jewelry:
+    type: array
+    items:
+      type: string
+    description: Initial and healed jewelry style guidance.
+
+  downsizing:
+    type: string
+    description: Guidance on jewelry length reduction timing. Piercer-dependent.
+
+  pain_level:
+    type: string
+    allowed:
+      - low
+      - low-to-moderate
+      - moderate
+      - moderate-to-high
+      - varies
+      - unknown
+    description: Subjective pain framing only. Not a clinical score.
+
+  aftercare_notes:
+    type: array
+    items:
+      type: string
+    description: Type-specific aftercare notes aligned with APP guidance.
+
+  when_to_seek_help:
+    type: array
+    items:
+      type: string
+    description: Thresholds for piercer or medical evaluation.
+
+  related_keywords:
+    type: array
+    items:
+      type: string
+    description: SEO and content cluster keyword slugs.
+
+  related_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs cross-linked to this piercing type.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs cross-linked to this piercing type.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string

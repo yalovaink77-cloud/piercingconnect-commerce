@@ -1,0 +1,82 @@
+id: navel
+slug: navel
+name: Navel
+body_location: navel
+summary: >
+  Navel piercing through the rim of the navel when anatomy provides suitable tissue. APP notes navel among tougher tissue requiring six months or longer.
+anatomy: >
+  Upper or lower navel rim tissue; not all navels are suitable for piercing.
+common_jewelry:
+  - curved-barbell
+  - j-curve-barbell
+healing_time: >
+  Navel piercings are among tougher tissue types that may take six months or longer per APP guidance. Snagging and moisture commonly affect progress.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+  - retired-piercing
+common_problems:
+  - migration
+  - rejection
+  - snagging
+  - moisture-irritation
+  - irritation-bump
+  - delayed-healing
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - curved-barbell
+  - j-curve-barbell
+downsizing: >
+  Navel piercings often need length adjustment after swelling; piercer should assess fit to reduce snagging and migration risk.
+pain_level: moderate
+aftercare_notes:
+  - Sterile saline rinse once or twice daily; keep area dry between cleanings
+  - Wear low-rise or breathable clothing; avoid waistband pressure and snagging
+  - Avoid submerging in baths, hot tubs, or untreated water during early healing
+  - Avoid harsh products and over-cleaning per APP guidance
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+  - Progressive thinning tissue or jewelry migration toward surface
+related_keywords:
+  - navel-piercing
+  - belly-button-piercing
+  - body-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - migration
+  - rejection
+  - snagging
+  - moisture-irritation
+  - irritation-bump
+  - delayed-healing
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
+  - app-troubleshooting

@@ -1,0 +1,77 @@
+id: nipple
+slug: nipple
+name: Nipple
+body_location: nipple
+summary: >
+  Nipple piercing through nipple tissue when anatomically suitable. Extended healing is common; APP addresses nipple jewelry and breastfeeding considerations.
+anatomy: >
+  Nipple tissue; depth and angle vary; both sides may be pierced separately.
+common_jewelry:
+  - straight-barbell
+  - longer-barbell-initial
+healing_time: >
+  Nipple piercings often require extended healing over many months. APP emphasizes quality jewelry and aftercare; individual timelines vary.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - pressure-irritation
+  - delayed-healing
+  - irritation-bump
+  - infection-concern
+  - migration
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - straight-barbell
+downsizing: >
+  Bar length should accommodate swelling without embedding; piercer downsizing timing varies individually.
+pain_level: moderate-to-high
+aftercare_notes:
+  - Sterile saline rinse per APP body aftercare guidance
+  - Wear breathable, non-occlusive clothing; avoid compression when possible
+  - Avoid trauma from sports, bags, or sleeping pressure
+  - Follow piercer guidance on sexual contact and barrier use during healing
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+  - Pregnancy or breastfeeding planning — review APP nipple guidance with piercer and clinician
+related_keywords:
+  - nipple-piercing
+  - body-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - pressure-irritation
+  - delayed-healing
+  - irritation-bump
+  - infection-concern
+  - migration
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
+  - app-troubleshooting

@@ -1,0 +1,80 @@
+id: septum
+slug: septum
+name: Septum
+body_location: nose
+summary: >
+  Septum piercing through the nasal septum in the sweet spot of soft tissue when anatomically suitable. Healing timelines vary.
+anatomy: >
+  Thin strip of soft tissue below the nasal cartilage in the septum sweet spot; unsuitable anatomy should not be forced.
+common_jewelry:
+  - circular-barbell
+  - clicker-ring
+  - septum-retainer
+healing_time: >
+  Septum piercings pass through mucosa and cartilage; healing timelines vary and may range from several weeks to many months depending on placement and individual factors.
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+  - mature-piercing
+  - irritated-piercing
+common_problems:
+  - irritation-bump
+  - swelling
+  - crusting
+  - delayed-healing
+  - infection-concern
+  - pressure-irritation
+recommended_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+suitable_materials:
+  - implant-grade-titanium
+  - niobium
+  - 14k-gold
+  - 18k-gold
+suitable_jewelry:
+  - circular-barbell
+  - clicker-ring
+downsizing: >
+  Diameter may be adjusted after swelling; piercer should assess fit to reduce movement and irritation.
+pain_level: moderate
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on the piercing; use travel pillow or pressure protection if needed
+  - Do not rotate or move jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, tea tree oil, and harsh antiseptics
+  - Return to piercer for downsizing when initial swelling subsides
+  - Avoid flipping jewelry before piercer confirms readiness
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Suspected migration, rejection, or embedding
+  - Irritation bumps that persist after removing mechanical triggers
+  - Uncertainty about jewelry fit — consult your piercer in person
+related_keywords:
+  - septum-piercing
+  - nose-piercing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_problems:
+  - irritation-bump
+  - swelling
+  - crusting
+  - delayed-healing
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured piercing type record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
