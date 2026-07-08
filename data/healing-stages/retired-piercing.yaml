@@ -1,0 +1,83 @@
+id: retired-piercing
+slug: retired-piercing
+name: Retired Piercing
+summary: >
+  A piercing that has been intentionally abandoned or removed, or that rejected/migrated to closure. Aftercare focuses on wound hygiene and scar care, not channel maintenance.
+description: >
+  A retired piercing is one that is no longer being maintained as an active piercing — whether removed by choice, rejected by the body, migrated out, or abandoned after professional recommendation.
+  The channel may close partially or fully over time depending on piercing type, duration, and individual tissue behavior.
+  Closure speed varies; even short removal may begin sealing quickly in some piercings.
+  Gentle wound hygiene may support the skin as it heals closed.
+  This record does not provide medical treatment guidance for complications after removal.
+  Seek professional care for infection signs, abscess concerns, or retained jewelry fragments.
+typical_timeframe: >
+  Channel closure may begin within hours to days for some piercings when jewelry is removed; full skin remodeling may take weeks to months. Individual variation is significant.
+normal_signs:
+  - Channel may begin to close when jewelry is removed
+  - Temporary tenderness or minor discharge during closure for some piercings
+  - Scar or discoloration may remain after closure
+  - Split or track scarring possible after rejection per professional literature
+  - Gradual flattening of tissue over time in many cases
+caution_signs:
+  - Signs that may suggest trapped infection or abscess after jewelry removal
+  - Heavy bleeding, severe pain, or spreading redness after retirement
+  - Retained jewelry fragment or incomplete removal
+  - Keloid or hypertrophic scarring concerns — professional evaluation may help
+  - Attempting to re-pierce through immature scar tissue without professional planning
+common_problems:
+  - rejection
+  - migration
+  - infection-concern
+  - delayed-healing
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+unsuitable_products:
+  - base-laboratories-piercing-aftercare-spray
+  - h2ocean-piercing-aftercare-spray
+  - prontolind-spray-75ml
+  - studex-advanced-2-in-1-piercing-aftercare-cleanser
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+jewelry_guidance:
+  - Do not reinsert jewelry into a closing channel without professional guidance
+  - If infection is suspected, do not remove jewelry without clinician direction unless advised
+  - Allow tissue to close before considering re-piercing — timing varies
+  - Consult a piercer about scar tissue and future piercing placement options
+cleaning_guidance:
+  - Keep the area clean with gentle shower rinsing unless a clinician directs otherwise
+  - Avoid harsh antiseptics on closing tissue unless medically indicated
+  - Do not pick at scabs or closing channel openings
+  - Follow medical guidance if infection signs appear after removal
+when_to_seek_help:
+  - Signs that may suggest abscess, severe infection, or retained foreign material
+  - Bleeding or pain disproportionate to expected closure
+  - Piercer or medical guidance before re-piercing the same site
+  - Scarring concerns requiring dermatological evaluation
+related_problems:
+  - rejection
+  - migration
+  - infection-concern
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-troubleshooting
+  - app-piercing-faq

@@ -1,0 +1,95 @@
+id: fresh-piercing
+slug: fresh-piercing
+name: Fresh Piercing
+summary: >
+  The immediate post-piercing period when the site is an open wound and initial swelling, tenderness, and minor bleeding may occur. Healing duration varies widely by piercing type, anatomy, jewelry, health, and aftercare.
+description: >
+  A fresh piercing is a new wound created during the piercing procedure.
+  During this stage, the body begins the inflammatory phase of wound healing.
+  Mild redness, swelling, tenderness, and minor bleeding or clear fluid may sometimes be observed.
+  These signs do not confirm normal healing for every person and cannot predict outcomes.
+  Healing timelines vary significantly — earlobes, cartilage, oral, navel, and body piercings follow different patterns.
+  Jewelry material, fit, overall health, stress, sleep, and aftercare consistency all influence how this stage progresses.
+  PiercingConnect does not guarantee any fixed healing duration.
+typical_timeframe: >
+  Often the first several days to roughly two weeks for many piercings, but this varies widely by location and individual factors. Confirm expectations with your piercer rather than relying on fixed schedules.
+normal_signs:
+  - Mild tenderness around the piercing site
+  - Localized redness that may be more noticeable on some skin tones
+  - Swelling that may peak in the first few days
+  - Small amount of clear or pale fluid that may dry as crust
+  - Minor bleeding during the first day or so in some piercings
+caution_signs:
+  - Swelling that worsens after the first few days rather than gradually settling
+  - Pain that becomes severe or spreads beyond the immediate area
+  - Thick yellow, green, or gray discharge with foul odor
+  - Fever, chills, or feeling systemically unwell
+  - Jewelry appearing too tight or beginning to embed
+common_problems:
+  - swelling
+  - redness
+  - bleeding
+  - crusting
+  - pressure-irritation
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+unsuitable_products:
+  - base-laboratories-piercing-aftercare-spray
+  - inverness-ear-care-solution
+  - studex-advanced-2-in-1-piercing-aftercare-cleanser
+  - h2ocean-piercing-aftercare-spray
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+  - benzalkonium-chloride
+  - sea-salt
+jewelry_guidance:
+  - Leave initial jewelry in place unless a qualified piercer advises a change
+  - Initial jewelry should be implant-grade or piercer-approved material with appropriate length for swelling
+  - Do not change jewelry at home during this stage without professional guidance
+  - Avoid unnecessary rotation, twisting, or removal of jewelry
+cleaning_guidance:
+  - Spray or rinse with sterile saline labeled for wound wash once or twice daily per piercer guidance
+  - Avoid alcohol, hydrogen peroxide, harsh soaps, and ointments on the open wound
+  - Wash hands before touching the area or jewelry
+  - Do not over-clean; excessive cleaning may irritate tissue
+when_to_seek_help:
+  - Signs that may suggest infection such as spreading redness, fever, or foul discharge
+  - Jewelry that appears embedded or too tight to clean around
+  - Bleeding that is heavy or does not slow with gentle care
+  - Any concern about placement, angle, or jewelry fit — consult your piercer promptly
+related_problems:
+  - swelling
+  - redness
+  - bleeding
+  - crusting
+  - embedded-jewelry
+  - infection-concern
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+  - preservatives
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - mayo-clinic-piercings
+  - nhs-infected-piercings

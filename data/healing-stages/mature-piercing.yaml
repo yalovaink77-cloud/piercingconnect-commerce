@@ -1,0 +1,82 @@
+id: mature-piercing
+slug: mature-piercing
+name: Mature Piercing
+summary: >
+  A stabilized piercing channel that may tolerate routine jewelry care for many people, though individual sensitivity can persist. Maturity timing varies by piercing type and cannot be guaranteed on a fixed schedule.
+description: >
+  A mature piercing has a channel that may be fully lined and stable enough for routine jewelry changes and everyday activity for many individuals.
+  Maturity does not mean zero risk — trauma, poor jewelry, allergic reactions, and infection concerns can still occur.
+  Some piercings may feel mature earlier than others; cartilage and certain body piercings may remain sensitive longer.
+  Even mature piercings benefit from quality jewelry and occasional gentle cleaning after contamination.
+  PiercingConnect does not define a universal maturity date for any piercing category.
+typical_timeframe: >
+  May occur months to years after piercing depending on type, anatomy, and care history. Piercer confirmation is preferable before assuming full maturity.
+normal_signs:
+  - Channel may accept jewelry changes with minimal tenderness for many people
+  - No regular discharge or crusting during normal activity
+  - Brief mild tenderness possible after trauma or long jewelry removal
+  - Stable appearance without progressive migration
+  - Ability to leave jewelry out for short periods in some piercings without rapid closure — varies individually
+caution_signs:
+  - Recurrent irritation after jewelry material changes
+  - Channel narrowing after long periods without jewelry
+  - New bumps after years of stability suggesting new irritation source
+  - Signs that may suggest infection after new trauma or contamination
+  - Assuming maturity eliminates need for quality jewelry
+common_problems:
+  - snagging
+  - allergic-reaction
+  - infection-concern
+  - jewelry-quality-issue
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+unsuitable_products: []
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+jewelry_guidance:
+  - Choose implant-grade or piercer-approved materials for long-term wear
+  - Ensure new jewelry is sized professionally when changing styles
+  - Retire jewelry that causes repeated irritation even in mature piercings
+  - Some piercings may close quickly if jewelry is removed — behavior varies
+cleaning_guidance:
+  - Routine saline rinse may be used after contamination or irritation flares
+  - Normal shower rinsing may be sufficient for many mature piercings day to day
+  - Avoid reintroducing harsh antiseptics for routine maintenance
+  - Clean hands before jewelry changes
+when_to_seek_help:
+  - New persistent symptoms in a previously stable piercing
+  - Difficulty reinserting jewelry after removal
+  - Signs that may suggest infection after new trauma
+  - Piercer or medical evaluation for sudden migration or embedding in any piercing age
+related_problems:
+  - allergic-reaction
+  - infection-concern
+  - snagging
+  - jewelry-quality-issue
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - mayo-clinic-piercings

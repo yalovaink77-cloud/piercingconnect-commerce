@@ -1,0 +1,90 @@
+id: early-healing
+slug: early-healing
+name: Early Healing
+summary: >
+  The period when initial acute symptoms may begin to settle while the piercing channel is still fragile. Duration varies by piercing type, anatomy, jewelry, health, and aftercare.
+description: >
+  Early healing follows the fresh piercing stage as inflammation may begin to ease and the body starts building new tissue in the channel.
+  Swelling, redness, and crusting may still occur but often change in character over time.
+  This is not a uniform timeline — cartilage, oral, navel, and surface piercings may behave differently from earlobe piercings.
+  Downsizing or jewelry assessment may be discussed with a piercer during this window for some piercings.
+  Individual health, sleep habits, trauma from snagging, and aftercare consistency strongly affect progress.
+  No fixed calendar applies to all piercings.
+typical_timeframe: >
+  Commonly spans several weeks for simpler piercings and may extend into months for cartilage or body piercings. Your piercer can help set realistic expectations for your specific piercing.
+normal_signs:
+  - Gradual reduction in initial swelling for many piercings
+  - Ongoing mild tenderness with movement or pressure
+  - Intermittent crusting around the jewelry
+  - Itching that may occur as tissue remodels
+  - Channel still fragile to trauma or premature jewelry changes
+caution_signs:
+  - Development of a persistent bump near the piercing
+  - Increasing redness or swelling after initial improvement
+  - Repeated snagging or sleeping irritation slowing progress
+  - Jewelry length appearing too long or too short as swelling changes
+  - Signs that may suggest migration or angle change
+common_problems:
+  - crusting
+  - itching
+  - irritation-bump
+  - snagging
+  - sleeping-irritation
+  - overcleaning
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+unsuitable_products:
+  - base-laboratories-piercing-aftercare-spray
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+  - tea-tree-oil
+jewelry_guidance:
+  - Consult a piercer about downsizing when swelling allows — timing varies by piercing
+  - Maintain implant-grade or piercer-approved jewelry unless professionally changed
+  - Protect the piercing from snagging, sleeping pressure, and tight clothing
+  - Do not force jewelry changes before the channel can tolerate them
+cleaning_guidance:
+  - Continue gentle sterile saline rinsing as directed; once or twice daily is common for body piercings
+  - Remove obvious debris and dried discharge gently without picking aggressively
+  - Avoid introducing new harsh products or home remedies without piercer input
+  - Keep the area dry between cleanings when possible
+when_to_seek_help:
+  - Irritation bumps or symptoms that do not improve after removing mechanical causes
+  - Suspected migration, rejection, or embedding changes
+  - Signs that may warrant medical evaluation alongside piercer assessment
+  - Uncertainty about downsizing timing — ask your piercer in person
+related_problems:
+  - irritation-bump
+  - itching
+  - crusting
+  - snagging
+  - sleeping-irritation
+  - overcleaning
+  - migration
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

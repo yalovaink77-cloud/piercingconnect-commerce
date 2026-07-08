@@ -1,0 +1,83 @@
+id: late-healing
+slug: late-healing
+name: Late Healing
+summary: >
+  A later phase when the channel may be approaching maturity for some piercings while still susceptible to setbacks. Timelines vary widely and cannot be guaranteed.
+description: >
+  Late healing refers to the tail end of the initial healing journey for many piercings, when the channel may be closer to stability but is not necessarily fully matured.
+  Some piercings — especially cartilage, navel, and surface work — may remain sensitive for extended periods.
+  Occasional tenderness after minor trauma can still occur.
+  Jewelry changes may become possible for some piercings when a piercer confirms readiness, but this varies individually.
+  Lifestyle factors, seasonal dryness, and resumed sports or sleeping habits can trigger temporary irritation even in late healing.
+typical_timeframe: >
+  May extend from several months to a year or longer for some piercing types. Confirm readiness for jewelry changes or reduced aftercare with your piercer.
+normal_signs:
+  - Most days without significant swelling or discharge for many piercings
+  - Brief tenderness after pressure or jewelry bump
+  - Channel may tolerate gentle cleaning without frequent crusting
+  - Gradual increase in stability with fewer irritation flares
+  - Appearance may still change subtly as tissue remodels
+caution_signs:
+  - Late-onset bumps after new jewelry or trauma
+  - Slow creep of migration or angle change in susceptible piercings
+  - Seasonal dryness or product changes causing new irritation
+  - Assuming full maturity too early and stopping protective habits abruptly
+  - Rejection signs in surface or navel piercings that heal slowly
+common_problems:
+  - irritation-bump
+  - migration
+  - rejection
+  - dryness
+  - delayed-healing
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+unsuitable_products: []
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+jewelry_guidance:
+  - Discuss jewelry style changes only after piercer confirms channel stability
+  - Continue quality material choices; healed piercings can still react to poor metal
+  - Downsize or adjust jewelry that still moves excessively in the channel
+  - Retire piercings showing progressive migration when a piercer recommends it
+cleaning_guidance:
+  - Saline rinsing may be reduced in frequency only with piercer guidance
+  - Resume gentle cleaning after sports, swimming, or known contamination exposure
+  - Avoid harsh products even when the piercing feels mostly healed
+  - Maintain hand hygiene before handling jewelry
+when_to_seek_help:
+  - New migration, rejection, or embedding signs in late healing
+  - Persistent bumps that return after irritation sources are removed
+  - Pain or discharge returning after a period of stability
+  - Piercer evaluation before first self-directed jewelry change if unsure
+related_problems:
+  - migration
+  - rejection
+  - irritation-bump
+  - delayed-healing
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-troubleshooting
+  - app-piercing-faq
+  - app-aftercare

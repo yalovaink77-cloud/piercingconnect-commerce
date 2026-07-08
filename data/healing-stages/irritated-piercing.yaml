@@ -1,0 +1,95 @@
+id: irritated-piercing
+slug: irritated-piercing
+name: Irritated Piercing
+summary: >
+  A state of heightened local irritation that may occur at any point in the healing timeline when mechanical, chemical, or jewelry-related triggers are present. Not a diagnosis.
+description: >
+  An irritated piercing describes a condition of localized inflammation often linked to identifiable triggers such as snagging, sleeping pressure, harsh aftercare products, inappropriate jewelry, over-cleaning, or moisture trapping.
+  APP troubleshooting notes that irritation and allergy are more common than infection when piercings are properly performed.
+  Irritation can occur during fresh, early, active, late, or even mature stages.
+  This record describes an irritation state, not a medical diagnosis.
+  Removing the irritation source and returning to gentle saline care may help many cases, but persistent or worsening symptoms require piercer or medical evaluation.
+typical_timeframe: >
+  May last days to weeks depending on trigger removal and piercing context. No fixed recovery timeline applies.
+normal_signs:
+  - Localized redness, warmth, or swelling near the jewelry
+  - Tenderness or itching without systemic illness
+  - Small irritation bump adjacent to the piercing in some cases
+  - Symptoms that may improve when mechanical triggers are removed
+  - Symptoms confined locally rather than spreading widely — not diagnostic
+caution_signs:
+  - Symptoms persisting after obvious irritation sources are addressed
+  - Thick colored discharge, fever, or red streaks that may suggest medical concern
+  - Bump growing rapidly or channel narrowing
+  - Repeated flares suggesting jewelry material or fit problems
+  - Difficulty distinguishing irritation from infection without professional help
+common_problems:
+  - irritation-bump
+  - redness
+  - swelling
+  - snagging
+  - sleeping-irritation
+  - pressure-irritation
+  - overcleaning
+  - dryness
+  - moisture-irritation
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+unsuitable_products:
+  - base-laboratories-piercing-aftercare-spray
+  - h2ocean-piercing-aftercare-spray
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+  - tea-tree-oil
+  - benzalkonium-chloride
+  - sea-salt
+jewelry_guidance:
+  - Identify and remove mechanical triggers before changing jewelry unnecessarily
+  - Consult a piercer to assess fit, material, and whether a change is appropriate
+  - Leave jewelry in place unless a piercer advises otherwise — removal may complicate irritation or infection concerns
+  - Avoid experimental home remedies marketed for bumps
+cleaning_guidance:
+  - Return to simple sterile saline rinsing once or twice daily if piercer agrees
+  - Stop alcohol, hydrogen peroxide, tea tree oil, and harsh soaps immediately
+  - Reduce cleaning frequency if over-cleaning contributed to dryness or irritation
+  - Keep the area dry and protected from further trauma between cleanings
+when_to_seek_help:
+  - Irritation that does not improve after removing likely triggers within a reasonable period
+  - Signs that may suggest infection requiring medical evaluation
+  - Suspected migration, rejection, or embedding
+  - Piercer unable to identify cause — consider second opinion from an APP-aligned professional
+related_problems:
+  - irritation-bump
+  - snagging
+  - sleeping-irritation
+  - pressure-irritation
+  - overcleaning
+  - dryness
+  - allergic-reaction
+  - infection-concern
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-troubleshooting
+  - app-aftercare

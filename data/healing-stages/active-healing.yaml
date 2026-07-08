@@ -1,0 +1,88 @@
+id: active-healing
+slug: active-healing
+name: Active Healing
+summary: >
+  A mid-healing phase when the channel may still be forming but daily symptoms are often less acute. Progress depends on piercing type, anatomy, jewelry, health, and consistent aftercare.
+description: >
+  Active healing describes ongoing channel maturation after the most acute early phase.
+  The piercing may feel improved day to day while still vulnerable to irritation, snagging, and premature jewelry changes.
+  Many piercings remain in this phase for weeks to months depending on location.
+  Cartilage and body piercings often require longer timelines than earlobes.
+  Aftercare should remain consistent and conservative unless a piercer recommends adjustments.
+  Healing is not linear — temporary flares may occur after travel, illness, stress, or mechanical trauma.
+typical_timeframe: >
+  May last from several weeks to many months depending on piercing type and individual factors. There is no guaranteed end date for any piercing category.
+normal_signs:
+  - Less frequent acute swelling episodes for many piercings
+  - Occasional mild tenderness or itching
+  - Channel may still secrete small amounts of fluid during cleaning
+  - Jewelry may feel stable when not disturbed
+  - Healing progress may appear uneven week to week
+caution_signs:
+  - Delayed improvement compared with piercer expectations for your anatomy
+  - Recurrent bumps after mechanical irritation resolves
+  - Dryness or over-cleaning symptoms slowing comfort
+  - Jewelry quality or fit concerns emerging during longer healing
+  - Persistent moisture trapping from clothing, hair, or bandages
+common_problems:
+  - delayed-healing
+  - dryness
+  - moisture-irritation
+  - snagging
+  - undercleaning
+  - jewelry-quality-issue
+suitable_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+unsuitable_products: []
+suitable_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+  - purified-water
+ingredients_to_avoid:
+  - alcohol
+  - hydrogen-peroxide
+  - tea-tree-oil
+jewelry_guidance:
+  - Maintain appropriate jewelry size and material until a piercer confirms readiness for change
+  - Evaluate whether long or heavy jewelry contributes to movement or angle issues
+  - Avoid experimental jewelry materials during unfinished healing
+  - Schedule check-ups with a piercer if healing seems stalled
+cleaning_guidance:
+  - Maintain a sustainable saline or shower-rinse routine per piercer guidance
+  - Balance cleaning with avoiding over-cleaning that may dry or irritate tissue
+  - Address moisture trapping from hair products, tight clothing, or occlusive dressings
+  - Do not assume reduced symptoms mean aftercare can stop entirely
+when_to_seek_help:
+  - Healing that appears stalled beyond your piercer's expected range for your piercing
+  - New bumps, migration signs, or allergic-type reactions
+  - Uncertainty about jewelry change readiness
+  - Medical evaluation if signs may suggest infection or systemic illness
+related_problems:
+  - delayed-healing
+  - dryness
+  - moisture-irritation
+  - undercleaning
+  - jewelry-quality-issue
+  - migration
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - easypiercing-saline-solution-50ml
+related_ingredients:
+  - sterile-water
+  - sodium-chloride-0.9-percent
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured healing stage record from professional and medical sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

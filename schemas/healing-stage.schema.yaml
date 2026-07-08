@@ -1,0 +1,169 @@
+schema_version: "1.0"
+
+entity: healing-stage
+
+description: >
+  Defines the standard structure for piercing healing stage records inside
+  the PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - summary
+  - description
+  - typical_timeframe
+  - normal_signs
+  - caution_signs
+  - common_problems
+  - suitable_products
+  - unsuitable_products
+  - suitable_ingredients
+  - ingredients_to_avoid
+  - jewelry_guidance
+  - cleaning_guidance
+  - when_to_seek_help
+  - related_problems
+  - related_products
+  - related_ingredients
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the healing stage.
+    example: fresh-piercing
+
+  slug:
+    type: string
+    description: URL-safe healing stage identifier matching id.
+    example: fresh-piercing
+
+  name:
+    type: string
+    description: Human-readable healing stage name.
+    example: Fresh Piercing
+
+  summary:
+    type: string
+    description: One- to two-sentence neutral summary for indexes and cards.
+
+  description:
+    type: string
+    description: >
+      Educational description of the stage. Must note that healing varies by
+      piercing type, anatomy, jewelry, health, and aftercare. No guaranteed timelines.
+
+  typical_timeframe:
+    type: string
+    description: >
+      Non-binding general timeframe using cautious language. Must not guarantee
+      healing duration for any piercing type.
+
+  normal_signs:
+    type: array
+    items:
+      type: string
+    description: Signs that may be normal during this stage. Not diagnostic criteria.
+
+  caution_signs:
+    type: array
+    items:
+      type: string
+    description: Signs that may warrant closer attention or professional review.
+
+  common_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs commonly associated with this stage.
+
+  suitable_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs that may support aftercare during this stage when appropriate.
+
+  unsuitable_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs or product types to avoid or use only with piercer guidance.
+
+  suitable_ingredients:
+    type: array
+    items:
+      type: string
+    description: Ingredient IDs appropriate for this stage per editorial review.
+
+  ingredients_to_avoid:
+    type: array
+    items:
+      type: string
+    description: Ingredient IDs to avoid during this stage per APP-aligned guidance.
+
+  jewelry_guidance:
+    type: array
+    items:
+      type: string
+    description: Jewelry fit, material, and change guidance for this stage.
+
+  cleaning_guidance:
+    type: array
+    items:
+      type: string
+    description: Aftercare and cleaning guidance for this stage. No treatment claims.
+
+  when_to_seek_help:
+    type: array
+    items:
+      type: string
+    description: Thresholds for piercer or medical evaluation. No diagnosis implied.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs linked to this healing stage.
+
+  related_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs cross-linked to this stage.
+
+  related_ingredients:
+    type: array
+    items:
+      type: string
+    description: Ingredient IDs cross-linked to this stage.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the record.
