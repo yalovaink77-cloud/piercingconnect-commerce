@@ -1,0 +1,92 @@
+id: internally-threaded-jewelry
+slug: internally-threaded-jewelry
+name: Internally Threaded Jewelry
+summary: Internally threaded jewelry places screw threads inside the removable end, leaving the post that passes through tissue smooth. APP initial jewelry guidance states internally threaded jewelry is part of the APP standard for initial piercing jewelry because it avoids scraping tissue with external thread ridges.
+jewelry_form: construction-internal-thread
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+- eyebrow
+- bridge
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Cross-threading during end attachment may damage threads and leave gaps for bacteria
+- Loose ends may fall out if threads are defective—check tightness daily per APP
+- Thread gaps where attachment does not seat fully may harbor debris
+- Externally threaded jewelry mislabeled as internal remains a marketplace problem
+- Over-tightening may stress threads and damage jewelry
+aftercare_considerations:
+- Check threaded end tightness daily with clean hands per APP
+- Spray sterile saline without rotating post unnecessarily
+- See piercer if end loosens repeatedly—may indicate defective piece per APP
+- Verify threads are fully seated with no gaps when ends are installed
+- Prefer internally threaded or threadless for all fresh piercings per APP
+app_alignment: recommended
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+- eyebrow
+- bridge
+related_materials: *id001
+related_problems:
+- jewelry-quality-issue
+- irritation-bump
+- infection-concern
+- embedded-jewelry
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

@@ -1,0 +1,47 @@
+id: straight-barbell
+slug: straight-barbell
+name: Straight Barbell
+summary: A straight bar with removable ends on both sides. APP initial jewelry guidance notes jewelry must be of a style suited to build and placement; straight barbells are commonly selected for tongue and nipple piercings when length accommodates swelling.
+jewelry_form: barbell-straight
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- tongue
+- nipple
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Excessively long barbells in oral piercings may damage teeth and gums per APP oral guidance
+- Too-short bars may embed as swelling resolves
+- Externally threaded bars may pass rough threads through tissue
+- Loose balls may come off and risk swallowing or aspiration in oral placements
+- Heavy or oversized ends may increase trauma in sensitive tissue
+aftercare_considerations:
+- Oral piercings may use alcohol-free antiseptic mouthwash 4–5 times daily per APP oral guidance
+- Piercer should downsize oral barbells after initial swelling; timing varies
+- Check end tightness daily with clean hands per APP threading guidance
+- Avoid playing with or clicking jewelry against teeth during healing
+- Maintain sterile saline rinsing for external entry points as directed by piercer
+app_alignment: recommended
+related_piercing_types:
+- tongue
+- nipple
+related_materials: *id001
+related_problems:
+- pressure-irritation
+- embedded-jewelry
+- jewelry-quality-issue
+- snagging
+- swelling
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-piercing-faq

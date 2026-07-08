@@ -1,0 +1,46 @@
+id: l-bend
+slug: l-bend
+name: L-Bend Nose Jewelry
+summary: L-bend nose jewelry uses a 90-degree bend on the interior tail for nostril retention. APP initial jewelry guidance highlights nostril screw as a placement-specific style; L-bend variants appear in professional studios but suitability for initial healing depends on anatomy, fit, and piercer practice. Not interchangeable with fashion nose studs.
+jewelry_form: nostril-l-bend
+suitable_for_fresh_piercings: caution
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- nostril
+- high-nostril
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Bend may rotate or slide more than screw profile in some anatomies
+- Insertion may require passing bend through channel, increasing trauma if attempted at home
+- Thin or low-quality wire may bend permanently and create rough surfaces
+- Improper length may leave bend protruding or embedded
+- Less standardized than flat-back labret for initial nostril healing in many studios
+aftercare_considerations:
+- Follow piercer-specific guidance on L-bend versus flat-back or screw for initial wear
+- Spray sterile saline without twisting jewelry
+- Avoid blowing nose forcefully while jewelry is tender
+- Seek piercer adjustment if bend rotates excessively or causes internal soreness
+- Do not swap between L-bend profiles at home during early healing
+app_alignment: acceptable-with-caution
+related_piercing_types:
+- nostril
+- high-nostril
+related_materials: *id001
+related_problems:
+- irritation-bump
+- jewelry-quality-issue
+- embedded-jewelry
+- pressure-irritation
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

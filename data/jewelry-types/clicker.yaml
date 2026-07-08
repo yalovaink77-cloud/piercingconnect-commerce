@@ -1,0 +1,50 @@
+id: clicker
+slug: clicker
+name: Clicker Ring
+summary: A hinged ring that closes with a click mechanism, popular for septum and ear cartilage once healed. APP initial jewelry guidance emphasizes fit, finish, and material; hinged clickers introduce a mechanical closure that must be smooth and secure. Many piercers discuss clickers after healing rather than as first jewelry.
+jewelry_form: ring-clicker
+suitable_for_fresh_piercings: caution
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- septum
+- helix
+- daith
+- lobe
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+risks:
+- Hinge gaps or rough closure points may irritate tissue
+- Low-quality clickers may pop open and snag or fall out
+- Decorative elements may add weight or catch on hair and masks
+- Premature change to clicker before healing may disrupt fistula formation
+- Gem settings with adhesive may fail per APP gemstone guidance
+aftercare_considerations:
+- Confirm piercer approves clicker timing for your healing stage
+- Keep hinge area clean with sterile saline without forcing mechanism open repeatedly
+- Check closure security daily if piercer advises; seek adjustment if ring opens spontaneously
+- Prefer professional installation for first clicker change
+- Verify gem settings are mechanically set rather than adhesive-only per APP
+app_alignment: acceptable-with-caution
+related_piercing_types:
+- septum
+- helix
+- daith
+- lobe
+- conch
+related_materials: *id001
+related_problems:
+- snagging
+- jewelry-quality-issue
+- irritation-bump
+- pressure-irritation
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

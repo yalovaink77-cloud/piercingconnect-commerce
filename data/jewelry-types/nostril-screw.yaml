@@ -1,0 +1,47 @@
+id: nostril-screw
+slug: nostril-screw
+name: Nostril Screw
+summary: A nostril screw is specialty nose jewelry with a curved or bent tail that rests inside the nostril without a separate backing. APP initial jewelry guidance explicitly lists specialty jewelry such as a nostril screw among styles suited to specific placements when material and finish meet professional standards.
+jewelry_form: nostril-screw
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- nostril
+- high-nostril
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Incorrect bend profile may not suit individual nostril shape and may shift
+- Rough screw bend or post may irritate internal nostril tissue
+- Inserting or removing screw profile may traumatize channel if done during healing
+- Low gauge or thin wire may be treated like a splinter per APP gauge guidance
+- Decorative top weight may affect angle during swelling
+aftercare_considerations:
+- Professional insertion and downsizing only during early healing
+- Spray sterile saline; avoid rotating or twisting screw during cleaning
+- Keep area free of makeup and harsh nose products
+- Piercer should confirm screw curve matches anatomy
+- Prefer implant-grade titanium or niobium for nickel-sensitive clients when piercer agrees
+app_alignment: recommended
+related_piercing_types:
+- nostril
+- high-nostril
+related_materials: *id001
+related_problems:
+- irritation-bump
+- embedded-jewelry
+- jewelry-quality-issue
+- migration
+- swelling
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

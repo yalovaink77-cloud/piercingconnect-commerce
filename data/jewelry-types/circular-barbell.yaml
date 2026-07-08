@@ -1,0 +1,47 @@
+id: circular-barbell
+slug: circular-barbell
+name: Circular Barbell
+summary: A horseshoe-shaped bar with two removable ends, also called a circular barbell. APP notes rings are best for some areas and bars for others; circular barbells are commonly used for septum and smiley piercings when diameter and gauge suit anatomy.
+jewelry_form: barbell-circular
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- septum
+- smiley
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Diameter too small may compress tissue; too large may increase movement and snagging
+- Ends that loosen may fall out or expose sharp threads
+- Oral-adjacent placements may contact teeth or gums if oversized
+- Externally threaded ends may scrape tissue during insertion
+- Flipping or rotating jewelry during healing may cause mechanical irritation
+aftercare_considerations:
+- Spray sterile saline for external cleaning per APP body aftercare
+- Oral-adjacent piercings follow APP oral aftercare where applicable
+- Check end tightness daily with clean hands for threaded styles
+- Piercer should assess diameter after swelling subsides
+- Avoid unnecessary movement or flipping during early healing
+app_alignment: recommended
+related_piercing_types:
+- septum
+- smiley
+related_materials: *id001
+related_problems:
+- snagging
+- pressure-irritation
+- jewelry-quality-issue
+- irritation-bump
+- swelling
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

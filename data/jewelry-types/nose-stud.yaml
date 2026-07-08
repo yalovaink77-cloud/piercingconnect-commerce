@@ -1,0 +1,47 @@
+id: nose-stud
+slug: nose-stud
+name: Nose Stud
+summary: A nostril stud is a general term for small post-style nose jewelry with a decorative face and an interior retention mechanism. APP initial jewelry guidance references specialty jewelry such as nostril screws for specific placements; flat-back labret posts and nostril-appropriate studs are commonly used for initial nostril piercings when professionally fitted.
+jewelry_form: nostril-stud
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- nostril
+- high-nostril
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Butterfly-back or improper retention may irritate nostril tissue
+- Post length too short may embed during swelling
+- Decorative top larger than piercing angle may shift and irritate
+- Low-quality studs with rough posts may scrape the fistula
+- Self-changing studs during healing may cause trauma
+aftercare_considerations:
+- Spray sterile saline once or twice daily per APP body aftercare
+- Avoid makeup, skin care, and nose blowing that deposits product on jewelry
+- Return to piercer for downsizing when swelling subsides
+- Do not remove stud during early healing without professional guidance
+- Confirm retention style is appropriate for nostril anatomy—not fashion earring backs
+app_alignment: recommended
+related_piercing_types:
+- nostril
+- high-nostril
+related_materials: *id001
+related_problems:
+- embedded-jewelry
+- irritation-bump
+- jewelry-quality-issue
+- swelling
+- pressure-irritation
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

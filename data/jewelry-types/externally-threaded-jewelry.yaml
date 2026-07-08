@@ -1,0 +1,69 @@
+id: externally-threaded-jewelry
+slug: externally-threaded-jewelry
+name: Externally Threaded Jewelry
+summary: Externally threaded jewelry has screw threads cut into the post itself, so the comparatively rough thread surface may pass through tissue during insertion and removal. APP initial jewelry guidance contrasts this with internally threaded jewelry, which is part of the APP standard for initial piercing jewelry.
+jewelry_form: construction-external-thread
+suitable_for_fresh_piercings: 'false'
+suitable_for_healed_piercings: caution
+common_piercing_types: []
+suitable_materials:
+- mystery-metal
+- surgical-steel
+- plated-jewelry
+risks:
+- Thread ridges may scrape healing tissue during insertion and jewelry changes per APP
+- Common in low-cost marketplace body jewelry with poor polish
+- May combine with non-implant-grade metals and plated surfaces
+- External threads can trap debris and bacteria in thread grooves
+- Increased mechanical trauma may contribute to irritation bumps or delayed healing
+aftercare_considerations:
+- APP favors internally threaded or threadless jewelry for fresh piercings—ask piercer to replace externally threaded jewelry if present
+- Do not purchase externally threaded jewelry for unhealed piercings
+- If already inserted, avoid unnecessary removal; seek professional assessment
+- Maintain sterile saline aftercare while planning professional jewelry upgrade
+- Document irritation timing relative to jewelry source and threading type for piercer review
+app_alignment: not-recommended
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_materials:
+- mystery-metal
+- surgical-steel
+- plated-jewelry
+- acrylic
+related_problems:
+- jewelry-quality-issue
+- irritation-bump
+- delayed-healing
+- infection-concern
+- allergic-reaction
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting
+- app-piercing-faq

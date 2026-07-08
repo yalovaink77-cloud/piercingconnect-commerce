@@ -1,0 +1,52 @@
+id: curved-barbell
+slug: curved-barbell
+name: Curved Barbell
+summary: A curved bar with two removable ends, shaped to follow anatomy in placements such as navel, eyebrow, and some lip piercings. APP guidance requires jewelry style suited to placement; curved bars are among the forms professional piercers select when straight or ring styles are less appropriate.
+jewelry_form: barbell-curved
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- navel
+- eyebrow
+- vertical-labret
+- bridge
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Incorrect curve radius may cause pressure or migration in surface-adjacent placements
+- Snagging on waistbands or clothing common in navel piercings
+- Too-tight curve may compress tissue; too-open curve may increase movement
+- Externally threaded posts increase tissue trauma risk during changes
+- Low-quality curves with rough bends may irritate the fistula
+aftercare_considerations:
+- Spray sterile saline once or twice daily per APP body aftercare
+- Protect navel piercings from waistband friction and moisture buildup
+- Minimize jewelry movement; piercer should assess fit early for eyebrow and bridge placements
+- Return for downsizing or length adjustment when swelling subsides
+- Prefer internally threaded or threadless ends for fresh piercings
+app_alignment: recommended
+related_piercing_types:
+- navel
+- eyebrow
+- vertical-labret
+- bridge
+related_materials: *id001
+related_problems:
+- snagging
+- migration
+- pressure-irritation
+- moisture-irritation
+- jewelry-quality-issue
+- irritation-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

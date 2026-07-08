@@ -1,0 +1,82 @@
+id: flat-back-labret
+slug: flat-back-labret
+name: Flat-Back Labret
+summary: A labret-style post with a flat disk on the interior side and a removable decorative or plain end on the exterior. APP initial jewelry guidance favors styles suited to placement; flat-back labret posts are widely used for ear cartilage, nostril, and lip piercings when length, gauge, and threading meet professional standards.
+jewelry_form: labret-post
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Post too short may contribute to embedding when swelling is present
+- Post too long may catch on hair, masks, or bedding and cause trauma
+- Externally threaded posts may scrape tissue during insertion or end changes
+- Loose decorative ends may fall out if threads are defective or not checked
+- Poor polish or disk edges may irritate tissue inside the piercing channel
+aftercare_considerations:
+- Spray sterile saline labeled for wound wash; avoid rotating jewelry during cleaning per APP body aftercare
+- Check threaded end tightness daily with clean hands if jewelry uses screw-on ends per APP
+- Return to piercer for downsizing when initial swelling subsides; timing varies individually
+- Prefer internally threaded or threadless posts for fresh piercings per APP threading guidance
+- Do not change jewelry at home during early healing without piercer guidance
+app_alignment: recommended
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+related_materials: *id001
+related_problems:
+- embedded-jewelry
+- pressure-irritation
+- snagging
+- jewelry-quality-issue
+- irritation-bump
+- sleeping-irritation
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

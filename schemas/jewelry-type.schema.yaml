@@ -1,0 +1,163 @@
+schema_version: "1.0"
+
+entity: jewelry-type
+
+description: >
+  Defines the standard structure for jewelry type records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - summary
+  - jewelry_form
+  - suitable_for_fresh_piercings
+  - suitable_for_healed_piercings
+  - common_piercing_types
+  - suitable_materials
+  - risks
+  - aftercare_considerations
+  - app_alignment
+  - related_piercing_types
+  - related_materials
+  - related_problems
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the jewelry type.
+    example: flat-back-labret
+
+  slug:
+    type: string
+    description: URL-safe jewelry type identifier matching id.
+    example: flat-back-labret
+
+  name:
+    type: string
+    description: Human-readable jewelry type name.
+    example: Flat-Back Labret
+
+  summary:
+    type: string
+    description: Neutral overview of the jewelry form and typical piercing contexts.
+
+  jewelry_form:
+    type: string
+    allowed:
+      - labret-post
+      - barbell-straight
+      - barbell-curved
+      - barbell-circular
+      - ring-captive
+      - ring-seamless
+      - ring-clicker
+      - nostril-stud
+      - nostril-screw
+      - nostril-l-bend
+      - construction-threadless
+      - construction-internal-thread
+      - construction-external-thread
+    description: Functional jewelry form or construction category.
+
+  suitable_for_fresh_piercings:
+    type: string
+    allowed:
+      - true
+      - false
+      - caution
+      - unknown
+    description: PiercingConnect editorial suitability flag for fresh piercings.
+
+  suitable_for_healed_piercings:
+    type: string
+    allowed:
+      - true
+      - false
+      - caution
+      - unknown
+    description: PiercingConnect editorial suitability flag for healed piercings.
+
+  common_piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs where this jewelry form is commonly used.
+
+  suitable_materials:
+    type: array
+    items:
+      type: string
+    description: Material IDs from data/materials/ appropriate for this jewelry type.
+
+  risks:
+    type: array
+    items:
+      type: string
+    description: Mechanical, fit, or healing risks when misused.
+
+  aftercare_considerations:
+    type: array
+    items:
+      type: string
+    description: Care notes specific to this jewelry form or construction.
+
+  app_alignment:
+    type: string
+    allowed:
+      - recommended
+      - acceptable-with-caution
+      - not-recommended
+      - not-addressed
+      - unknown
+    description: Alignment with Association of Professional Piercers initial jewelry guidance.
+
+  related_piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs cross-linked to this jewelry type.
+
+  related_materials:
+    type: array
+    items:
+      type: string
+    description: Material IDs cross-linked to this jewelry type.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs where this jewelry type is relevant.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the record.

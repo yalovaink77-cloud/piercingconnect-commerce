@@ -1,0 +1,80 @@
+id: threadless-jewelry
+slug: threadless-jewelry
+name: Threadless Jewelry
+summary: Threadless or press-fit jewelry uses a pin coupling on the decorative end with no screw threads at the connection. APP initial jewelry guidance lists threadless jewelry as an acceptable alternative to internally threaded jewelry because the post passing through tissue can remain smooth.
+jewelry_form: construction-threadless
+suitable_for_fresh_piercings: 'true'
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Improper pin bend tension may allow end to pop out
+- Forcing ends on or off may scratch post or irritate tissue
+- Mixing post and end brands without piercer verification may fit poorly
+- Low-quality threadless components may have rough pin edges
+- Confusion with push-pin fashion earrings not designed for body piercing
+aftercare_considerations:
+- Do not remove or swap threadless ends during early healing without piercer guidance
+- Spray sterile saline without twisting or pulling on decorative end
+- See piercer if end feels loose or detaches; APP advises checking closures daily for threaded styles—follow piercer direction for threadless
+- Prefer professional brands with consistent pin and post tolerances
+- Internally threaded and threadless both avoid external threads on the wearable post per APP
+app_alignment: recommended
+related_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+related_materials: *id001
+related_problems:
+- jewelry-quality-issue
+- snagging
+- embedded-jewelry
+- irritation-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

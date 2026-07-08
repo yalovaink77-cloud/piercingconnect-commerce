@@ -1,0 +1,52 @@
+id: captive-bead-ring
+slug: captive-bead-ring
+name: Captive Bead Ring
+summary: A round ring that holds a captive bead or ball under tension without threads. APP initial jewelry guidance states rings are best for some areas and bars for others; captive bead rings may be selected for certain initial piercings when diameter, gauge, and quality meet professional standards. Quality rings should be annealed per APP.
+jewelry_form: ring-captive
+suitable_for_fresh_piercings: caution
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- septum
+- lobe
+- helix
+- nostril
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Bead may pop out if ring tension is incorrect, risking channel closure or swallowing in oral areas
+- Opening or closing rings with pliers during healing may damage metal and tissue
+- Diameter or gauge inappropriate for anatomy may contribute to migration per APP
+- Sleeping on ring-style ear jewelry may increase irritation
+- Rough ring surface or tool marks may delay healing
+aftercare_considerations:
+- APP notes quality rings are annealed for pliability; professional insertion and adjustment preferred
+- If bead is loose, see piercer for tension adjustment or replacement per APP
+- Do not open or close captive rings at home during early healing
+- Spray sterile saline; avoid rotating ring unnecessarily during cleaning
+- Confirm diameter suits anatomy and swelling before selecting for initial wear
+app_alignment: acceptable-with-caution
+related_piercing_types:
+- septum
+- lobe
+- upper-lobe
+- helix
+- nostril
+related_materials: *id001
+related_problems:
+- snagging
+- migration
+- jewelry-quality-issue
+- sleeping-irritation
+- irritation-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting

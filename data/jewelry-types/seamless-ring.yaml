@@ -1,0 +1,52 @@
+id: seamless-ring
+slug: seamless-ring
+name: Seamless Ring
+summary: A continuous ring without a captive bead, sometimes with a slight hinge or weld seam depending on design. APP discusses ring styles for appropriate placements; seamless rings are more commonly discussed for healed piercings when professional fit is confirmed. Initial use depends on piercing type and piercer selection.
+jewelry_form: ring-seamless
+suitable_for_fresh_piercings: caution
+suitable_for_healed_piercings: 'true'
+common_piercing_types:
+- lobe
+- helix
+- septum
+- nostril
+suitable_materials: &id001
+- implant-grade-titanium
+- niobium
+- solid-14k-gold
+- surgical-steel
+risks:
+- Seam or hinge points may create rough areas if quality is low
+- Inserting seamless rings may require twisting through tissue, increasing trauma if done improperly
+- Snagging on hair, clothing, or bedding
+- Diameter too tight may compress tissue during swelling
+- Non-annealed rings may be difficult to install without tools and tissue damage
+aftercare_considerations:
+- Professional installation strongly preferred; do not self-insert during healing
+- Spray sterile saline without unnecessary rotation
+- See piercer if ring catches frequently or fit feels tight as swelling changes
+- Confirm ring is annealed and polished to mirror finish per APP quality guidance
+- Hoops are often discussed after healing for some ear and nostril piercings; follow piercer timeline
+app_alignment: acceptable-with-caution
+related_piercing_types:
+- lobe
+- upper-lobe
+- helix
+- septum
+- nostril
+related_materials: *id001
+related_problems:
+- snagging
+- migration
+- jewelry-quality-issue
+- sleeping-irritation
+- pressure-irritation
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured jewelry type record from APP initial jewelry guidance and professional sources. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-aftercare
+- app-troubleshooting
