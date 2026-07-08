@@ -1,0 +1,111 @@
+id: swelling
+slug: swelling
+
+name: Swelling
+
+summary: >
+  Puffiness around a new piercing is common in the first days of healing and
+  may also signal irritation or a need for professional review when it worsens.
+
+description: |
+  Swelling is one of the most frequently reported changes after a new piercing.
+  Professional aftercare guidance and medical resources describe mild to moderate
+  swelling as a normal part of early healing as the body responds to the new
+  opening in the skin or cartilage.
+
+  Swelling often peaks within the first few days and then gradually subsides when
+  aftercare is consistent and the site is protected from pressure and trauma.
+  However, swelling that increases after the initial period, spreads widely, or
+  occurs with other concerning signs may warrant piercer or medical follow-up.
+
+  Jewelry length and fit matter during swollen stages. Your piercer may recommend
+  longer initial jewelry and a later downsizing once swelling settles. This
+  record describes what users commonly observe — it does not diagnose any
+  underlying condition.
+
+symptoms:
+  - Puffy or enlarged tissue around one or both sides of the piercing
+  - Jewelry may feel tighter than when first inserted
+  - Mild tenderness when moving the area or during cleaning
+  - Swelling that is localized to the piercing site in early healing
+  - Difficulty seeing full jewelry ends if swelling is pronounced
+  - Swelling that reduces with rest and gentle aftercare in typical healing
+
+possible_causes:
+  - Normal inflammatory response during fresh and early healing
+  - Trauma from sleeping on the piercing or accidental bumps
+  - Jewelry that is too short for current swelling levels
+  - Allergic or sensitivity reaction to jewelry material
+  - Irritation from over-cleaning, harsh products, or frequent touching
+  - Oral piercings swelling in response to hot, spicy, or acidic foods
+  - Infection or significant irritation when swelling worsens with other signs
+  - Fluid retention or hormonal changes affecting healing in some individuals
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - lip-and-oral-piercings
+  - tongue-piercings
+  - navel-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+
+risk_level: normal
+
+recommended_actions:
+  - Keep jewelry in place unless a piercer advises a safe change for fit
+  - Apply a clean cold compress briefly if your piercer approves for your piercing type
+  - Sleep with the piercing elevated or avoid pressure on the site when possible
+  - Clean gently with sterile saline solution as directed by your piercer
+  - For oral piercings, choose cool soft foods and avoid irritants early on
+  - Contact your piercer if swelling seems excessive or jewelry is embedding
+  - Monitor whether swelling is improving day by day during the first week
+
+actions_to_avoid:
+  - Forcing jewelry through tissue that feels too tight
+  - Taking jewelry out during significant swelling without professional guidance
+  - Applying ice directly to bare skin without a clean barrier
+  - Using anti-inflammatory medication as a substitute for professional assessment when swelling worsens
+  - Ignoring swelling that continues to increase after the first several days
+  - Over-handling or repeatedly checking the piercing
+
+when_to_seek_professional_help:
+  - Swelling worsens after the first few days instead of gradually improving
+  - Swelling spreads far beyond the piercing or affects facial symmetry noticeably
+  - Jewelry becomes embedded or skin grows over the ends
+  - Swelling is accompanied by spreading redness, warmth, thick discharge, or fever
+  - You have difficulty breathing or swallowing after oral or facial piercings
+  - Pain becomes severe or sudden
+  - A piercer recommends medical evaluation for persistent or unusual swelling
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-swelling-normal
+  - swollen-piercing-aftercare
+  - cartilage-piercing-swelling
+  - nose-piercing-swollen
+  - lip-piercing-swelling
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq
+  - nhs-infected-piercings
+  - mayo-clinic-piercings

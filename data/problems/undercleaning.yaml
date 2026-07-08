@@ -1,0 +1,103 @@
+id: undercleaning
+slug: undercleaning
+
+name: Undercleaning
+
+summary: >
+  Insufficient or inconsistent gentle cleansing can allow buildup of normal
+  healing discharge, sweat, and debris around a piercing. APP aftercare guidance
+  supports brief daily sterile saline rinses to keep the site comfortably clean.
+
+description: >
+  Professional aftercare from the Association of Professional Piercers recommends
+  a simple routine centered on brief sterile saline rinses and otherwise
+  minimizing disturbance to the piercing. Undercleaning does not mean the
+  piercing must be scrubbed or soaked aggressively; it means the site may not
+  receive enough gentle rinsing to manage normal healing discharge, product
+  residue, or environmental debris. Buildup can contribute to odor, crust
+  accumulation, and mechanical irritation if left unaddressed. This record
+  frames undercleaning as an aftercare balance issue and does not diagnose
+  infection or other medical conditions.
+
+symptoms:
+  - thick or hardened crust accumulating around jewelry that is difficult to rinse away gently
+  - visible debris, hair, or product residue trapped near the entry or exit points
+  - mild odor that improves after a gentle saline rinse
+  - increased tenderness linked to crust pressing on the jewelry or skin
+  - redness or swelling that improves when buildup is gently removed with rinsing
+  - skipped or inconsistent aftercare over several days
+
+possible_causes:
+  - avoiding cleaning due to fear of moving the jewelry or causing pain
+  - following advice to never clean the piercing at all, contrary to professional guidance
+  - irregular aftercare during travel, illness, or schedule changes
+  - hair, makeup, or body products collecting around the site without rinsing
+  - oral piercings not receiving recommended saline or appropriate mouth-rinse care
+  - navel or surface piercings exposed to sweat, clothing lint, or belt friction without routine rinsing
+  - misunderstanding APP guidance to leave the piercing alone as meaning no saline rinses at all
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - navel-piercings
+  - body-piercings
+  - oral-piercings
+  - surface-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - resume APP-style aftercare — brief sterile saline rinses once or twice daily, or as your piercer directs
+  - let saline flow across the site to soften crust; do not force or pick dried material off
+  - pat dry gently with clean disposable paper products or low-lint gauze after rinsing
+  - keep hair tied back and avoid makeup, lotion, or hair products contacting the piercing when possible
+  - for oral piercings, follow piercer guidance on saline rinses and alcohol-free mouth care
+  - contact your piercer if buildup returns quickly or you are unsure whether your routine is sufficient
+
+actions_to_avoid:
+  - ignoring crust buildup for many days out of fear of cleaning
+  - picking, scraping, or fingernail-removal of hardened crust
+  - using alcohol, hydrogen peroxide, or harsh soaps to compensate for missed cleanings
+  - increasing cleaning to many times per day without professional guidance
+  - rotating or twisting jewelry aggressively to dislodge debris
+  - assuming odor or discharge always means infection without professional assessment
+
+when_to_seek_professional_help:
+  - thick, yellow, green, or foul-smelling discharge that persists after gentle saline care
+  - spreading redness, warmth, or swelling that worsens over time
+  - fever or feeling systemically unwell
+  - pain that increases significantly despite appropriate gentle cleaning
+  - jewelry that appears embedded or increasingly difficult to see at the entry or exit
+  - uncertainty about whether symptoms reflect undercleaning, infection concern, or another issue
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - undercleaning-piercing
+  - piercing-crust-buildup
+  - piercing-aftercare-routine
+  - sterile-saline-aftercare
+  - piercing-hygiene
+  - piercing-discharge-buildup
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

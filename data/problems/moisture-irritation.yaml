@@ -1,0 +1,102 @@
+id: moisture-irritation
+slug: moisture-irritation
+
+name: Moisture Irritation
+
+summary: >
+  Excess moisture around a healing piercing can soften tissue, trap debris,
+  and contribute to irritation. Keeping the area clean and dry between
+  routine care may help reduce discomfort.
+
+description: >
+  A healing piercing needs a balance of gentle cleansing and adequate drying.
+  Professional aftercare guidance notes that prolonged wetness — from over-rinsing,
+  occlusive products, sweat, humidity, or submersion — can irritate delicate
+  healing tissue. Moisture irritation is a common mechanical and environmental
+  concern, not a diagnosis. Signs may overlap with normal early healing, so
+  context and trend matter. This record describes observable patterns and safe
+  self-care framing without implying a specific medical condition.
+
+symptoms:
+  - skin around the piercing feels persistently damp or macerated
+  - soft, whitish, or wrinkled tissue near the entry or exit points
+  - increased tenderness when the area stays wet
+  - heavier or softer crusting that re-forms quickly after drying
+  - mild redness that worsens after swimming, showering, or sweating
+  - itching or discomfort in humid or sweaty conditions
+
+possible_causes:
+  - not gently drying the area after saline rinses or showers
+  - excessive rinsing or soaking beyond professional aftercare guidance
+  - occlusive ointments, thick creams, or heavy balms trapping moisture
+  - swimming, hot tubs, or prolonged submersion before healing allows
+  - tight headwear, bandages, or dressings that hold moisture against the site
+  - high humidity, heavy sweating, or poor airflow around the piercing
+  - hair or clothing repeatedly covering and dampening the area
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - navel-piercings
+  - body-piercings
+  - oral-piercings
+  - surface-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - rinse gently with sterile saline as directed by your piercer, then pat dry with clean disposable paper products or a low-lint gauze
+  - allow the area brief air exposure after cleaning when practical
+  - keep hair, clothing, and bedding from trapping moisture against the piercing
+  - shower with clean water and avoid letting shampoo, conditioner, or body wash pool around the site
+  - avoid submerging the piercing in pools, hot tubs, lakes, or baths until your piercer confirms it is appropriate
+  - contact your piercer if irritation persists after reducing moisture exposure
+
+actions_to_avoid:
+  - soaking the piercing repeatedly throughout the day
+  - applying thick ointments or occlusive products unless specifically advised by a qualified professional
+  - covering the piercing with non-breathable bandages for extended periods
+  - using alcohol, hydrogen peroxide, or harsh antiseptics to dry the area
+  - picking, peeling, or aggressively wiping softened crust
+  - assuming all redness or tenderness means infection without professional assessment
+
+when_to_seek_professional_help:
+  - warmth, spreading redness, or swelling that worsens rather than fluctuates with care changes
+  - thick, yellow, green, or foul-smelling discharge
+  - fever or feeling systemically unwell
+  - pain that increases significantly or becomes difficult to manage
+  - tissue that remains macerated despite consistent drying and aftercare adjustments
+  - uncertainty about whether symptoms reflect irritation, infection concern, or another issue
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - moisture-irritation
+  - wet-piercing
+  - piercing-maceration
+  - piercing-too-wet
+  - drying-piercing-aftercare
+  - swimming-with-new-piercing
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq
+  - mayo-clinic-piercings

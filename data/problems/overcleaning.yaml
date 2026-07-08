@@ -1,0 +1,103 @@
+id: overcleaning
+slug: overcleaning
+
+name: Overcleaning
+
+summary: >
+  Cleaning a healing piercing too often or too aggressively can strip protective
+  crust, disrupt tissue, and worsen irritation. Professional aftercare guidance
+  favors brief, gentle saline rinses rather than frequent scrubbing.
+
+description: >
+  Association of Professional Piercers aftercare guidance emphasizes a simple,
+  low-intervention routine: brief rinses with sterile saline solution and
+  otherwise leaving the piercing alone to heal. Overcleaning — whether through
+  excessive frequency, vigorous scrubbing, rotating jewelry, or use of harsh
+  products — can remove helpful surface crust, dry out tissue, and create
+  mechanical trauma. Users sometimes increase cleaning when they notice redness
+  or discharge, which can unintentionally prolong irritation. This record
+  describes overcleaning as a common aftercare imbalance, not a medical diagnosis.
+
+symptoms:
+  - increased redness or tenderness immediately after cleaning sessions
+  - dry, flaky, or raw-looking skin around the piercing
+  - recurring bleeding or fresh crusting after aggressive cleaning
+  - itching or stinging that follows saline rinses or scrubbing
+  - irritation bumps or persistent swelling linked to frequent handling
+  - healing that seems to stall when cleaning frequency increases
+
+possible_causes:
+  - cleaning more often than professional aftercare guidance recommends
+  - scrubbing, picking, or using cotton swabs around the piercing site
+  - rotating, twisting, or moving jewelry during cleaning
+  - using alcohol, hydrogen peroxide, antibacterial soaps, or undiluted sea salt soaks as primary aftercare
+  - anxiety about infection leading to repeated unnecessary cleansing
+  - following outdated or conflicting online aftercare advice
+  - combining multiple products or routines beyond piercer instructions
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - navel-piercings
+  - body-piercings
+  - oral-piercings
+  - surface-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - follow APP-style aftercare — brief sterile saline rinses once or twice daily, or as your piercer directs
+  - rinse gently without scrubbing; allow water and saline to flow across the site rather than forcing debris off
+  - pat dry with clean disposable paper products or low-lint gauze after rinsing
+  - leave the piercing alone between scheduled cleanings; minimize touching and jewelry movement
+  - reduce cleaning frequency temporarily if irritation clearly worsens after each session, then confirm adjustments with your piercer
+  - contact your piercer for a routine check if you are unsure whether your current routine is appropriate
+
+actions_to_avoid:
+  - cleaning the piercing many times per day without professional guidance
+  - using cotton balls or swabs that leave fibers around the jewelry
+  - rotating, twisting, or sliding jewelry to break up crust
+  - applying alcohol, hydrogen peroxide, betadine, tea tree oil, or harsh soaps
+  - creating strong homemade salt soaks with unmeasured concentrations
+  - adding more products or steps when irritation appears without piercer consultation
+  - diagnosing infection based on normal healing discharge and responding solely by increasing cleaning
+
+when_to_seek_professional_help:
+  - symptoms worsen despite returning to a gentle, APP-aligned aftercare routine
+  - spreading redness, increasing warmth, or swelling that does not improve with reduced handling
+  - thick, yellow, green, or foul-smelling discharge
+  - fever or systemic illness
+  - pain that becomes severe or steadily increases
+  - uncertainty about whether current symptoms reflect overcleaning, infection concern, or another issue
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - overcleaning-piercing
+  - cleaning-piercing-too-much
+  - piercing-aftercare-routine
+  - sterile-saline-aftercare
+  - piercing-irritation-from-cleaning
+  - leave-piercing-alone
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

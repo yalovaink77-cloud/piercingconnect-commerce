@@ -1,0 +1,108 @@
+id: crusting
+slug: crusting
+
+name: Crusting
+
+summary: >
+  Dried fluid around a healing piercing is a common part of normal healing and
+  is usually managed with gentle saline rinsing rather than picking or scraping.
+
+description: |
+  Crusting around a piercing is one of the most frequently observed changes
+  during healing. Professional aftercare guidance describes a whitish-yellow
+  fluid that can form a crystalline crust on or near jewelry as a normal
+  secretion during the healing process — not necessarily a sign of infection.
+
+  This dried fluid, sometimes called lymph or exudate, may accumulate at the
+  entry and exit points of the piercing. Gentle cleaning during aftercare can
+  soften and remove crust without forcing jewelry or damaging fragile healing
+  tissue. Excessive, malodorous, or green crusting may warrant professional
+  review alongside other symptoms.
+
+  This record describes what users commonly observe during healing. It does not
+  diagnose any condition. If crusting appears unusual or is accompanied by
+  worsening pain, spreading redness, or thick colored discharge, consult a
+  qualified piercer or healthcare provider.
+
+symptoms:
+  - Small crystalline or flaky deposits around jewelry entry or exit points
+  - Whitish-yellow dried fluid on or near the jewelry
+  - Crust that softens during saline rinsing or showering
+  - Mild stiffness of jewelry due to dried secretions
+  - Crust that re-forms between cleanings during active healing
+  - No foul odor or heavy green or gray buildup in typical normal healing
+
+possible_causes:
+  - Normal secretion of interstitial fluid and dead cells during healing
+  - Lymph fluid drying at the piercing openings
+  - Incomplete drying after saline rinsing or showering
+  - Minor irritation causing slightly increased fluid at the site
+  - Hair, clothing, or bedding contact disturbing dried crust
+  - Over-cleaning or harsh products irritating the site and increasing discharge
+  - Infection or significant irritation when crust is thick, colored, or malodorous
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: normal
+
+recommended_actions:
+  - Wash hands before touching the piercing or cleaning crust
+  - Spray or rinse gently with sterile saline wound wash during aftercare
+  - Use clean disposable gauze or cotton swabs to remove softened crust
+  - Pat the area dry with clean disposable paper products after cleaning
+  - Leave jewelry in place unless a piercer advises otherwise
+  - Keep bedding and clothing clean to reduce debris around the site
+  - Contact your piercer if crusting seems excessive or unusual for your stage of healing
+
+actions_to_avoid:
+  - Picking, scraping, or forcibly removing dry crust with fingernails or tools
+  - Twisting or rotating jewelry aggressively to break crust free
+  - Using alcohol, hydrogen peroxide, or harsh antiseptics to dissolve crust
+  - Applying ointments that can trap debris and limit air circulation
+  - Over-cleaning in an attempt to eliminate all crust immediately
+  - Assuming all crust indicates infection without reviewing other symptoms
+
+when_to_seek_professional_help:
+  - Crust becomes copious, green, gray, or foul-smelling
+  - Crusting is accompanied by spreading redness, warmth, or increasing pain
+  - Discharge beneath the crust is thick and yellow or green
+  - You develop fever or feel generally unwell
+  - Crust persists with worsening irritation despite consistent gentle aftercare
+  - You are unsure whether the crust pattern is normal for your healing stage
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-crust-normal
+  - piercing-crust-aftercare
+  - nose-piercing-crust
+  - cartilage-piercing-crust
+  - how-to-clean-piercing-crust
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq

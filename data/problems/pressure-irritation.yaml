@@ -1,0 +1,109 @@
+id: pressure-irritation
+slug: pressure-irritation
+
+name: Pressure Irritation
+
+summary: >
+  Constant pressure or friction against a healing piercing from clothing,
+  gear, or body contact can keep tissue inflamed and delay comfortable healing.
+
+description: |
+  Healing piercings are sensitive to mechanical stress. Professional aftercare
+  guidance advises avoiding undue trauma such as friction and pressure from
+  clothing, excessive motion, and vigorous cleaning because these can prolong
+  healing and contribute to scar tissue or migration in some placements.
+
+  Pressure irritation often develops when something repeatedly pushes against
+  the jewelry — tight waistbands on navel piercings, bra straps on nipples,
+  helmets on ears, or phones and glasses on facial piercings. Users may notice
+  redness, tenderness, or a flare after activities that compress the site.
+
+  This record describes common pressure-related irritation patterns. It does
+  not diagnose infection or guarantee a specific outcome. Identifying and
+  reducing pressure sources, often with piercer input on jewelry fit, is the
+  usual first step.
+
+symptoms:
+  - Redness or tenderness localized where pressure is applied
+  - Discomfort that worsens after specific clothing, gear, or activities
+  - Jewelry that feels pushed to one side or angled after compression
+  - Flare of swelling after sports, seatbelts, backpacks, or tight garments
+  - Irritation marks or indentations on skin from straps, bands, or devices
+  - Symptoms that improve when pressure is removed for several days
+
+possible_causes:
+  - Tight clothing, waistbands, or undergarments pressing on the piercing
+  - Sports equipment, helmets, headphones, or eyewear resting on the site
+  - Body weight or habitual posture placing pressure on navel or surface piercings
+  - Jewelry that is too short or too long for current swelling, increasing contact stress
+  - Adhesive bandages or medical tape used repeatedly over the area
+  - Phone holding, sleeping position, or workplace gear causing repeated compression
+  - Vigorous cleaning or frequent manipulation adding mechanical trauma
+
+affected_piercings:
+  - navel-piercings
+  - nipple-piercings
+  - ear-piercings
+  - cartilage-piercings
+  - nose-piercings
+  - surface-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - Identify activities, garments, or gear that compress the piercing and adjust or pause them when possible
+  - Choose loose, breathable clothing that does not rub the jewelry during healing
+  - Use protective strategies your piercer recommends, such as a vented eye patch for navel piercings or sports bra support for nipples
+  - Clean gently with sterile saline and pat dry without aggressive scrubbing
+  - Visit your piercer to assess whether jewelry length or style contributes to pressure points
+  - Rotate sleep position or use positioning aids to keep weight off the piercing
+  - Track whether symptoms improve after pressure reduction over several days
+
+actions_to_avoid:
+  - Continuing activities that clearly compress or twist the jewelry
+  - Tightening jewelry yourself to compensate for swelling without professional assessment
+  - Applying alcohol, hydrogen peroxide, or harsh antiseptics to inflamed tissue
+  - Ignoring angled jewelry or repeated flares that may signal fit problems
+  - Using non-breathable adhesive coverings for extended periods unless directed
+  - Assuming pressure-related redness is always harmless without monitoring trends
+
+when_to_seek_professional_help:
+  - Redness, swelling, or pain worsens despite reducing pressure
+  - Jewelry angle changes noticeably or migration is suspected
+  - Skin between entry and exit becomes thin, hard, or calloused-looking
+  - Discharge becomes thick, yellow, green, or foul-smelling
+  - Pressure irritation persists for weeks without improvement after adjustments
+  - A piercer recommends medical evaluation based on tissue changes they observe
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-pressure-irritation
+  - tight-clothes-piercing
+  - navel-piercing-waistband
+  - cartilage-piercing-pressure
+  - piercing-friction-irritation
+  - sports-with-new-piercing
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

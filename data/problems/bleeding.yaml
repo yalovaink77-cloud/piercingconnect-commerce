@@ -1,0 +1,110 @@
+id: bleeding
+slug: bleeding
+
+name: Bleeding
+
+summary: >
+  Minor bleeding or spotting is common with new piercings and may also occur
+  after trauma — persistent or heavy bleeding warrants professional review.
+
+description: |
+  A small amount of blood or dried blood crust around a fresh piercing is
+  frequently reported and is described in professional aftercare guidance as
+  part of normal early healing for many piercing types. The tissue around a
+  new opening may ooze slight blood or lymph during the first days.
+
+  Bleeding can also happen later if the piercing is bumped, snagged, or
+  irritated before healing is complete. Occasional spotting during cleaning
+  is different from ongoing heavy bleeding, bleeding that soaks dressings, or
+  bleeding paired with other concerning signs.
+
+  This record outlines what users commonly observe and when to seek help. It
+  does not diagnose bleeding disorders or other medical conditions. Contact a
+  piercer or healthcare provider when bleeding seems unusual for your situation.
+
+symptoms:
+  - Small spots or streaks of blood on jewelry or around the piercing holes
+  - Dried blood crust forming overnight during the first days
+  - Brief bleeding when cleaning or after accidental bumping
+  - Minor spotting on pillowcases or clothing near a fresh piercing
+  - Bleeding that stops with gentle pressure and consistent aftercare
+  - Slight re-bleeding after snagging that settles within a short time
+
+possible_causes:
+  - Normal minor bleeding during fresh piercing and early healing
+  - Blood-rich tissue in cartilage, oral, or genital piercings bleeding more visibly at first
+  - Trauma from snagging, sleeping on the piercing, or sports contact
+  - Jewelry that is too tight creating pressure on healing tissue
+  - Removing dried crust too aggressively during cleaning
+  - Blood-thinning medications or supplements that may increase bleeding tendency
+  - Irritation or injury to a piercing that is not fully healed
+  - Underlying conditions affecting clotting when bleeding is heavy or prolonged
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - lip-and-oral-piercings
+  - tongue-piercings
+  - navel-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+
+risk_level: normal
+
+recommended_actions:
+  - Apply gentle pressure with a clean gauze or paper product if active bleeding occurs
+  - Clean around the site with sterile saline once bleeding slows, without forcing crust off
+  - Be careful when brushing hair, dressing, or sleeping near the piercing
+  - Keep hands clean and minimize unnecessary contact with the site
+  - Contact your piercer if bleeding repeats often or follows a significant snag
+  - Mention blood-thinning medications to your piercer and clinician if bleeding seems excessive
+  - Monitor whether bleeding decreases over the first several days as expected in typical healing
+
+actions_to_avoid:
+  - Pulling or picking dried blood crust off forcefully
+  - Removing jewelry during active bleeding without professional guidance
+  - Using tissue that sheds fibers against an actively bleeding piercing
+  - Ignoring heavy, continuous, or recurring bleeding
+  - Returning to swimming, contact sports, or rough activity before the site is ready
+  - Applying powders or unapproved products to stop bleeding on a piercing site
+
+when_to_seek_professional_help:
+  - Bleeding is heavy, continuous, or does not slow with gentle pressure
+  - Bleeding recurs daily after the first week without clear trauma
+  - You feel dizzy, weak, or unwell alongside significant bleeding
+  - Bleeding occurs with spreading redness, severe pain, or thick colored discharge
+  - Oral or tongue piercings bleed heavily and you have difficulty managing it safely
+  - You take blood thinners or have a known bleeding condition and notice unusual bleeding
+  - A piercer or clinician recommends urgent evaluation based on what they observe
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-bleeding-normal
+  - new-piercing-bleeding
+  - cartilage-piercing-bleeding
+  - nose-piercing-blood
+  - piercing-blood-crust
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq
+  - nhs-infected-piercings
+  - mayo-clinic-piercings

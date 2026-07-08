@@ -1,0 +1,111 @@
+id: redness
+slug: redness
+
+name: Redness
+
+summary: >
+  Pink or red skin around a healing piercing is often expected early on and may
+  also reflect irritation or a reason to seek review if it spreads or persists.
+
+description: |
+  Redness around a new piercing is commonly reported during the first days and
+  weeks of healing. Piercing aftercare resources describe a pink or lightly red
+  halo near the entry and exit points as a typical healing response, especially
+  after cartilage or sensitive-area piercings.
+
+  Redness from irritation — caused by jewelry friction, product sensitivity, or
+  mechanical trauma — can look similar to redness associated with other concerns.
+  The key difference users often notice is whether the redness stays localized
+  and fades with gentle care, or whether it spreads, deepens, or appears with
+  other worrisome signs.
+
+  This record helps users understand common patterns without assigning a
+  diagnosis. When redness is uncertain or worsening, an in-person piercer
+  review or medical evaluation is the appropriate next step.
+
+symptoms:
+  - Pink or red skin immediately around the piercing holes
+  - Mild warmth limited to the piercing site during early healing
+  - Redness that lessens over several days with consistent gentle aftercare
+  - Tenderness that matches the amount of visible redness
+  - Redness that returns after snagging, sleeping on the site, or product exposure
+  - Redness confined to a small area rather than spreading across the ear or face
+
+possible_causes:
+  - Normal healing inflammation in fresh and early stages
+  - Mechanical irritation from jewelry movement, pressure, or snagging
+  - Reaction to harsh soaps, hair products, makeup, or non-recommended aftercare
+  - Jewelry material sensitivity in some individuals
+  - Over-cleaning or aggressive drying of the piercing site
+  - Sun exposure or chlorine contact on a healing piercing
+  - Infection concern when redness spreads with swelling, heat, or colored discharge
+  - Pre-existing skin conditions affecting the area around the piercing
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: normal
+
+recommended_actions:
+  - Continue gentle saline cleaning or shower rinse as recommended by your piercer
+  - Identify and remove sources of friction, pressure, or product contact
+  - Keep bedding, phones, and accessories clean when they contact the piercing
+  - Avoid changing jewelry prematurely unless your piercer assesses the site
+  - Take photos over several days to track whether redness is improving
+  - Visit your piercer if redness persists beyond expected early healing or flares repeatedly
+  - Seek medical guidance when redness spreads or appears with fever or thick discharge
+
+actions_to_avoid:
+  - Applying alcohol, hydrogen peroxide, or strong antiseptics to reduce redness
+  - Rubbing or scrubbing the area aggressively during cleaning
+  - Covering the piercing with occlusive bandages unless a clinician directs it
+  - Assuming all redness means infection or that all redness is harmless without assessment
+  - Using topical products marketed for other skin conditions without professional advice
+  - Exposing a fresh piercing to pools, hot tubs, or dirty water
+
+when_to_seek_professional_help:
+  - Redness spreads beyond the immediate piercing area or forms red streaks
+  - Redness intensifies after the first week without an obvious irritation cause
+  - The site feels increasingly hot, swollen, or painful alongside redness
+  - Discharge becomes thick, yellow, green, or foul-smelling
+  - You develop fever or feel generally unwell
+  - Redness persists for weeks despite piercer-guided aftercare adjustments
+  - A piercer recommends medical evaluation based on what they observe
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-redness-normal
+  - red-around-piercing
+  - cartilage-piercing-red
+  - nose-piercing-redness
+  - piercing-red-vs-infected
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq
+  - nhs-infected-piercings
+  - mayo-clinic-piercings

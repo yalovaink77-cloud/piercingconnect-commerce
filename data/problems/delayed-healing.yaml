@@ -1,0 +1,110 @@
+id: delayed-healing
+slug: delayed-healing
+
+name: Delayed Healing
+
+summary: >
+  Healing timelines vary by piercing type, anatomy, and aftercare, but progress
+  that remains unusually slow or stalled beyond typical expectations may warrant
+  review by a qualified piercer. This concern is framed without diagnosing
+  underlying medical conditions.
+
+description: >
+  Piercings heal on widely variable schedules. Professional guidance and public
+  health sources note that factors such as piercing location, jewelry fit,
+  aftercare consistency, trauma, and individual health can all influence pace.
+  Delayed healing describes a pattern where expected improvement — reduced
+  swelling, stable crusting, decreasing tenderness — does not occur within the
+  general timeframe a piercer provides, or where symptoms plateau or worsen
+  slowly over weeks. This is a moderate-concern topic because prolonged
+  inflammation can overlap with irritation, jewelry issues, or conditions
+  requiring medical evaluation. PiercingConnect does not establish a diagnosis;
+  users should compare their experience with piercer-specific timelines and
+  seek professional input when healing appears stalled.
+
+symptoms:
+  - swelling, redness, or tenderness that remains unchanged well beyond the piercer's expected early-healing window
+  - recurring flare-ups without clear trauma or aftercare changes
+  - crusting or discharge that does not gradually decrease over time
+  - difficulty sleeping on or wearing normal clothing over the site due to ongoing sensitivity
+  - jewelry that felt appropriate initially but becomes progressively tight or embedded
+  - overall sense that the piercing is not moving through normal healing stages
+
+possible_causes:
+  - aftercare imbalance such as overcleaning, undercleaning, or moisture irritation
+  - jewelry that is incorrectly sized, low quality, or inappropriate for the anatomy
+  - repeated mechanical trauma from snagging, sleeping pressure, or phone contact
+  - lifestyle factors such as smoking, frequent swimming, or high-friction clothing
+  - anatomical or piercing-placement factors that increase healing difficulty
+  - undiagnosed irritation or allergy related to jewelry or products
+  - individual health factors that may affect wound healing — professional medical guidance may be appropriate
+  - migration or rejection processes that change how the piercing heals
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - navel-piercings
+  - body-piercings
+  - oral-piercings
+  - surface-piercings
+
+healing_stages:
+  - early-healing
+  - active-healing
+  - late-healing
+
+risk_level: moderate-concern
+
+recommended_actions:
+  - compare current symptoms with the healing timeline your piercer provided for this specific piercing
+  - book an in-person check-up so a qualified piercer can assess jewelry fit, placement, and aftercare
+  - simplify aftercare to brief sterile saline rinses and minimal handling unless directed otherwise
+  - note recent trauma, product changes, illness, or lifestyle shifts that may correlate with slower progress
+  - keep a simple log of symptom changes to discuss with your piercer or healthcare provider
+  - follow piercer or medical guidance if referral for underlying health evaluation is suggested
+
+actions_to_avoid:
+  - repeatedly changing jewelry or aftercare products without professional assessment
+  - assuming slow healing is always normal for every piercing type
+  - increasing harsh cleaning or unverified home remedies to force healing
+  - ignoring signs of migration, rejection, or embedding because healing is already slow
+  - delaying piercer consultation for many weeks while symptoms remain unchanged
+  - self-diagnosing infection or autoimmune conditions without qualified evaluation
+
+when_to_seek_professional_help:
+  - healing appears stalled beyond the timeframe your piercer gave for meaningful improvement
+  - progressive tightening, embedding, or visible migration of jewelry
+  - spreading redness, warmth, or swelling accompanied by worsening pain
+  - thick, yellow, green, or foul-smelling discharge
+  - fever or systemic symptoms
+  - known health conditions that affect wound healing and new or worsening piercing symptoms
+  - piercer recommends medical evaluation for symptoms outside their scope
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - delayed-piercing-healing
+  - slow-healing-piercing
+  - piercing-not-healing
+  - piercing-healing-timeline
+  - stalled-piercing-healing
+  - when-to-see-piercer
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq
+  - mayo-clinic-piercings
+  - nhs-infected-piercings

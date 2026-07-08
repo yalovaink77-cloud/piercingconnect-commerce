@@ -1,0 +1,114 @@
+id: migration
+slug: migration
+
+name: Migration
+
+summary: >
+  When jewelry shifts from its original placement and tissue narrows between
+  the openings, professional evaluation is needed — migration can progress
+  toward rejection if not addressed promptly.
+
+description: |
+  Migration describes a piercing complication in which jewelry moves from its
+  initial placement — often closer to the skin surface — and the tissue
+  between the entry and exit openings becomes narrower over time. The
+  Association of Professional Piercers distinguishes migration from rejection:
+  migration is movement toward the surface while some viable tissue remains,
+  whereas rejection occurs when the piercing migrates past a viable point or
+  exits the body entirely.
+
+  Professional guidance notes that a body piercing should have adequate tissue
+  depth between openings for safety and longevity. Migration may result from
+  unsuitable tissue, improper jewelry size or gauge, poor quality jewelry,
+  harsh aftercare, physical trauma, or other factors — and sometimes occurs
+  even when placement and care appear appropriate.
+
+  This is a high-risk topic that requires cautious framing. This record does
+  not diagnose migration or predict outcomes. A qualified piercer should assess
+  jewelry fit, placement, and whether the piercing can remain viable.
+
+symptoms:
+  - Jewelry appears to sit closer to the skin surface than when first pierced
+  - The channel between entry and exit openings looks narrower over time
+  - Angle of jewelry may change from the original placement
+  - Skin between openings may look stretched, thin, or irritated
+  - Piercing may have been performed on surface or flat anatomy with higher movement risk
+  - Changes progress gradually over days or weeks rather than resolving quickly
+
+possible_causes:
+  - Insufficient tissue depth or unsuitable anatomy for the chosen placement
+  - Jewelry diameter, gauge, or length inappropriate for the piercing site
+  - Low-quality or reactive jewelry material
+  - Sleeping on, snagging, or repeatedly traumatizing the piercing
+  - Harsh aftercare products or over-cleaning delaying healing
+  - Excessive swelling followed by jewelry that is too long, causing angle shift
+  - Missing recommended downsizing window during early healing
+  - Physical stress, illness, or healing variability in some individuals
+
+affected_piercings:
+  - navel-piercings
+  - surface-piercings
+  - surface-anchors
+  - eyebrow-piercings
+  - nape-piercings
+  - ear-cartilage-piercings
+  - body-piercings
+
+healing_stages:
+  - early-healing
+  - active-healing
+  - late-healing
+
+risk_level: urgent-professional-review
+
+recommended_actions:
+  - Contact a qualified piercer promptly for an in-person assessment
+  - Leave jewelry in place unless a piercer advises a specific change or removal
+  - Stop sources of pressure, snagging, and friction on the site immediately
+  - Return to gentle sterile saline rinsing only if your piercer confirms it is appropriate
+  - Discuss jewelry size, style, and material options with an experienced piercer
+  - Follow piercer guidance on whether the piercing can be salvaged or should be retired
+  - Seek medical care if signs suggest infection alongside migration changes
+
+actions_to_avoid:
+  - Ignoring gradual jewelry movement or narrowing tissue between openings
+  - Removing jewelry yourself during suspected infection without professional guidance
+  - Applying harsh antiseptics, ointments, or unverified remedies to stop migration
+  - Continuing to sleep on or snag the piercing while changes progress
+  - Assuming migration will reverse without jewelry or placement changes
+  - Waiting until jewelry is visibly pushing through the skin before seeking help
+
+when_to_seek_professional_help:
+  - Jewelry position or angle has changed from the original placement
+  - Tissue between openings is progressively getting smaller or thinner
+  - Skin between openings is flaking, peeling, red, inflamed, or calloused-looking
+  - There is roughly one-quarter inch of tissue or less between openings
+  - Jewelry can be seen through a thin layer of skin
+  - You notice signs that may suggest infection such as fever or foul discharge
+  - Any qualified piercer recommends immediate evaluation or retiring the piercing
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-migration-signs
+  - migrated-piercing-what-to-do
+  - surface-piercing-migration
+  - navel-piercing-migration
+  - piercing-moving-closer-surface
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq

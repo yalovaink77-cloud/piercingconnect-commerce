@@ -1,0 +1,150 @@
+schema_version: "1.0"
+
+entity: problem
+
+description: >
+  Defines the standard structure for piercing healing problem records inside
+  the PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - summary
+  - description
+  - symptoms
+  - possible_causes
+  - affected_piercings
+  - healing_stages
+  - risk_level
+  - recommended_actions
+  - actions_to_avoid
+  - when_to_seek_professional_help
+  - related_products
+  - related_ingredients
+  - related_keywords
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the problem.
+    example: irritation-bump
+
+  slug:
+    type: string
+    description: URL-safe problem identifier matching id.
+    example: irritation-bump
+
+  name:
+    type: string
+    description: Human-readable problem name.
+    example: Irritation Bump
+
+  summary:
+    type: string
+    description: One- to two-sentence neutral summary for indexes and cards.
+
+  description:
+    type: string
+    description: Longer educational description without diagnosis or treatment claims.
+
+  symptoms:
+    type: array
+    items:
+      type: string
+    description: Observable signs users may report. Not diagnostic criteria.
+
+  possible_causes:
+    type: array
+    items:
+      type: string
+    description: Common contributing factors from professional and medical sources.
+
+  affected_piercings:
+    type: array
+    items:
+      type: string
+    description: Body locations or piercing types commonly affected.
+
+  healing_stages:
+    type: array
+    items:
+      type: string
+    description: Healing stages when this problem commonly appears.
+
+  risk_level:
+    type: string
+    allowed:
+      - normal
+      - mild-irritation
+      - moderate-concern
+      - urgent-professional-review
+      - medical-attention-required
+    description: Default severity framing for editorial and safety wording.
+
+  recommended_actions:
+    type: array
+    items:
+      type: string
+    description: Safe, non-diagnostic self-care and professional consultation steps.
+
+  actions_to_avoid:
+    type: array
+    items:
+      type: string
+    description: Actions that may worsen the problem or delay healing.
+
+  when_to_seek_professional_help:
+    type: array
+    items:
+      type: string
+    description: Thresholds for piercer or medical evaluation. No diagnosis implied.
+
+  related_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs that may support gentle aftercare when appropriate.
+
+  related_ingredients:
+    type: array
+    items:
+      type: string
+    description: Ingredient slugs relevant to causes, care, or warnings.
+
+  related_keywords:
+    type: array
+    items:
+      type: string
+    description: SEO and content cluster keyword slugs.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the record.

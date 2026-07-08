@@ -1,0 +1,111 @@
+id: dryness
+slug: dryness
+
+name: Dryness
+
+summary: >
+  Over-drying around a healing piercing can cause tightness, flaking, and
+  discomfort. Gentle saline care and avoiding harsh products may help restore
+  balance.
+
+description: |
+  A healing piercing needs clean, balanced care — not excessive drying. Professional
+  aftercare guidance warns that overly salty soaks, harsh soaps, alcohol-based
+  products, and over-cleaning can strip moisture from delicate tissue and
+  interfere with healing.
+
+  Dryness around a piercing may look like tight, flaky, or lightly cracked skin
+  near the entry or exit points. It can feel itchy or sting during cleaning.
+  These signs overlap with normal early healing in some cases, so context and
+  aftercare habits matter.
+
+  This record describes observable dryness patterns and common contributing
+  factors. It does not diagnose eczema, dermatitis, or any other skin
+  condition. If dryness persists despite gentler care, a piercer or healthcare
+  provider can help identify the cause.
+
+symptoms:
+  - Tight or stiff feeling skin around the piercing holes
+  - Light flaking or peeling near the entry or exit points
+  - Itching that increases after cleaning or showering
+  - Mild stinging when saline or water contacts the area
+  - Skin that looks dull, rough, or slightly cracked without heavy discharge
+  - Dryness that worsens after using alcohol, strong soap, or frequent rinsing
+
+possible_causes:
+  - Over-cleaning or rinsing the piercing more often than professional guidance suggests
+  - Homemade sea salt soaks that are too strong or too frequent
+  - Alcohol, hydrogen peroxide, iodine, or harsh antiseptic products on the site
+  - Antibacterial soaps or heavily fragranced body washes left on the tissue
+  - Occlusive ointments used incorrectly, followed by aggressive removal of residue
+  - Low humidity, cold weather, or indoor heating drying the skin
+  - Hair products, makeup, or acne treatments contacting the piercing area
+  - Normal healing changes that temporarily alter skin texture near the site
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - Reduce cleaning frequency to the range your piercer recommends, commonly one to three saline rinses daily for body piercings
+  - Use sterile saline labeled for wound wash with 0.9% sodium chloride as the primary ingredient
+  - Pat the area dry gently with clean disposable paper products after rinsing
+  - Rinse away any mild soap completely if your piercer suggests brief shower cleaning
+  - Keep cosmetics, hair products, and fragranced lotions away from the piercing
+  - Contact your piercer to review aftercare products and technique if dryness persists
+  - Use a humidifier or protect the area from harsh wind if environmental dryness is a factor
+
+actions_to_avoid:
+  - Mixing overly strong homemade salt solutions
+  - Applying alcohol, hydrogen peroxide, or undiluted essential oils to dry the site
+  - Scrubbing or picking at flaky skin around the jewelry
+  - Adding extra cleaning sessions beyond professional guidance
+  - Using contact lens saline, nasal spray, or products with additives not intended for wound care
+  - Covering the piercing with heavy occlusive products unless a clinician directs it
+  - Assuming all itching or flaking is harmless without assessment when symptoms worsen
+
+when_to_seek_professional_help:
+  - Skin becomes deeply cracked, bleeding, or increasingly painful
+  - Redness spreads beyond the immediate piercing area or appears with warmth and swelling
+  - A widespread itchy rash develops that may suggest product sensitivity or allergy
+  - Dryness persists for weeks despite gentler aftercare adjustments
+  - Discharge becomes thick, yellow, green, or foul-smelling
+  - A piercer recommends medical evaluation for persistent skin changes
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - dry-piercing
+  - piercing-flaking-skin
+  - over-drying-piercing
+  - piercing-itchy-dry
+  - piercing-aftercare-too-harsh
+  - sterile-saline-piercing-care
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

@@ -1,0 +1,109 @@
+id: jewelry-quality-issue
+slug: jewelry-quality-issue
+
+name: Jewelry Quality Issue
+
+summary: >
+  Initial or replacement jewelry that is poorly fitted, made from inappropriate
+  materials, or mechanically substandard can contribute to irritation, allergic
+  reactions, and healing complications. APP initial jewelry guidance favors
+  implant-grade materials and appropriate sizing from a qualified piercer.
+
+description: >
+  The Association of Professional Piercers publishes initial jewelry guidance
+  emphasizing appropriate material, fit, and finish for healing piercings.
+  Jewelry quality issues include low-grade metals, plated surfaces that wear
+  through, rough finishes, incorrect gauge or length, externally threaded
+  posts with sharp threads, butterfly-back earrings used in body piercings,
+  and fashion jewelry not intended for long-term internal wear. Poor jewelry
+  can create mechanical trauma, trap bacteria in crevices, and expose tissue
+  to allergens or irritants. This record educates about jewelry-related
+  contributing factors and does not diagnose allergic contact dermatitis,
+  infection, or other medical conditions.
+
+symptoms:
+  - persistent redness or irritation that improves when quality jewelry is swapped by a professional
+  - itching, rash-like changes, or dry flaking around a piercing with questionable metal
+  - discoloration of skin or jewelry surface, including green or dark staining from plated metals
+  - embedding, sinking, or tightness from jewelry that is too short or too small in diameter
+  - irritation at thread ridges or backing hardware that catches on tissue
+  - delayed settling of swelling that may relate to oversized, heavy, or poorly balanced jewelry
+
+possible_causes:
+  - initial piercing performed with non-implant-grade or inappropriate jewelry
+  - plated, mystery-metal, or fashion jewelry worn in a healing piercing
+  - jewelry too short to accommodate normal early swelling
+  - jewelry too long or heavy, causing movement and trauma
+  - externally threaded posts or rough machine marks contacting the fistula
+  - incorrect jewelry style for the anatomy or piercing type
+  - self-purchased jewelry from unverified sources without professional sizing
+  - premature downsizing or jewelry change before healing allows
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - navel-piercings
+  - body-piercings
+  - oral-piercings
+  - surface-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+  - late-healing
+
+risk_level: moderate-concern
+
+recommended_actions:
+  - consult a qualified piercer to assess whether current jewelry meets APP initial jewelry guidance for material, fit, and finish
+  - consider implant-grade titanium, niobium, or appropriate karat gold only when confirmed suitable by a professional
+  - allow a piercer to measure for correct post length, diameter, and style rather than guessing sizing
+  - keep a simple sterile saline aftercare routine while jewelry is evaluated
+  - document when symptoms began relative to jewelry changes or purchases
+  - plan jewelry changes only with professional guidance once healing stage allows
+
+actions_to_avoid:
+  - replacing jewelry at home with unverified online purchases during early healing
+  - assuming all irritation is an allergy without professional jewelry assessment
+  - wearing plated, surgical steel of unknown grade, acrylic, or fashion earrings in unhealed body piercings unless a piercer confirms suitability
+  - forcing threaded jewelry through a tender piercing
+  - using butterfly-back or piercing-gun-style jewelry for body piercings
+  - applying topical allergy treatments while leaving suspected problematic jewelry in place without evaluation
+  - waiting indefinitely if jewelry appears embedded or increasingly tight
+
+when_to_seek_professional_help:
+  - jewelry appears embedded, swallowed, or too tight to clean safely
+  - irritation persists after a professional jewelry change to appropriate material and fit
+  - widespread rash, swelling, or blistering develops around the piercing
+  - signs that may suggest infection such as fever or foul-smelling discharge appear
+  - a piercer recommends medical evaluation for suspected allergic contact reaction
+  - you are unsure whether current jewelry meets initial piercing standards
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - jewelry-quality-issue
+  - bad-piercing-jewelry
+  - implant-grade-titanium
+  - initial-piercing-jewelry
+  - piercing-jewelry-material
+  - allergic-reaction-piercing-jewelry
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-initial-jewelry
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

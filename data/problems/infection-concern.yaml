@@ -1,0 +1,119 @@
+id: infection-concern
+slug: infection-concern
+
+name: Infection Concern
+
+summary: >
+  Signs that may warrant professional evaluation when a piercing site looks or
+  feels worse than expected — this record does not confirm infection.
+
+description: |
+  Some piercing changes can look alarming during healing, and it is reasonable
+  to wonder whether an infection is involved. Health organizations note that
+  piercings can become infected, but many everyday healing symptoms — redness,
+  swelling, tenderness, and minor discharge — overlap with normal early healing
+  and with irritation from jewelry or aftercare habits.
+
+  This record uses high-caution framing for situations where infection is a
+  possible concern worth professional review. It does not diagnose infection
+  or any other medical condition. Only a qualified healthcare provider can make
+  a clinical determination. A piercer can often help you decide whether to seek
+  medical care and may refer you when signs suggest evaluation is appropriate.
+
+  When multiple concerning signs appear together, worsen over time, or are
+  accompanied by general illness, prompt professional follow-up is the safest
+  approach rather than waiting or relying on online comparisons alone.
+
+symptoms:
+  - Increasing pain that does not improve with basic irritation reduction
+  - Redness that spreads beyond the immediate piercing area
+  - Swelling that worsens after the first few days or affects a large area
+  - Warmth around the piercing site
+  - Thick, yellow, green, or gray discharge
+  - Discharge with a strong or unpleasant odor
+  - Fever, chills, or feeling unwell
+  - Red streaks extending from the piercing site
+  - Jewelry becoming embedded or skin growing over the jewelry
+  - Symptoms that persist or worsen despite consistent gentle aftercare
+
+possible_causes:
+  - Bacteria entering the piercing site during healing
+  - Handling the piercing with unwashed hands
+  - Swimming in untreated water or exposing the site to contaminated surfaces
+  - Using non-sterile or inappropriate aftercare products
+  - Trauma or repeated irritation that breaks down healing tissue
+  - Removing jewelry too early, allowing the channel to close partially with debris inside
+  - Pre-existing skin conditions or immune factors that may slow healing
+  - Misidentifying irritation bumps or normal healing changes as infection
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+  - oral-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: urgent-professional-review
+
+recommended_actions:
+  - Do not remove jewelry unless a healthcare provider or piercer specifically advises it
+  - Continue gentle saline cleaning unless a clinician directs otherwise
+  - Contact your piercer promptly for an in-person assessment
+  - Seek medical evaluation when signs are worsening, spreading, or accompanied by fever
+  - Keep hands clean and avoid touching the site except during approved cleaning
+  - Document changes with photos to share with your piercer or clinician if helpful
+  - Follow all guidance from qualified professionals rather than social media remedies
+
+actions_to_avoid:
+  - Self-diagnosing infection based on photos or online lists alone
+  - Applying unprescribed antibiotic creams or taking leftover oral antibiotics
+  - Using alcohol, hydrogen peroxide, or harsh antiseptics that may further irritate tissue
+  - Removing jewelry without professional guidance when the channel may still be open
+  - Ignoring spreading redness, fever, or worsening pain
+  - Delaying medical care when symptoms suggest urgent evaluation
+
+when_to_seek_professional_help:
+  - Redness or swelling spreads beyond the piercing or worsens over 24 to 48 hours
+  - You develop fever, chills, nausea, or feel systemically unwell
+  - Discharge is thick, colored, or foul-smelling
+  - Pain becomes severe or sudden
+  - You see red streaks near the piercing site
+  - The area feels hot compared with surrounding skin
+  - A piercer recommends same-day or urgent medical evaluation
+  - Symptoms do not improve with piercer-guided aftercare adjustments
+  - You have diabetes, immune conditions, or other health factors that affect wound healing
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - infected-piercing-signs
+  - piercing-infection-vs-irritation
+  - when-to-see-doctor-piercing
+  - piercing-discharge-concern
+  - piercing-redness-swelling
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - nhs-infected-piercings
+  - mayo-clinic-piercings
+  - cleveland-clinic-infected-ear-piercing

@@ -1,0 +1,116 @@
+id: rejection
+slug: rejection
+
+name: Rejection
+
+summary: >
+  When the body pushes jewelry toward or through the skin surface, the
+  piercing may be failing — prompt professional assessment is needed before
+  scarring worsens.
+
+description: |
+  Rejection is a piercing complication in which the body expels jewelry by
+  pushing it toward or through the skin surface. The Association of
+  Professional Piercers describes rejection as migration that progresses past
+  a point of remaining viable tissue or comes all the way to the surface.
+  Surface piercings, navel piercings, and other placements with limited
+  tissue depth may carry higher risk.
+
+  Professional guidance recommends abandoning a piercing when tissue between
+  entry and exit progressively thins alongside signs such as inflamed or
+  calloused skin between openings, very little remaining tissue, or jewelry
+  visible through nearly transparent skin. Early retirement may reduce scarring
+  compared with allowing jewelry to exit on its own.
+
+  This is a high-risk topic. This record does not diagnose rejection or
+  prescribe treatment. A qualified piercer should assess whether the piercing
+  can be saved with jewelry changes or whether safe removal is appropriate.
+  If infection is suspected, coordinate with a healthcare provider before
+  removing jewelry.
+
+symptoms:
+  - Jewelry sits noticeably closer to the skin surface over time
+  - Very thin or nearly transparent tissue remains between openings
+  - Jewelry may appear visible through the skin
+  - Skin between openings looks flaky, peeling, red, inflamed, or calloused
+  - Piercing channel feels shallow compared to initial healing
+  - Jewelry may tilt or hang differently as tissue thins
+  - Surface or flat piercings show progressive movement over weeks
+
+possible_causes:
+  - Piercing placed in tissue with insufficient depth for long-term viability
+  - Jewelry too small in diameter, thin in gauge, or poor quality
+  - Improper placement angle or depth by an inexperienced piercer
+  - Harsh aftercare products or poor healing habits
+  - Repeated trauma from sleeping, snagging, or physical activity
+  - Excessive stress or health factors affecting healing in some cases
+  - Anatomical or material factors even when initial care appears correct
+
+affected_piercings:
+  - surface-piercings
+  - surface-anchors
+  - navel-piercings
+  - eyebrow-piercings
+  - nape-piercings
+  - wrist-piercings
+  - hip-piercings
+  - ear-cartilage-piercings
+
+healing_stages:
+  - early-healing
+  - active-healing
+  - late-healing
+
+risk_level: urgent-professional-review
+
+recommended_actions:
+  - See a qualified piercer as soon as you notice progressive surface movement
+  - Discuss whether jewelry material, size, or style change could stop progression
+  - Follow piercer guidance on retiring the piercing before tissue tears through
+  - Leave jewelry in place if infection is suspected until a professional advises otherwise
+  - Allow fully healed tissue to recover before considering repiercing in a new location
+  - Maintain gentle sterile saline rinsing only if your piercer confirms it is appropriate
+  - Seek medical care if infection signs such as fever or spreading redness appear
+
+actions_to_avoid:
+  - Waiting until jewelry falls out on its own when rejection signs are clear
+  - Removing jewelry during suspected infection without professional coordination
+  - Covering the site with bandages or ointments in place of piercer assessment
+  - Attempting to repierce the same thin scar tissue without professional evaluation
+  - Using unverified topical treatments to force the piercing to stay in place
+  - Continuing trauma from snagging, pressure, or harsh aftercare products
+
+when_to_seek_professional_help:
+  - Tissue between openings is progressively thinner with inflamed or calloused skin
+  - One-quarter inch of tissue or less remains between openings
+  - Jewelry is visible through skin or only a thin filament of tissue remains
+  - You suspect the piercing is migrating past a viable depth
+  - A piercer recommends retiring the piercing to limit scarring
+  - Signs suggest infection including fever, foul discharge, or spreading redness
+  - You need guidance on safe removal, aftercare, and future repiercing options
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-rejection-signs
+  - rejected-piercing-scar
+  - surface-piercing-rejection
+  - navel-piercing-rejection
+  - body-rejecting-piercing-jewelry
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq

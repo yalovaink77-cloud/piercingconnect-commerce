@@ -1,0 +1,112 @@
+id: embedded-jewelry
+slug: embedded-jewelry
+
+name: Embedded Jewelry
+
+summary: >
+  When jewelry ends sink into or become trapped by swelling skin, prompt
+  piercer evaluation is needed — do not force jewelry or attempt removal
+  without professional guidance.
+
+description: |
+  Embedded jewelry occurs when one or both ends of piercing jewelry become
+  partially or fully trapped beneath the skin, often during significant
+  swelling or when initial jewelry is too short for the anatomy. Professional
+  aftercare guidance emphasizes that initial jewelry must allow room for
+  early swelling, and that missing a recommended downsizing window with overly
+  long jewelry can also cause angle changes and other complications.
+
+  Embedding is distinct from normal tightness during fresh swelling. When skin
+  grows over jewelry ends or the post appears swallowed, attempting to force
+  jewelry through tissue can cause trauma, delay healing, and increase
+  complication risk. A qualified piercer can assess fit, swelling stage, and
+  whether a safe jewelry change or adjustment is needed.
+
+  This record uses urgent professional review framing. It does not diagnose
+  any condition. Do not remove embedded jewelry yourself if infection is
+  suspected — professional guidance is important because removal during
+  infection may lead to abscess formation in some cases.
+
+symptoms:
+  - One or both jewelry ends appear sunken into the surrounding skin
+  - Skin may overlap or cover the front or back of the jewelry
+  - Jewelry feels stuck and cannot be cleaned around the ends normally
+  - Post or bar appears shorter than visible tissue demands during swelling
+  - Increased tenderness or pressure at the embedded end
+  - Difficulty seeing or accessing threading ends for routine checks
+  - Swelling has reduced but jewelry still sits too tight against the skin
+
+possible_causes:
+  - Initial jewelry too short for normal early swelling
+  - Significant swelling after trauma, sleeping on the site, or irritation
+  - Delayed downsizing after swelling subsided, leaving poor fit
+  - Anatomical variation requiring different jewelry dimensions
+  - Low-quality or improperly sized jewelry from non-professional piercing
+  - Pressure from tight clothing, masks, helmets, or sports gear
+  - Oral or cartilage piercings with swelling that outgrew initial length
+
+affected_piercings:
+  - ear-piercings
+  - cartilage-piercings
+  - nose-piercings
+  - lip-and-oral-piercings
+  - navel-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+
+risk_level: urgent-professional-review
+
+recommended_actions:
+  - Contact a qualified piercer promptly for an in-person assessment
+  - Do not force, twist, or pull jewelry through embedded tissue
+  - Leave jewelry in place unless a piercer performs a safe adjustment or change
+  - Reduce pressure and trauma to the area until evaluated
+  - Continue only the aftercare approach your piercer confirms is appropriate
+  - Ask about longer initial jewelry or downsizing timing if swelling has changed
+  - Seek medical care if signs suggest infection alongside embedding
+
+actions_to_avoid:
+  - Forcing jewelry forward or backward through skin that has grown over the ends
+  - Removing jewelry yourself when embedding is significant or infection is suspected
+  - Using pliers, needles, or non-sterile tools to free embedded ends at home
+  - Applying ointments that trap moisture and debris around embedded jewelry
+  - Ignoring embedding while hoping swelling will resolve without fit assessment
+  - Continuing to sleep on or snag a piercing with embedded ends
+
+when_to_seek_professional_help:
+  - Any jewelry end is partially or fully covered by skin
+  - You cannot clean around jewelry ends because they are sunken
+  - Swelling has improved but jewelry remains visibly too short
+  - Pain, heat, spreading redness, or thick discharge accompanies embedding
+  - You develop fever or feel generally unwell
+  - A piercer is unavailable and embedding is worsening — seek urgent care guidance
+  - You received piercing jewelry from a non-professional source with poor initial fit
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - embedded-piercing-jewelry
+  - piercing-jewelry-stuck-in-skin
+  - swollen-piercing-embedded
+  - cartilage-piercing-embedded
+  - nose-stud-embedded
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq

@@ -1,0 +1,111 @@
+id: snagging
+slug: snagging
+
+name: Snagging
+
+summary: >
+  Catching or pulling healing jewelry on hair, clothing, or bedding can cause
+  sudden pain, bleeding, and irritation that may slow healing if repeated.
+
+description: |
+  Snagging happens when jewelry catches on something and pulls against the
+  piercing channel. Professional aftercare guidance notes that long or loose
+  jewelry, cloth towels, hair, clothing, and bedding are common snagging
+  hazards during healing.
+
+  A single snag may cause brief pain, bleeding, or renewed swelling. Repeated
+  snagging can keep tissue inflamed and contribute to bumps, prolonged healing,
+  or jewelry migration in some cases. This record describes common patterns
+  and practical prevention — it does not diagnose injury or infection.
+
+  If a snag causes significant trauma, jewelry displacement, or symptoms that
+  worsen rather than settle, an in-person piercer review is the appropriate
+  next step.
+
+symptoms:
+  - Sudden sharp pain when jewelry catches on hair, fabric, or an object
+  - Brief bleeding or renewed tenderness immediately after a snag
+  - Swelling or redness that flares after catching the jewelry
+  - Jewelry that feels shifted, twisted, or partially pulled through the channel
+  - Crust or scabbing disturbed at the entry or exit points
+  - Ongoing irritation when snagging happens repeatedly during daily activities
+
+possible_causes:
+  - Jewelry that is too long for the current healing stage
+  - Loose ends, charms, or decorative elements that catch easily
+  - Long hair, scarves, headphones, or masks contacting the piercing
+  - Clothing with tight necklines, lace, or rough seams near the site
+  - Cloth towels, loofahs, or reusable cloths used for drying
+  - Bedding, pillowcases, or blankets catching on jewelry during sleep
+  - Active sports, pets, or crowded environments where accidental pulls occur
+  - Premature jewelry changes or unstable threading on barbell ends
+
+affected_piercings:
+  - ear-piercings
+  - cartilage-piercings
+  - nose-piercings
+  - navel-piercings
+  - nipple-piercings
+  - body-piercings
+  - lip-and-oral-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - Stay calm and avoid yanking jewelry out if it catches — gently untangle instead
+  - Leave jewelry in place unless a qualified piercer advises otherwise
+  - Clean gently with sterile saline and pat dry with clean disposable paper products
+  - Tie back or clip hair away from ear and facial piercings during healing
+  - Choose smooth, breathable clothing that does not rub or hook the jewelry
+  - Use the t-shirt pillow trick or a travel pillow to reduce overnight snagging
+  - Visit your piercer for a downsizing assessment if jewelry is too long and catches often
+  - Check threaded ends regularly for tightness with clean hands or paper products
+
+actions_to_avoid:
+  - Pulling jewelry out forcefully when it is caught
+  - Using cloth towels that can snag loops and barbells
+  - Hanging charms or heavy dangles before the piercing is fully healed
+  - Ignoring repeated snagging without addressing jewelry length or sleep position
+  - Twisting or rotating jewelry aggressively after a snag
+  - Applying alcohol, hydrogen peroxide, or harsh products after trauma
+  - Changing jewelry yourself during early healing without professional guidance
+
+when_to_seek_professional_help:
+  - Jewelry appears bent, embedded, or will not sit correctly after a snag
+  - Bleeding is heavy or does not stop with gentle pressure
+  - Pain, swelling, or redness worsens over 24 to 48 hours after trauma
+  - You notice thick, colored, or foul-smelling discharge after repeated irritation
+  - The piercing channel feels torn or jewelry seems to have migrated
+  - A piercer recommends medical evaluation based on what they observe
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-snagged
+  - caught-piercing-on-hair
+  - piercing-caught-on-clothing
+  - cartilage-piercing-snag
+  - prevent-piercing-snagging
+  - piercing-jewelry-too-long
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - app-piercing-faq

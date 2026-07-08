@@ -1,0 +1,109 @@
+id: itching
+slug: itching
+
+name: Itching
+
+summary: >
+  An itchy healing piercing is often a normal part of tissue repair and may
+  increase when the area is dry or irritated, but persistent itching with
+  other signs may need professional review.
+
+description: |
+  Itching around a healing piercing is commonly reported and is described in
+  professional aftercare guidance as a normal sensation during the healing
+  process. As tissue repairs and the channel matures, nerves in the area may
+  produce itchiness that can come and go for weeks or months depending on
+  piercing type and location.
+
+  Itching can also increase when skin is dry, when aftercare products are too
+  harsh, or when jewelry catches on clothing or bedding. Resisting the urge to
+  scratch helps protect fragile healing tissue. If itching is accompanied by
+  a spreading rash, significant redness, or other concerning changes, a piercer
+  or healthcare provider can help determine whether sensitivity or another
+  issue may be involved.
+
+  This record describes common user observations. It does not diagnose any
+  condition or confirm a specific cause for itching at your piercing site.
+
+symptoms:
+  - Itchy sensation around the piercing entry or exit point
+  - Urge to scratch that may worsen at night or when the area is warm
+  - Mild dryness or tightness of skin near the jewelry
+  - Itching that fluctuates rather than remaining constant
+  - No widespread rash extending far from the piercing in typical normal healing
+  - Itching that may decrease after gentle saline rinsing and drying
+
+possible_causes:
+  - Normal nerve and tissue changes during the healing process
+  - Dry skin around the piercing from over-cleaning or climate
+  - Minor irritation from jewelry friction, pressure, or snagging
+  - Residual crust or dried fluid irritating surrounding skin
+  - Sensitivity or allergic reaction to jewelry material or care products
+  - Hair, cosmetics, or laundry products contacting the site
+  - Healing nearing completion as outer tissue stabilizes
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+
+healing_stages:
+  - early-healing
+  - active-healing
+  - late-healing
+
+risk_level: normal
+
+recommended_actions:
+  - Wash hands before touching the piercing for any reason
+  - Rinse gently with sterile saline wound wash as directed by your piercer
+  - Pat the area dry with clean disposable paper products
+  - Identify and reduce sources of friction, pressure, or product contact
+  - Keep bedding and clothing clean and avoid rough fabrics on the site
+  - Distract from scratching by adjusting position or applying brief cool compress if piercer approves
+  - Consult your piercer if itching is persistent, intense, or paired with visible rash
+
+actions_to_avoid:
+  - Scratching, rubbing, or picking at the piercing site
+  - Applying tea tree oil, numbing creams, or unverified anti-itch home remedies
+  - Over-cleaning in an attempt to stop itching
+  - Using alcohol, hydrogen peroxide, or harsh soaps on the area
+  - Removing jewelry during early healing without professional guidance
+  - Assuming itching alone confirms allergy without professional assessment
+
+when_to_seek_professional_help:
+  - Itching is accompanied by a spreading red or bumpy rash beyond the piercing
+  - Itching becomes severe, painful, or does not improve with irritation reduction
+  - You notice swelling, heat, or thick colored discharge alongside itching
+  - Jewelry appears to be migrating, embedding, or sitting differently in the tissue
+  - You suspect a product or jewelry material sensitivity
+  - A piercer recommends medical evaluation for persistent or unusual itching
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - itchy-piercing-normal
+  - piercing-itching-healing
+  - nose-piercing-itchy
+  - cartilage-piercing-itch
+  - piercing-itch-aftercare
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq

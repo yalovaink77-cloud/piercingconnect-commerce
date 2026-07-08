@@ -1,0 +1,114 @@
+id: allergic-reaction
+slug: allergic-reaction
+
+name: Allergic Reaction
+
+summary: >
+  Redness, itching, or rash around a piercing may sometimes reflect contact
+  sensitivity to jewelry materials or aftercare products rather than normal
+  healing.
+
+description: |
+  Not every irritated piercing is infected. Professional troubleshooting
+  resources note that irritation and allergy are more common than infection
+  when piercings are performed and cared for appropriately. Contact dermatitis
+  or metal sensitivity can develop in response to jewelry alloys or to cleaning
+  products used on or near the site.
+
+  APP guidance describes contact dermatitis patterns such as a red, itchy rash
+  around the piercing or extending to areas where soap runs during bathing.
+  Symptoms can overlap with irritation from mechanical trauma or harsh aftercare,
+  which is why professional assessment matters.
+
+  This record uses cautious framing for a possible allergic or sensitivity
+  response. It does not diagnose allergy, contact dermatitis, or any medical
+  condition. Jewelry material changes and product adjustments should be guided
+  by a qualified piercer; medical evaluation may be appropriate when symptoms
+  are widespread or severe.
+
+symptoms:
+  - Red, itchy rash around the piercing or spreading to nearby skin
+  - Opening of the piercing may appear larger relative to the jewelry size
+  - Tenderness with or without significant pain
+  - Skin eruptions below the piercing where rinse water or soap runs during bathing
+  - Persistent irritation that improves when a suspected product is discontinued
+  - Symptoms that recur when the same jewelry material or care product is reintroduced
+  - Localized bumps or rash without the thick colored discharge often associated with infection concern
+
+possible_causes:
+  - Jewelry containing nickel or other irritating alloys not suited for initial healing
+  - Sensitivity to a particular metal even when jewelry is labeled surgical steel
+  - Reaction to harsh soaps, fragrances, dyes, or aftercare products with additives
+  - Antiseptic solutions or non-recommended commercial piercing sprays
+  - Hair products, cosmetics, laundry detergents, or lotions contacting the site
+  - Combined irritation from poor jewelry fit and product exposure making sensitivity more likely
+  - Pre-existing skin conditions that may increase reactivity in the area
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+risk_level: moderate-concern
+
+recommended_actions:
+  - Contact your piercer promptly for an in-person assessment of jewelry material and fit
+  - Discontinue suspected irritating products and switch to gentle sterile saline rinsing unless a clinician directs otherwise
+  - Do not remove jewelry on your own without professional guidance during early healing
+  - Ask your piercer about appropriate initial jewelry materials such as implant-grade titanium if sensitivity is suspected
+  - Keep a simple log of products used on or near the piercing to identify triggers
+  - Seek medical evaluation when rash is widespread, worsening, or accompanied by systemic symptoms
+  - Follow guidance from qualified piercers and healthcare providers rather than self-prescribing treatments
+
+actions_to_avoid:
+  - Assuming all redness means infection or that all itching is normal without assessment
+  - Switching to random jewelry materials without piercer guidance during healing
+  - Applying unprescribed topical steroids, antibiotic creams, or essential oils
+  - Continuing use of a product that clearly worsens symptoms
+  - Removing jewelry during an active concern without a plan to maintain the channel if needed
+  - Using alcohol, hydrogen peroxide, or harsh antiseptics that may further irritate sensitized skin
+  - Citing or relying on unverified statistics about metal allergy prevalence
+
+when_to_seek_professional_help:
+  - Rash spreads over a large area or appears far from the piercing site
+  - Itching or discomfort becomes severe or disrupts sleep and daily activity
+  - Swelling, warmth, or thick colored discharge develops alongside the rash
+  - You develop fever, dizziness, or difficulty breathing
+  - Symptoms persist after discontinuing suspected products and piercer-guided jewelry review
+  - A piercer recommends medical evaluation or allergy assessment
+  - You need jewelry changed during healing and require professional assistance
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-allergic-reaction
+  - nickel-allergy-piercing
+  - piercing-contact-dermatitis
+  - titanium-piercing-jewelry
+  - piercing-rash-itchy
+  - jewelry-material-sensitivity
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq

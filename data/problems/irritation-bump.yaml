@@ -1,0 +1,107 @@
+id: irritation-bump
+slug: irritation-bump
+
+name: Irritation Bump
+
+summary: >
+  A small raised area near a piercing that often forms from mechanical irritation
+  or aftercare habits rather than infection.
+
+description: |
+  An irritation bump is a localized raised area of tissue that can appear around
+  a healing piercing. Professional piercing organizations describe it as a
+  common response to physical irritation, jewelry friction, or inconsistent
+  aftercare — not the same as an infected piercing.
+
+  The bump may look similar to other healing changes, which is why many people
+  worry it is something more serious. Irritation bumps typically develop when
+  something repeatedly aggravates the piercing site, such as sleeping on it,
+  catching jewelry on clothing, using harsh products, or over-cleaning.
+
+  This record describes observable signs and common contributing factors. It
+  does not diagnose any condition. If you are unsure what you are seeing, a
+  qualified piercer can examine the site and help distinguish irritation from
+  other concerns that may need different follow-up.
+
+symptoms:
+  - Small raised bump near the piercing entry or exit point
+  - Bump may be flesh-colored, pink, or slightly darker than surrounding skin
+  - Area may feel tender when touched or when jewelry moves
+  - No widespread heat or redness extending far beyond the piercing site
+  - Discharge, if present, is usually clear or whitish rather than thick and colored
+  - Bump may come and go or persist for weeks with ongoing irritation
+
+possible_causes:
+  - Sleeping on the piercing or repeated pressure against the site
+  - Jewelry that is too tight, too loose, or the wrong size or style for healing
+  - Catching or snagging jewelry on hair, clothing, or bedding
+  - Over-cleaning or using products not recommended for piercing aftercare
+  - Harsh soaps, alcohol, hydrogen peroxide, or ointments on the site
+  - Frequent touching, twisting, or removing jewelry during early healing
+  - Allergic or sensitivity reaction to jewelry material in some cases
+  - Hair products, makeup, or other substances contacting the piercing
+
+affected_piercings:
+  - ear-piercings
+  - nose-piercings
+  - cartilage-piercings
+  - navel-piercings
+  - lip-and-oral-piercings
+  - body-piercings
+
+healing_stages:
+  - early-healing
+  - active-healing
+
+risk_level: mild-irritation
+
+recommended_actions:
+  - Leave jewelry in place unless a qualified piercer advises otherwise
+  - Identify and reduce sources of pressure, snagging, or friction
+  - Clean gently twice daily with sterile saline solution or a brief mild soap rinse in the shower
+  - Pat the area dry with clean disposable paper products
+  - Keep hair, cosmetics, and other products away from the piercing site
+  - Book an in-person visit with your piercer to review jewelry fit and aftercare routine
+  - Follow your piercer's guidance on downsizing or changing jewelry only when appropriate
+
+actions_to_avoid:
+  - Picking, popping, or squeezing the bump
+  - Applying tea tree oil, aspirin paste, or other home remedies without professional guidance
+  - Using alcohol, hydrogen peroxide, or antibiotic ointments unless directed by a clinician
+  - Removing jewelry during early healing without piercer consultation
+  - Over-cleaning or rotating jewelry aggressively
+  - Assuming the bump is an infection and self-treating with unprescribed products
+
+when_to_seek_professional_help:
+  - The bump grows quickly, becomes very painful, or does not improve after removing irritation sources
+  - You notice spreading redness, warmth, or swelling beyond the immediate piercing area
+  - Discharge becomes thick, yellow, green, or foul-smelling
+  - You develop fever or feel generally unwell
+  - You are unsure whether the change is irritation or something that needs medical evaluation
+  - A piercer recommends seeing a healthcare provider for further assessment
+
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+
+related_ingredients:
+  - sodium-chloride-0.9-percent
+  - sterile-water
+
+related_keywords:
+  - piercing-irritation-bump
+  - piercing-bump-not-infection
+  - cartilage-bump-piercing
+  - nose-piercing-bump
+  - piercing-bump-aftercare
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+
+sources:
+  - app-troubleshooting
+  - app-aftercare
+  - app-piercing-faq
