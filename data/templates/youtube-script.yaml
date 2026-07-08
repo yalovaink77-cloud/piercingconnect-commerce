@@ -1,0 +1,21 @@
+id: youtube-script
+slug: youtube-script
+name: YouTube Script
+summary: PCME blueprint at templates/youtube-script.md. Sections only — not generated content.
+template_path: templates/youtube-script.md
+required_entities:
+- keyword-cluster
+- healing-stage
+publishing_targets:
+- youtube
+- wordpress
+related_content_assets:
+- youtube-script
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

@@ -1,0 +1,27 @@
+id: international
+slug: international
+name: International
+summary: Fallback when country-specific data is not verified.
+region_type: international
+related_affiliate_programs:
+- brand-direct
+- marketplace-affiliate
+- unknown
+related_brands:
+- neilmed
+- h2ocean
+- steri-wash
+- recovery-aftercare
+- easypiercing-care-lab
+- base-laboratories
+availability_notes:
+- Product and affiliate availability must be verified per brand before publishing
+- Do not assume US availability applies globally
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: No regional legal claims stored. Verify locally before commercial publishing.
+sources:
+- taxonomy-country-region
+language_notes: Multiple languages; localize content per target market.

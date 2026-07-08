@@ -1,0 +1,22 @@
+id: european-union
+slug: european-union
+name: European Union
+summary: Regional grouping for affiliate and availability notes. Member-state rules vary.
+region_type: region
+related_affiliate_programs:
+- awin
+- brand-direct
+related_brands:
+- prontolind
+- easypiercing-care-lab
+availability_notes:
+- Product and affiliate availability must be verified per brand before publishing
+- Do not assume US availability applies globally
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: No regional legal claims stored. Verify locally before commercial publishing.
+sources:
+- taxonomy-country-region
+language_notes: Multiple languages; localize content per target market.

@@ -1,0 +1,44 @@
+schema_version: '1.0'
+entity: template
+description: Structured template entity linking to templates/ blueprints.
+required:
+- id
+- slug
+- name
+- summary
+- template_path
+- required_entities
+- publishing_targets
+- related_content_assets
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  template_path:
+    type: string
+  required_entities:
+    type: array
+    items:
+      type: string
+  publishing_targets:
+    type: array
+    items:
+      type: string
+  related_content_assets:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

@@ -1,0 +1,55 @@
+schema_version: '1.0'
+entity: risk-level
+description: Editorial seriousness levels for problems and content tone.
+required:
+- id
+- slug
+- name
+- summary
+- severity_order
+- editorial_wording
+- disclaimer_level
+- affiliate_limit
+- related_problems
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  severity_order:
+    type: integer
+  editorial_wording:
+    type: array
+    items:
+      type: string
+  disclaimer_level:
+    type: string
+    allowed:
+    - minimal
+    - standard
+    - elevated
+    - maximum
+  affiliate_limit:
+    type: string
+    allowed:
+    - none
+    - minimal
+    - moderate
+    - standard
+  related_problems:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

@@ -1,0 +1,29 @@
+id: aftercare-guide
+slug: aftercare-guide
+name: Aftercare Guide
+summary: PCME blueprint at templates/aftercare-guide.md. Sections only — not generated content.
+template_path: templates/aftercare-guide.md
+required_entities:
+- piercing-type
+- body-location
+- healing-stage
+- keyword-cluster
+publishing_targets:
+- wordpress
+- facebook
+- pinterest
+- email
+- youtube
+- pdf
+related_content_assets:
+- wordpress-article
+- pdf-guide
+- youtube-script
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

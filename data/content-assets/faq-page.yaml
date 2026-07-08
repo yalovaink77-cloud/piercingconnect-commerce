@@ -1,0 +1,20 @@
+id: faq-page
+slug: faq-page
+name: FAQ Page
+summary: Publishable faq page output generated from knowledge core via PCME.
+asset_type: long-form
+publishing_channel:
+- wordpress
+- pdf
+related_template: faq
+related_keyword_clusters:
+- when-can-i-change-my-piercing-jewelry
+- piercing-crust
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

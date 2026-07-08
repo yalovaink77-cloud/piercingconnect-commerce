@@ -1,0 +1,20 @@
+id: bleeding
+slug: bleeding
+name: Bleeding
+summary: Blood or bloody crust at the piercing site.
+observation_type: discharge
+related_problems:
+- bleeding
+related_healing_stages:
+- fresh-piercing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

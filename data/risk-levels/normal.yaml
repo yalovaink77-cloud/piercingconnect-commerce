@@ -1,0 +1,19 @@
+id: normal
+slug: normal
+name: Normal
+summary: Common early healing observations. Use cautious but reassuring educational tone.
+severity_order: 1
+editorial_wording:
+- may occur during healing
+- can be normal for some people
+disclaimer_level: minimal
+affiliate_limit: standard
+related_problems: []
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial risk level taxonomy aligned with problem records.
+sources:
+- taxonomy-risk-level
+- standards-evidence-policy

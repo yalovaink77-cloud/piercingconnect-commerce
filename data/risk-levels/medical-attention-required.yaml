@@ -1,0 +1,20 @@
+id: medical-attention-required
+slug: medical-attention-required
+name: Medical Attention Required
+summary: Systemic or severe signs. Refer to healthcare provider. No product-led CTAs.
+severity_order: 5
+editorial_wording:
+- contact a healthcare provider
+- medical evaluation may be appropriate
+disclaimer_level: maximum
+affiliate_limit: none
+related_problems:
+- infection-concern
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial risk level taxonomy aligned with problem records.
+sources:
+- taxonomy-risk-level
+- standards-evidence-policy

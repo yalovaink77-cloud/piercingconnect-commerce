@@ -1,0 +1,19 @@
+id: pinterest-pin
+slug: pinterest-pin
+name: Pinterest Pin
+summary: Publishable pinterest pin output generated from knowledge core via PCME.
+asset_type: visual
+publishing_channel:
+- pinterest
+related_template: pinterest-pin
+related_keyword_clusters:
+- helix-piercing-aftercare
+- piercing-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

@@ -1,0 +1,21 @@
+id: swelling
+slug: swelling
+name: Swelling
+summary: Puffy or enlarged tissue around the piercing.
+observation_type: physical-sensation
+related_problems:
+- swelling
+related_healing_stages:
+- fresh-piercing
+- early-healing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

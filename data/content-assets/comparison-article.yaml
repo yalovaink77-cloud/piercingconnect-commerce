@@ -1,0 +1,20 @@
+id: comparison-article
+slug: comparison-article
+name: Comparison Article
+summary: Publishable comparison article output generated from knowledge core via PCME.
+asset_type: long-form
+publishing_channel:
+- wordpress
+- pdf
+related_template: product-comparison
+related_keyword_clusters:
+- neilmed-vs-h2ocean
+- sterile-saline-vs-sea-salt
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

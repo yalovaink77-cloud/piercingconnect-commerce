@@ -1,0 +1,21 @@
+id: commercial
+slug: commercial
+name: Commercial
+summary: Compare and evaluate products before purchase.
+typical_cta: View buying guide or product review
+safety_language_level: standard
+affiliate_placement: standard
+related_keyword_clusters:
+- best-saline-spray-for-piercings
+- piercing-aftercare-mist
+related_content_assets:
+- buying-guide
+- product-review
+- wordpress-article
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial search intent taxonomy.
+sources:
+- taxonomy-search-intent

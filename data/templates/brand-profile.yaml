@@ -1,0 +1,25 @@
+id: brand-profile
+slug: brand-profile
+name: Brand Profile
+summary: PCME blueprint at templates/brand-profile.md. Sections only — not generated content.
+template_path: templates/brand-profile.md
+required_entities:
+- brand
+- product
+- product-category
+- keyword-cluster
+publishing_targets:
+- wordpress
+- facebook
+- email
+- pdf
+related_content_assets:
+- wordpress-article
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

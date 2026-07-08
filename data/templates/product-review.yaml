@@ -1,0 +1,28 @@
+id: product-review
+slug: product-review
+name: Product Review
+summary: PCME blueprint at templates/product-review.md. Sections only — not generated content.
+template_path: templates/product-review.md
+required_entities:
+- brand
+- product
+- ingredient
+- problem
+- healing-stage
+- keyword-cluster
+publishing_targets:
+- wordpress
+- facebook
+- pinterest
+- email
+- pdf
+related_content_assets:
+- product-review
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

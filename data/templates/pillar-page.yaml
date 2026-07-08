@@ -1,0 +1,28 @@
+id: pillar-page
+slug: pillar-page
+name: Pillar Page
+summary: PCME blueprint at templates/pillar-page.md. Sections only — not generated content.
+template_path: templates/pillar-page.md
+required_entities:
+- keyword-cluster
+- product-category
+- problem
+- piercing-type
+- healing-stage
+publishing_targets:
+- wordpress
+- facebook
+- pinterest
+- email
+- youtube
+- pdf
+related_content_assets:
+- wordpress-article
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

@@ -1,0 +1,27 @@
+id: mild-irritation
+slug: mild-irritation
+name: Mild Irritation
+summary: Mechanical or aftercare irritation. Encourage trigger reduction and piercer review if persistent.
+severity_order: 2
+editorial_wording:
+- may be related to
+- could improve when
+disclaimer_level: standard
+affiliate_limit: moderate
+related_problems:
+- irritation-bump
+- snagging
+- overcleaning
+- dryness
+- pressure-irritation
+- sleeping-irritation
+- moisture-irritation
+- undercleaning
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial risk level taxonomy aligned with problem records.
+sources:
+- taxonomy-risk-level
+- standards-evidence-policy

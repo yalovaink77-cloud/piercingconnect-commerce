@@ -1,0 +1,20 @@
+id: turkiye
+slug: turkiye
+name: Türkiye
+summary: Regional market; verify product availability and programs locally.
+region_type: country
+related_affiliate_programs:
+- brand-direct
+- unknown
+related_brands: []
+availability_notes:
+- Product and affiliate availability must be verified per brand before publishing
+- Do not assume US availability applies globally
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: No regional legal claims stored. Verify locally before commercial publishing.
+sources:
+- taxonomy-country-region
+language_notes: 'Primary language context: tr.'

@@ -1,0 +1,25 @@
+id: canada
+slug: canada
+name: Canada
+summary: Canadian availability varies by brand and retailer.
+region_type: country
+related_affiliate_programs:
+- amazon-associates
+- shareasale
+- brand-direct
+related_brands:
+- neilmed
+- h2ocean
+- steri-wash
+- recovery-aftercare
+availability_notes:
+- Product and affiliate availability must be verified per brand before publishing
+- Do not assume US availability applies globally
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: No regional legal claims stored. Verify locally before commercial publishing.
+sources:
+- taxonomy-country-region
+language_notes: 'Primary language context: en, fr.'

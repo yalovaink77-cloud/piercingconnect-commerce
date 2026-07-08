@@ -1,0 +1,22 @@
+id: heat
+slug: heat
+name: Heat
+summary: Warmth around the piercing compared to surrounding tissue.
+observation_type: physical-sensation
+related_problems:
+- infection-concern
+- redness
+related_healing_stages:
+- fresh-piercing
+- early-healing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

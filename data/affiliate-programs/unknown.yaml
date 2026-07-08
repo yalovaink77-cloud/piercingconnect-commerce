@@ -1,0 +1,25 @@
+id: unknown
+slug: unknown
+name: Unknown
+summary: Placeholder when affiliate program is not verified. Do not monetize until confirmed.
+program_type: unknown
+regions:
+- international
+commission_notes: Rates not stored in repository. Verify from official program documentation before publishing.
+cookie_duration_notes: Verify from official program documentation.
+disclosure_requirements:
+- Include clear affiliate disclosure near commercial links
+- Follow FTC and applicable regional disclosure rules
+trust_concerns:
+- Do not publish affiliate links without verification
+- Mark as unknown in editorial workflow
+related_brands: []
+related_products: []
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial taxonomy record. Commission data intentionally omitted.
+sources:
+- taxonomy-affiliate-program
+- standards-affiliate-policy

@@ -1,0 +1,22 @@
+id: urgent-problem-solving
+slug: urgent-problem-solving
+name: Urgent Problem Solving
+summary: Worried about a symptom or complication.
+typical_cta: Seek professional guidance
+safety_language_level: maximum
+affiliate_placement: minimal
+related_keyword_clusters:
+- infected-piercing
+- piercing-bump
+- piercing-swelling
+related_content_assets:
+- faq-page
+- wordpress-article
+- youtube-script
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial search intent taxonomy.
+sources:
+- taxonomy-search-intent

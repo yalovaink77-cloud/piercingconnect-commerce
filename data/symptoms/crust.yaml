@@ -1,0 +1,21 @@
+id: crust
+slug: crust
+name: Crust
+summary: Dried fluid forming crust around jewelry.
+observation_type: visual
+related_problems:
+- crusting
+related_healing_stages:
+- fresh-piercing
+- early-healing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

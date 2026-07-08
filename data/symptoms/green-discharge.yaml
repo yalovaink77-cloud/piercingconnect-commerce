@@ -1,0 +1,21 @@
+id: green-discharge
+slug: green-discharge
+name: Green Discharge
+summary: Green or gray discharge. High-caution sign — encourage professional evaluation.
+observation_type: discharge
+related_problems:
+- infection-concern
+related_healing_stages:
+- early-healing
+- active-healing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

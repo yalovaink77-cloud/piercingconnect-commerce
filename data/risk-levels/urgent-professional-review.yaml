@@ -1,0 +1,23 @@
+id: urgent-professional-review
+slug: urgent-professional-review
+name: Urgent Professional Review
+summary: Prompt piercer or medical follow-up may be appropriate. Safety language overrides affiliate.
+severity_order: 4
+editorial_wording:
+- seek professional help promptly
+- do not rely on online diagnosis
+disclaimer_level: maximum
+affiliate_limit: minimal
+related_problems:
+- infection-concern
+- embedded-jewelry
+- rejection
+- migration
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial risk level taxonomy aligned with problem records.
+sources:
+- taxonomy-risk-level
+- standards-evidence-policy

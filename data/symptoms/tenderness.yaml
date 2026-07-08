@@ -1,0 +1,22 @@
+id: tenderness
+slug: tenderness
+name: Tenderness
+summary: Soreness when touching or moving the area.
+observation_type: physical-sensation
+related_problems:
+- swelling
+- pressure-irritation
+related_healing_stages:
+- fresh-piercing
+- early-healing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

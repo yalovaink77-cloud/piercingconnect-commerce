@@ -1,0 +1,27 @@
+id: shareasale
+slug: shareasale
+name: ShareASale
+summary: Legacy affiliate network. Verify active programs before linking.
+program_type: aggregator
+regions:
+- united-states
+- canada
+- international
+commission_notes: Rates not stored in repository. Verify from official program documentation before publishing.
+cookie_duration_notes: Verify from official program documentation.
+disclosure_requirements:
+- Include clear affiliate disclosure near commercial links
+- Follow FTC and applicable regional disclosure rules
+trust_concerns:
+- Confirm program status before publishing
+- Disclosure required
+related_brands: []
+related_products: []
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial taxonomy record. Commission data intentionally omitted.
+sources:
+- taxonomy-affiliate-program
+- standards-affiliate-policy

@@ -1,0 +1,54 @@
+schema_version: '1.0'
+entity: search-intent
+description: Why a user is searching — drives content structure and CTA.
+required:
+- id
+- slug
+- name
+- summary
+- typical_cta
+- safety_language_level
+- affiliate_placement
+- related_keyword_clusters
+- related_content_assets
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  typical_cta:
+    type: string
+  safety_language_level:
+    type: string
+    allowed:
+    - standard
+    - elevated
+    - maximum
+  affiliate_placement:
+    type: string
+    allowed:
+    - standard
+    - reduced
+    - minimal
+    - none
+  related_keyword_clusters:
+    type: array
+    items:
+      type: string
+  related_content_assets:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

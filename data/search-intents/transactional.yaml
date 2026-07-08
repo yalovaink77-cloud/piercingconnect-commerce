@@ -1,0 +1,18 @@
+id: transactional
+slug: transactional
+name: Transactional
+summary: Ready to purchase a specific product.
+typical_cta: Product link with disclosure
+safety_language_level: standard
+affiliate_placement: standard
+related_keyword_clusters: []
+related_content_assets:
+- product-review
+- buying-guide
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial search intent taxonomy.
+sources:
+- taxonomy-search-intent

@@ -1,0 +1,20 @@
+id: youtube-script
+slug: youtube-script
+name: YouTube Script
+summary: Publishable youtube script output generated from knowledge core via PCME.
+asset_type: video
+publishing_channel:
+- youtube
+- wordpress
+related_template: youtube-script
+related_keyword_clusters:
+- helix-piercing-aftercare
+- piercing-bump
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

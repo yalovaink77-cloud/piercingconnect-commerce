@@ -1,0 +1,27 @@
+id: product-comparison
+slug: product-comparison
+name: Product Comparison
+summary: PCME blueprint at templates/product-comparison.md. Sections only — not generated content.
+template_path: templates/product-comparison.md
+required_entities:
+- brand
+- product
+- ingredient
+- product-category
+- keyword-cluster
+publishing_targets:
+- wordpress
+- facebook
+- pinterest
+- email
+- pdf
+related_content_assets:
+- comparison-article
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

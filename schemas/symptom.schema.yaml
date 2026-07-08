@@ -1,0 +1,49 @@
+schema_version: '1.0'
+entity: symptom
+description: Observable signs — not diagnoses.
+required:
+- id
+- slug
+- name
+- summary
+- observation_type
+- related_problems
+- editorial_notes
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  observation_type:
+    type: string
+    allowed:
+    - visual
+    - physical-sensation
+    - discharge
+    - odor
+    - other
+  related_problems:
+    type: array
+    items:
+      type: string
+  related_healing_stages:
+    type: array
+    items:
+      type: string
+  editorial_notes:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

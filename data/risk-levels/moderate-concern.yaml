@@ -1,0 +1,22 @@
+id: moderate-concern
+slug: moderate-concern
+name: Moderate Concern
+summary: Needs attention and professional assessment. Limit commercial CTAs.
+severity_order: 3
+editorial_wording:
+- consider professional evaluation
+- may warrant piercer review
+disclaimer_level: elevated
+affiliate_limit: minimal
+related_problems:
+- allergic-reaction
+- jewelry-quality-issue
+- delayed-healing
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial risk level taxonomy aligned with problem records.
+sources:
+- taxonomy-risk-level
+- standards-evidence-policy

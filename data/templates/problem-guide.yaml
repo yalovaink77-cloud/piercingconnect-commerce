@@ -1,0 +1,30 @@
+id: problem-guide
+slug: problem-guide
+name: Problem Guide
+summary: PCME blueprint at templates/problem-guide.md. Sections only — not generated content.
+template_path: templates/problem-guide.md
+required_entities:
+- problem
+- ingredient
+- healing-stage
+- product
+- piercing-type
+- keyword-cluster
+publishing_targets:
+- wordpress
+- facebook
+- pinterest
+- email
+- youtube
+- pdf
+related_content_assets:
+- wordpress-article
+- faq-page
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

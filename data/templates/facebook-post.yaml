@@ -1,0 +1,19 @@
+id: facebook-post
+slug: facebook-post
+name: Facebook Post
+summary: PCME blueprint at templates/facebook-post.md. Sections only — not generated content.
+template_path: templates/facebook-post.md
+required_entities:
+- keyword-cluster
+publishing_targets:
+- facebook
+related_content_assets:
+- facebook-post
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

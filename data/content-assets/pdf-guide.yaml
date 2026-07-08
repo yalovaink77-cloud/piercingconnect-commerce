@@ -1,0 +1,19 @@
+id: pdf-guide
+slug: pdf-guide
+name: PDF Guide
+summary: Publishable pdf guide output generated from knowledge core via PCME.
+asset_type: document
+publishing_channel:
+- pdf
+related_template: aftercare-guide
+related_keyword_clusters:
+- nose-piercing-aftercare
+- navel-piercing-aftercare
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

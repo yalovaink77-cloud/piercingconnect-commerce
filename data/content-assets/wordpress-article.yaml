@@ -1,0 +1,19 @@
+id: wordpress-article
+slug: wordpress-article
+name: WordPress Article
+summary: Publishable wordpress article output generated from knowledge core via PCME.
+asset_type: long-form
+publishing_channel:
+- wordpress
+related_template: pillar-page
+related_keyword_clusters:
+- best-saline-spray-for-piercings
+- nose-piercing-aftercare
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

@@ -1,0 +1,65 @@
+schema_version: '1.0'
+entity: affiliate-program
+description: Defines affiliate program taxonomy records. Commission rates must not be invented.
+required:
+- id
+- slug
+- name
+- summary
+- program_type
+- regions
+- disclosure_requirements
+- trust_concerns
+- related_brands
+- related_products
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  program_type:
+    type: string
+    allowed:
+    - marketplace-network
+    - brand-direct
+    - aggregator
+    - unknown
+  regions:
+    type: array
+    items:
+      type: string
+  commission_notes:
+    type: string
+    description: Editorial note only. Do not store unverified rates.
+  cookie_duration_notes:
+    type: string
+    description: Verify from official program docs.
+  disclosure_requirements:
+    type: array
+    items:
+      type: string
+  trust_concerns:
+    type: array
+    items:
+      type: string
+  related_brands:
+    type: array
+    items:
+      type: string
+  related_products:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

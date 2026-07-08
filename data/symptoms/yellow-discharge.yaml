@@ -1,0 +1,21 @@
+id: yellow-discharge
+slug: yellow-discharge
+name: Yellow Discharge
+summary: Thick yellow fluid from the piercing. May warrant professional review when persistent.
+observation_type: discharge
+related_problems:
+- infection-concern
+related_healing_stages:
+- early-healing
+- active-healing
+editorial_notes:
+- Symptoms are observations, not diagnoses
+- Use cautious language and encourage professional evaluation when appropriate
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial symptom taxonomy.
+sources:
+- taxonomy-symptom
+- standards-evidence-policy

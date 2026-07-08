@@ -1,0 +1,18 @@
+id: local
+slug: local
+name: Local
+summary: Find piercers, studios, or local availability.
+typical_cta: Local resource guidance
+safety_language_level: standard
+affiliate_placement: minimal
+related_keyword_clusters: []
+related_content_assets:
+- faq-page
+- wordpress-article
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial search intent taxonomy.
+sources:
+- taxonomy-search-intent

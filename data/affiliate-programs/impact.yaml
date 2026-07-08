@@ -1,0 +1,26 @@
+id: impact
+slug: impact
+name: Impact
+summary: Partnership platform for brand and marketplace programs.
+program_type: aggregator
+regions:
+- united-states
+- international
+commission_notes: Rates not stored in repository. Verify from official program documentation before publishing.
+cookie_duration_notes: Verify from official program documentation.
+disclosure_requirements:
+- Include clear affiliate disclosure near commercial links
+- Follow FTC and applicable regional disclosure rules
+trust_concerns:
+- Terms set per brand partnership
+- Verify cookie duration officially
+related_brands: []
+related_products: []
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial taxonomy record. Commission data intentionally omitted.
+sources:
+- taxonomy-affiliate-program
+- standards-affiliate-policy

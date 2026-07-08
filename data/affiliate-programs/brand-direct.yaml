@@ -1,0 +1,34 @@
+id: brand-direct
+slug: brand-direct
+name: Brand Direct
+summary: Direct affiliate or referral relationship with a manufacturer or brand.
+program_type: brand-direct
+regions:
+- international
+commission_notes: Rates not stored in repository. Verify from official program documentation before publishing.
+cookie_duration_notes: Verify from official program documentation.
+disclosure_requirements:
+- Include clear affiliate disclosure near commercial links
+- Follow FTC and applicable regional disclosure rules
+trust_concerns:
+- Often highest trust when officially verified
+- Terms vary widely by brand
+related_brands:
+- neilmed
+- h2ocean
+- steri-wash
+- recovery-aftercare
+- easypiercing-care-lab
+- base-laboratories
+related_products:
+- h2ocean-piercing-aftercare-spray
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial taxonomy record. Commission data intentionally omitted.
+sources:
+- taxonomy-affiliate-program
+- standards-affiliate-policy

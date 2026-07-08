@@ -1,0 +1,20 @@
+id: email-sequence
+slug: email-sequence
+name: Email Sequence
+summary: PCME blueprint at templates/email-sequence.md. Sections only — not generated content.
+template_path: templates/email-sequence.md
+required_entities:
+- keyword-cluster
+- healing-stage
+publishing_targets:
+- email
+related_content_assets:
+- email-sequence
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

@@ -1,0 +1,19 @@
+id: pinterest-pin
+slug: pinterest-pin
+name: Pinterest Pin
+summary: PCME blueprint at templates/pinterest-pin.md. Sections only — not generated content.
+template_path: templates/pinterest-pin.md
+required_entities:
+- keyword-cluster
+publishing_targets:
+- pinterest
+related_content_assets:
+- pinterest-pin
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Links markdown blueprint in templates/ to structured taxonomy.
+sources:
+- content-generation-architecture
+- taxonomy-template

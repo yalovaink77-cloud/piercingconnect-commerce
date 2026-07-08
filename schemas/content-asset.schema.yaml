@@ -1,0 +1,49 @@
+schema_version: '1.0'
+entity: content-asset
+description: Publishable output types — downstream of knowledge core.
+required:
+- id
+- slug
+- name
+- summary
+- asset_type
+- publishing_channel
+- related_template
+- related_keyword_clusters
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  asset_type:
+    type: string
+    allowed:
+    - long-form
+    - short-form
+    - visual
+    - email
+    - video
+    - document
+  publishing_channel:
+    type: array
+    items:
+      type: string
+  related_template:
+    type: string
+  related_keyword_clusters:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

@@ -1,0 +1,28 @@
+id: informational
+slug: informational
+name: Informational
+summary: Learn about aftercare, healing, or jewelry.
+typical_cta: Read related guide or FAQ
+safety_language_level: standard
+affiliate_placement: standard
+related_keyword_clusters:
+- what-not-to-use-on-piercings
+- when-can-i-change-my-piercing-jewelry
+- nipple-piercing-aftercare
+- helix-piercing-aftercare
+- navel-piercing-aftercare
+- piercing-crust
+- septum-piercing-aftercare
+- nose-piercing-aftercare
+related_content_assets:
+- wordpress-article
+- faq-page
+- pdf-guide
+- youtube-script
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial search intent taxonomy.
+sources:
+- taxonomy-search-intent

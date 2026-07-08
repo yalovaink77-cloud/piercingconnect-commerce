@@ -1,0 +1,21 @@
+id: product-review
+slug: product-review
+name: Product Review
+summary: Publishable product review output generated from knowledge core via PCME.
+asset_type: long-form
+publishing_channel:
+- wordpress
+- pdf
+related_template: product-review
+related_keyword_clusters:
+- best-saline-spray-for-piercings
+- piercing-aftercare-mist
+- neilmed-vs-h2ocean
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

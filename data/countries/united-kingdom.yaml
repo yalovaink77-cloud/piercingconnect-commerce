@@ -1,0 +1,26 @@
+id: united-kingdom
+slug: united-kingdom
+name: United Kingdom
+summary: UK market; affiliate networks and brand availability differ from US.
+region_type: country
+related_affiliate_programs:
+- awin
+- amazon-associates
+- brand-direct
+related_brands:
+- neilmed
+- h2ocean
+- steri-wash
+- recovery-aftercare
+- easypiercing-care-lab
+availability_notes:
+- Product and affiliate availability must be verified per brand before publishing
+- Do not assume US availability applies globally
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: No regional legal claims stored. Verify locally before commercial publishing.
+sources:
+- taxonomy-country-region
+language_notes: 'Primary language context: en.'

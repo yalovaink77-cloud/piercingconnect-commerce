@@ -1,0 +1,36 @@
+id: amazon-associates
+slug: amazon-associates
+name: Amazon Associates
+summary: Large marketplace affiliate network. Commission rates and categories vary — verify from official Amazon Associates documentation.
+program_type: marketplace-network
+regions:
+- united-states
+- united-kingdom
+- canada
+- australia
+- international
+commission_notes: Rates not stored in repository. Verify from official program documentation before publishing.
+cookie_duration_notes: Verify from official program documentation.
+disclosure_requirements:
+- Include clear affiliate disclosure near commercial links
+- Follow FTC and applicable regional disclosure rules
+trust_concerns:
+- FTC disclosure required for compensated links
+- Marketplace copy is not primary product evidence
+related_brands:
+- neilmed
+- h2ocean
+- steri-wash
+- recovery-aftercare
+related_products:
+- h2ocean-piercing-aftercare-spray
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial taxonomy record. Commission data intentionally omitted.
+sources:
+- taxonomy-affiliate-program
+- standards-affiliate-policy

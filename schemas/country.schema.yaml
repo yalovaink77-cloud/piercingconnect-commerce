@@ -1,0 +1,50 @@
+schema_version: '1.0'
+entity: country
+description: Geographic region for availability and affiliate context. No invented legal claims.
+required:
+- id
+- slug
+- name
+- summary
+- region_type
+- related_affiliate_programs
+- related_brands
+- availability_notes
+- review
+- sources
+properties:
+  id:
+    type: string
+  slug:
+    type: string
+  name:
+    type: string
+  summary:
+    type: string
+  region_type:
+    type: string
+    allowed:
+    - country
+    - region
+    - international
+  related_affiliate_programs:
+    type: array
+    items:
+      type: string
+  related_brands:
+    type: array
+    items:
+      type: string
+  language_notes:
+    type: string
+  availability_notes:
+    type: array
+    items:
+      type: string
+  review:
+    type: object
+    required: true
+  sources:
+    type: array
+    items:
+      type: string

@@ -1,0 +1,18 @@
+id: email-sequence
+slug: email-sequence
+name: Email Sequence
+summary: Publishable email sequence output generated from knowledge core via PCME.
+asset_type: email
+publishing_channel:
+- email
+related_template: email-sequence
+related_keyword_clusters:
+- best-saline-spray-for-piercings
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial content asset taxonomy record.
+sources:
+- taxonomy-content-asset
+- content-generation-architecture

@@ -1,0 +1,20 @@
+id: comparison
+slug: comparison
+name: Comparison
+summary: Compare two or more options side by side.
+typical_cta: Read comparison article
+safety_language_level: standard
+affiliate_placement: standard
+related_keyword_clusters:
+- sterile-saline-vs-sea-salt
+- neilmed-vs-h2ocean
+related_content_assets:
+- comparison-article
+- product-review
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial search intent taxonomy.
+sources:
+- taxonomy-search-intent
