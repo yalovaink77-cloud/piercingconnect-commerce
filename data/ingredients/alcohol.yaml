@@ -1,0 +1,52 @@
+id: alcohol
+slug: alcohol
+name: Alcohol
+aliases:
+  - alcohol
+  - ethanol
+  - isopropyl alcohol
+  - rubbing alcohol
+  - SD alcohol
+description: Alcohol (ethanol or isopropyl) is used as a disinfectant and solvent in many consumer products. APP aftercare and troubleshooting guidance explicitly advises against cleaning healing piercings with alcohol because it can damage cells, irritate tissue, and delay healing. Alcohol appears in some professional kit products (for example Easypiercing antibacterial solution) but is not APP-recommended for routine fresh piercing wound care.
+ingredient_type: irritant
+purpose: Disinfectant or solvent in antiseptic and cosmetic formulations.
+evidence_level: strong
+commonly_found_in:
+  - antibacterial-solution
+  - first-aid-products
+  - mouthwash
+  - cosmetic-aftercare
+benefits:
+  - Broad use as surface disinfectant outside of open wound care
+  - Rapid evaporation in some antiseptic product designs
+limitations:
+  - Not appropriate primary aftercare for open healing piercings per APP
+  - Damages healthy healing cells when used repeatedly on wound tissue
+  - >
+    Distinction between oral rinse products and skin wound care varies by formulation
+potential_risks:
+  - Tissue irritation and delayed healing
+  - Burning sensation on broken skin
+  - >
+    Consumer habit of using rubbing alcohol on piercings despite professional guidance
+suitable_for_fresh_piercings: false
+app_alignment: not-recommended
+related_products: []
+
+related_brands:
+  - easypiercing-care-lab
+related_problems:
+  - dryness
+  - irritation-bump
+  - delayed-healing
+  - overcleaning
+  - allergic-reaction
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - mayo-clinic-piercings

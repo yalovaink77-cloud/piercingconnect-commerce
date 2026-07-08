@@ -1,0 +1,47 @@
+id: tea-tree-oil
+slug: tea-tree-oil
+name: Tea Tree Oil
+aliases:
+  - tea tree oil
+  - melaleuca oil
+  - Melaleuca alternifolia leaf oil
+description: Tea tree oil is an essential oil with antimicrobial properties marketed in some piercing and skincare products. Base Laboratories Piercing Aftercare Spray lists tea tree oil among multiple additives in a saline-based spray. APP troubleshooting and aftercare guidance does not recommend tea tree oil for routine piercing care; harsh or additive-heavy products may irritate piercings. Essential oils may cause contact sensitization in some individuals.
+ingredient_type: essential-oil
+purpose: Marketing and antimicrobial adjunct in some cosmetic aftercare sprays.
+evidence_level: limited
+commonly_found_in:
+  - enhanced-saline-spray
+  - bump-care-products
+  - cosmetic-aftercare
+benefits:
+  - Documented antimicrobial properties in laboratory contexts
+  - Common consumer recognition in aftercare marketing
+limitations:
+  - Not recommended in APP standard piercing aftercare guidance reviewed
+  - Concentration and quality vary; essential oils may irritate or sensitize
+  - Does not replace professional evaluation of bumps or infection signs
+potential_risks:
+  - Contact dermatitis or sensitization
+  - Irritation when applied undiluted or too frequently on fresh piercings
+  - >
+    False reassurance for bumps that require irritation source removal or medical care
+suitable_for_fresh_piercings: false
+app_alignment: not-recommended
+related_products:
+  - base-laboratories-piercing-aftercare-spray
+related_brands:
+  - base-laboratories
+related_problems:
+  - irritation-bump
+  - allergic-reaction
+  - dryness
+  - overcleaning
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - official-base-laboratories

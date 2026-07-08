@@ -1,0 +1,46 @@
+id: hydrogen-peroxide
+slug: hydrogen-peroxide
+name: Hydrogen Peroxide
+aliases:
+  - hydrogen peroxide
+  - H2O2
+  - peroxide
+description: Hydrogen peroxide is an oxidizing agent used historically for wound cleaning but is no longer favored for routine open wound care because it may harm healthy tissue and delay healing. APP aftercare guidance advises against hydrogen peroxide on healing piercings. Inverness and other brands explicitly contrast their products with hydrogen peroxide as a harsher alternative.
+ingredient_type: oxidizing-agent
+purpose: Oxidizing cleanser historically used in first-aid; discouraged for routine piercing aftercare.
+evidence_level: strong
+commonly_found_in:
+  - first-aid-products
+  - historical-wound-care
+benefits:
+  - Antimicrobial oxidizing activity in surface disinfection contexts
+limitations:
+  - Not recommended for routine healing piercing care per APP
+  - May damage granulation tissue and delay healing in open wounds
+  - Not present in current PiercingConnect sterile saline product records
+potential_risks:
+  - Tissue irritation and delayed healing
+  - False sense of cleaning while harming healing tissue
+  - Common DIY misuse on fresh piercings
+suitable_for_fresh_piercings: false
+app_alignment: not-recommended
+related_products: []
+
+related_brands: []
+
+related_problems:
+  - dryness
+  - irritation-bump
+  - delayed-healing
+  - overcleaning
+  - redness
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - mayo-clinic-piercings
+  - official-inverness

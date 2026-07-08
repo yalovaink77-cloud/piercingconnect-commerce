@@ -1,0 +1,49 @@
+id: purified-water
+slug: purified-water
+name: Purified Water
+aliases:
+  - purified water
+  - aqua
+  - water
+description: Purified water is water that has been treated to remove impurities but is not necessarily labeled or validated as sterile for wound use. It appears in cosmetic and aftercare formulations as a base solvent. APP guidance prefers packaged sterile saline for piercing aftercare; purified water alone or in multi-ingredient cosmetic sprays does not meet the same standard as sterile isotonic wound wash unless the full product is validated for that purpose.
+ingredient_type: solvent-base
+purpose: Base solvent in sprays, gels, and cosmetic aftercare formulations.
+evidence_level: moderate
+commonly_found_in:
+  - saline-spray
+  - antiseptic-aftercare
+  - cosmetic-aftercare
+benefits:
+  - Common pharmaceutical and cosmetic diluent
+  - Allows formulation of multi-ingredient products
+limitations:
+  - Purified does not automatically mean sterile
+  - >
+    Multi-ingredient products may include additives APP advises avoiding in primary aftercare
+  - >
+    Not equivalent to sterile 0.9% wound wash unless product is specifically labeled and validated
+potential_risks:
+  - >
+    Mislabeling or consumer assumption that all water-based sprays are sterile saline
+  - Combined with antiseptics or botanicals that may irritate fresh piercings
+suitable_for_fresh_piercings: caution
+app_alignment: acceptable-with-caution
+related_products:
+  - h2ocean-piercing-aftercare-spray
+  - inverness-ear-care-solution
+related_brands:
+  - h2ocean
+  - inverness-aftercare
+related_problems:
+  - dryness
+  - allergic-reaction
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - official-h2ocean
+  - official-inverness

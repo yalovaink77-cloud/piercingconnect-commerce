@@ -1,0 +1,57 @@
+id: preservatives
+slug: preservatives
+name: Preservatives
+aliases:
+  - preservatives
+  - preservative systems
+  - parabens
+  - phenoxyethanol
+  - methylisothiazolinone
+  - benzyl alcohol (preservative)
+description: Preservatives are additives used to prevent microbial growth in multi-use cosmetic and pharmaceutical products. APP aftercare guidance recommends sterile saline wound wash with 0.9% sodium chloride as the primary ingredient and advises avoiding unnecessary additives such as moisturizers and antibacterials in saline products. Preservative-free sterile saline sprays are preferred when evaluating piercing aftercare. Specific preservative types, concentrations, and sensitization profiles vary and are often undisclosed in consumer marketing.
+ingredient_type: preservative-class
+purpose: Microbial stability in multi-dose liquid and cosmetic formulations.
+evidence_level: moderate
+commonly_found_in:
+  - cosmetic-aftercare
+  - multi-ingredient-sprays
+  - pharmaceutical-products
+benefits:
+  - >
+    May extend shelf life and reduce contamination risk in non-sterile multi-use products
+  - Required in many cosmetic formulation categories
+limitations:
+  - Not desired in APP-preferred simple sterile saline aftercare
+  - Preservative sensitivity varies by individual and compound
+  - Specific preservative identity often not disclosed at category level
+potential_risks:
+  - Contact sensitization or irritation in susceptible individuals
+  - Consumers may assume all saline-labeled products are additive-free
+  - >
+    Preserved cosmetic sprays are not interchangeable with sterile wound wash without verification
+suitable_for_fresh_piercings: caution
+app_alignment: acceptable-with-caution
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - recovery-sterile-saline-wash-7-4oz
+  - steri-wash-saline-spray
+  - base-laboratories-piercing-aftercare-spray
+related_brands:
+  - neilmed
+  - recovery-aftercare
+  - steri-wash
+  - base-laboratories
+  - h2ocean
+related_problems:
+  - allergic-reaction
+  - dryness
+  - irritation-bump
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - fda-cosmetic-labeling
+  - official-neilmed

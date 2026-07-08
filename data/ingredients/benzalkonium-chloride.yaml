@@ -1,0 +1,49 @@
+id: benzalkonium-chloride
+slug: benzalkonium-chloride
+name: Benzalkonium Chloride
+aliases:
+  - benzalkonium chloride
+  - BZK
+  - BAC
+  - alkyl dimethyl benzyl ammonium chloride
+description: Benzalkonium chloride is a quaternary ammonium antiseptic used in some ear care and first-aid products. Inverness Ear Care Solution lists purified water and benzalkonium chloride as ingredients. APP aftercare guidance advises avoiding Bactine and other products containing benzalkonium chloride (BZK) for long-term wound care because they may be irritating and are not intended for extended piercing aftercare in the way sterile saline is.
+ingredient_type: antimicrobial
+purpose: Topical antiseptic in ear care and first-aid solutions.
+evidence_level: moderate
+commonly_found_in:
+  - antiseptic-aftercare
+  - ear-piercing-aftercare
+  - first-aid-solutions
+benefits:
+  - Documented antiseptic use in consumer health products
+  - Official Inverness formulation for ear piercing aftercare context
+  - >
+    Alternative positioning to alcohol and hydrogen peroxide in some ear care products
+limitations:
+  - >
+    APP advises avoiding BZK-containing products like Bactine for piercing wound care
+  - Not equivalent to sterile isotonic saline recommended for body piercings
+  - Primarily positioned for ear rather than general body piercing aftercare
+potential_risks:
+  - Contact irritation or sensitivity
+  - Prolonged use may irritate healing tissue per APP guidance on BZK products
+  - Consumer confusion between ear care antiseptic and sterile saline
+suitable_for_fresh_piercings: caution
+app_alignment: not-recommended
+related_products:
+  - inverness-ear-care-solution
+related_brands:
+  - inverness-aftercare
+related_problems:
+  - allergic-reaction
+  - dryness
+  - infection-concern
+  - irritation-bump
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - official-inverness

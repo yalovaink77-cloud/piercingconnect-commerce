@@ -1,0 +1,49 @@
+id: hypochlorous-acid
+slug: hypochlorous-acid
+name: Hypochlorous Acid
+aliases:
+  - hypochlorous acid
+  - HOCl
+  - hypochlorous formula
+  - low-concentration hypochlorous solution
+description: Hypochlorous acid (HOCl) is a weak acid with antimicrobial properties used in some wound and skin cleansers. Studex Advanced 2-in-1 Aftercare markets a hypochlorous formula; official product labeling lists water, sodium hypochlorite, and phosphoric acid as ingredients. HOCl products are distinct from sterile isotonic saline. Evidence for piercing-specific aftercare is primarily manufacturer and product-category level rather than piercing-association standard guidance.
+ingredient_type: antimicrobial
+purpose: Antimicrobial skin and wound cleansing in select aftercare sprays.
+evidence_level: limited
+commonly_found_in:
+  - hypochlorous-aftercare
+  - wound-cleanser
+  - piercing-aftercare
+benefits:
+  - Used in hypochlorous wound and skin cleanser category
+  - Studex product claims alcohol-free and benzalkonium-chloride-free formulation
+  - May support cleansing without some traditional harsh antiseptics
+limitations:
+  - Not the APP primary recommended routine body aftercare (sterile saline)
+  - >
+    Piercing-specific long-term evidence base is limited in public professional standards reviewed
+  - Formulation stability and concentration vary by product
+potential_risks:
+  - Misclassification as equivalent to sterile saline
+  - Sensitivity or irritation possible in some users
+  - Marketing claims about healing speed require cautious editorial framing
+suitable_for_fresh_piercings: caution
+app_alignment: not-addressed
+related_products:
+  - studex-advanced-2-in-1-piercing-aftercare-cleanser
+related_brands:
+  - studex-aftercare
+  - base-laboratories
+related_problems:
+  - infection-concern
+  - dryness
+  - allergic-reaction
+  - delayed-healing
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - official-studex
+  - app-aftercare

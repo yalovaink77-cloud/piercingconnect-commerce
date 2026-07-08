@@ -1,0 +1,51 @@
+id: polyhexanide-phmb
+slug: polyhexanide-phmb
+name: Polyhexanide (PHMB)
+aliases:
+  - polyhexanide
+  - PHMB
+  - polyhexamethylene biguanide
+  - polyhexanide-betaine complex
+  - polyhexanid
+description: Polyhexanide (polyhexamethylene biguanide, PHMB) is an antimicrobial agent used in medical device and wound-care contexts. Prontolind piercing aftercare products use a polyhexanide-betaine complex for antimicrobial cleaning. This is not isotonic sterile saline. Professional use in European studios is documented by the manufacturer, but APP primary body aftercare guidance centers on sterile saline rather than antimicrobial soaks for routine care.
+ingredient_type: antimicrobial
+purpose: Antimicrobial cleansing in professional piercing and wound-care formulations.
+evidence_level: moderate
+commonly_found_in:
+  - antimicrobial-aftercare
+  - medical-device-spray
+  - piercing-aftercare
+benefits:
+  - Established antimicrobial use in medical and cosmetic device categories
+  - Used in professional piercing aftercare lines in Europe
+  - >
+    Manufacturer documents GMP production and medical device positioning for Prontolind
+limitations:
+  - >
+    Not equivalent to APP-recommended simple sterile saline for routine body aftercare
+  - Long-term antimicrobial use profiles differ from gentle saline rinsing
+  - Availability and regulatory classification vary by market
+potential_risks:
+  - May cause sensitivity in some individuals
+  - Misuse as a substitute for saline without professional guidance
+  - >
+    Antimicrobial products may not be appropriate for all piercing types or stages without piercer direction
+suitable_for_fresh_piercings: caution
+app_alignment: not-addressed
+related_products:
+  - prontolind-spray-75ml
+related_brands:
+  - prontolind
+related_problems:
+  - infection-concern
+  - irritation-bump
+  - allergic-reaction
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - official-prontolind
+  - official-prontomed
+  - app-aftercare

@@ -1,0 +1,51 @@
+id: sterile-water
+slug: sterile-water
+name: Sterile Water
+aliases:
+  - sterile water
+  - water for irrigation
+  - USP purified water (sterile)
+description: Sterile water is water that has been processed to meet sterility standards for medical or pharmaceutical use. In piercing aftercare products, it commonly serves as the solvent base for isotonic saline sprays. APP guidance favors packaged sterile saline wound wash rather than home-mixed solutions. Sterile water alone is not an complete aftercare product; it is typically paired with sodium chloride at 0.9% for isotonic wound rinsing.
+ingredient_type: solvent-base
+purpose: Solvent base for isotonic saline and sterile wound-wash formulations.
+evidence_level: strong
+commonly_found_in:
+  - sterile-saline-spray
+  - wound-wash
+  - piercing-aftercare
+benefits:
+  - Provides a sterile diluent for isotonic saline formulations
+  - >
+    Supports simple, additive-free wound rinsing when paired with 0.9% sodium chloride
+  - Widely used in pharmaceutical wound-wash products
+limitations:
+  - Not a standalone aftercare solution without appropriate salt concentration
+  - Non-sterile water or home mixing introduces contamination risk
+  - Product sterility depends on packaging and handling after opening
+potential_risks:
+  - Using non-sterile water on fresh piercings may introduce bacteria
+  - Confusion with purified or tap water in DIY mixes
+suitable_for_fresh_piercings: true
+app_alignment: recommended
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - steri-wash-saline-spray
+  - recovery-sterile-saline-wash-7-4oz
+related_brands:
+  - neilmed
+  - steri-wash
+  - recovery-aftercare
+related_problems:
+  - overcleaning
+  - undercleaning
+  - infection-concern
+  - dryness
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - usp-saline-guidance

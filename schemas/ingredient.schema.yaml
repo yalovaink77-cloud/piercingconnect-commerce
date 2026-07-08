@@ -1,0 +1,173 @@
+schema_version: "1.0"
+
+entity: ingredient
+
+description: >
+  Defines the standard structure for ingredient records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - aliases
+  - description
+  - ingredient_type
+  - purpose
+  - evidence_level
+  - commonly_found_in
+  - benefits
+  - limitations
+  - potential_risks
+  - suitable_for_fresh_piercings
+  - app_alignment
+  - related_products
+  - related_brands
+  - related_problems
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the ingredient.
+    example: sodium-chloride-0.9-percent
+
+  slug:
+    type: string
+    description: URL-safe ingredient identifier matching id.
+    example: sodium-chloride-0.9-percent
+
+  name:
+    type: string
+    description: Human-readable ingredient name.
+    example: Sodium Chloride 0.9%
+
+  aliases:
+    type: array
+    items:
+      type: string
+    description: Alternative names, INCI names, or chemical synonyms.
+
+  description:
+    type: string
+    description: Neutral educational description distinguishing evidence from marketing.
+
+  ingredient_type:
+    type: string
+    allowed:
+      - solvent-base
+      - active-salt
+      - antimicrobial
+      - enzyme
+      - essential-oil
+      - irritant
+      - oxidizing-agent
+      - preservative-class
+      - surfactant
+      - unknown
+    description: Functional category for taxonomy and filtering.
+
+  purpose:
+    type: string
+    description: Typical role in aftercare or wound-care formulations.
+
+  evidence_level:
+    type: string
+    allowed:
+      - strong
+      - moderate
+      - limited
+      - marketing-only
+      - unknown
+    description: Strength of evidence for piercing aftercare use.
+
+  commonly_found_in:
+    type: array
+    items:
+      type: string
+    description: Product or formulation categories where this ingredient appears.
+
+  benefits:
+    type: array
+    items:
+      type: string
+    description: Documented or professionally recognized benefits. Not treatment claims.
+
+  limitations:
+    type: array
+    items:
+      type: string
+    description: Known limitations, variability, or context-dependent suitability.
+
+  potential_risks:
+    type: array
+    items:
+      type: string
+    description: Irritation, sensitization, or healing-delay risks when misused.
+
+  suitable_for_fresh_piercings:
+    type: string
+    allowed:
+      - true
+      - false
+      - caution
+      - unknown
+    description: PiercingConnect editorial suitability flag for fresh piercings.
+
+  app_alignment:
+    type: string
+    allowed:
+      - recommended
+      - acceptable-with-caution
+      - not-recommended
+      - not-addressed
+      - unknown
+    description: Alignment with Association of Professional Piercers aftercare guidance.
+
+  related_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs in data/products/ containing this ingredient.
+
+  related_brands:
+    type: array
+    items:
+      type: string
+    description: Brand IDs associated with products containing this ingredient.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs where this ingredient is relevant to causes or care guidance.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the record.

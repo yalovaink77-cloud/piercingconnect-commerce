@@ -1,0 +1,46 @@
+id: sea-salt
+slug: sea-salt
+name: Sea Salt
+aliases:
+  - sea salt
+  - non-iodized sea salt
+  - fine grain sea salt
+description: Sea salt is sodium chloride derived from evaporated seawater and may contain trace minerals. APP previously described measured non-iodized sea salt soaks as a regional alternative when sterile saline is unavailable, but current APP guidance strongly encourages packaged sterile saline and warns that DIY sea salt solutions are commonly too strong and may over-dry or irritate piercings. Sea salt is also used as a marketing descriptor in commercial piercing sprays that are not simple isotonic saline.
+ingredient_type: active-salt
+purpose: Historical and regional soak-based rinsing; marketing descriptor in some commercial sprays.
+evidence_level: limited
+commonly_found_in:
+  - saline-spray
+  - soak-solutions
+  - piercing-aftercare
+benefits:
+  - >
+    Measured non-iodized soaks have been described as a fallback when sterile saline is unavailable (regional APP guidance)
+  - Familiar consumer ingredient in aftercare discourse
+limitations:
+  - DIY mixing frequently produces hypertonic solutions per APP
+  - Mineral content and concentration vary unlike standardized 0.9% saline
+  - Commercial sea-salt marketing may obscure full ingredient lists
+potential_risks:
+  - Overly strong soaks may irritate tissue and delay healing
+  - Not interchangeable with sterile pharmaceutical wound wash without validation
+suitable_for_fresh_piercings: caution
+app_alignment: acceptable-with-caution
+related_products:
+  - h2ocean-piercing-aftercare-spray
+related_brands:
+  - h2ocean
+related_problems:
+  - dryness
+  - overcleaning
+  - irritation-bump
+  - delayed-healing
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - official-h2ocean

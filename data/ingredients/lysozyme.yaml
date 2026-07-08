@@ -1,0 +1,42 @@
+id: lysozyme
+slug: lysozyme
+name: Lysozyme
+aliases:
+  - lysozyme
+  - muramidase
+description: Lysozyme is a naturally occurring enzyme that breaks down bacterial cell walls and appears in some biological fluids including tears and saliva. H2Ocean piercing aftercare products list lysozyme among ingredients alongside sea salt and purified water. This is a multi-ingredient formulation distinct from APP-preferred simple sterile 0.9% saline. Enzyme-containing cosmetic aftercare should be evaluated separately from pharmaceutical wound wash.
+ingredient_type: enzyme
+purpose: Enzymatic component in multi-ingredient piercing aftercare formulations.
+evidence_level: limited
+commonly_found_in:
+  - saline-spray
+  - piercing-aftercare
+  - enzyme-formulations
+benefits:
+  - Known enzymatic activity in biological systems
+  - Included in established commercial piercing aftercare brand formulations
+limitations:
+  - Not part of APP recommended single-ingredient sterile saline standard
+  - Piercing-specific clinical evidence publicly available is limited
+  - Combined formulation makes ingredient-specific outcomes difficult to isolate
+potential_risks:
+  - Additional ingredients beyond isotonic saline may irritate sensitive users
+  - Marketing may overstate enzymatic benefits for healing
+suitable_for_fresh_piercings: caution
+app_alignment: acceptable-with-caution
+related_products:
+  - h2ocean-piercing-aftercare-spray
+related_brands:
+  - h2ocean
+related_problems:
+  - allergic-reaction
+  - irritation-bump
+  - dryness
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - official-h2ocean
+  - app-aftercare

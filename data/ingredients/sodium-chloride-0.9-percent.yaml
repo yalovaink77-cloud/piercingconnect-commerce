@@ -1,0 +1,58 @@
+id: sodium-chloride-0.9-percent
+slug: sodium-chloride-0.9-percent
+name: Sodium Chloride 0.9%
+aliases:
+  - 0.9% sodium chloride
+  - isotonic saline
+  - normal saline
+  - NaCl 0.9%
+description: Sodium chloride at 0.9% concentration produces isotonic saline (normal saline), matching the approximate salt concentration of human body fluids. APP aftercare guidance recommends packaged sterile saline labeled for wound wash with 0.9% sodium chloride as the primary ingredient for body piercings. This is distinct from hypertonic sea salt soaks or DIY salt mixtures that may be too strong and irritate tissue.
+ingredient_type: active-salt
+purpose: Isotonic rinsing and gentle debris removal in wound and piercing aftercare.
+evidence_level: strong
+commonly_found_in:
+  - sterile-saline-spray
+  - wound-wash
+  - piercing-aftercare
+benefits:
+  - >
+    Isotonic concentration may support gentle rinsing without strong osmotic irritation
+  - Simple two-ingredient saline aligns with APP preferred aftercare
+  - Widely available in pharmacy wound-wash products
+limitations:
+  - Saline rinsing supports hygiene but does not treat infection
+  - Concentration must be isotonic; stronger mixtures may irritate or dry tissue
+  - Product quality and sterility vary by brand and packaging
+potential_risks:
+  - DIY salt mixes frequently exceed safe concentration per APP
+  - >
+    Confusion with contact lens saline, nasal spray, or eye drops which are not interchangeable
+suitable_for_fresh_piercings: true
+app_alignment: recommended
+related_products:
+  - neilmed-piercing-aftercare-fine-mist
+  - steri-wash-saline-spray
+  - recovery-sterile-saline-wash-7-4oz
+  - easypiercing-saline-solution-50ml
+related_brands:
+  - neilmed
+  - steri-wash
+  - recovery-aftercare
+  - easypiercing-care-lab
+related_problems:
+  - irritation-bump
+  - infection-concern
+  - crusting
+  - overcleaning
+  - undercleaning
+  - delayed-healing
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: Initial structured ingredient record from professional, medical, and manufacturer sources. Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-troubleshooting
+  - nhs-wound-care
+  - mayo-clinic-piercings
