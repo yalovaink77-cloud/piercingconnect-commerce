@@ -1,0 +1,115 @@
+schema_version: "1.0"
+
+entity: body-location
+
+description: >
+  Defines the standard structure for body location records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - summary
+  - anatomy_notes
+  - piercing_types
+  - common_problems
+  - healing_characteristics
+  - aftercare_notes
+  - product_considerations
+  - related_piercing_types
+  - related_problems
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    example: ear
+
+  slug:
+    type: string
+    example: ear
+
+  name:
+    type: string
+    example: Ear
+
+  summary:
+    type: string
+    description: One- to two-sentence neutral overview of the body region.
+
+  anatomy_notes:
+    type: string
+    description: General anatomical context for piercings in this region. Not medical advice.
+
+  piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs commonly placed in this body location.
+
+  common_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs frequently associated with this body location.
+
+  healing_characteristics:
+    type: array
+    items:
+      type: string
+    description: >
+      General healing patterns using cautious language. Must not guarantee timelines.
+
+  aftercare_notes:
+    type: array
+    items:
+      type: string
+    description: Region-specific aftercare guidance aligned with APP standards.
+
+  product_considerations:
+    type: array
+    items:
+      type: string
+    description: Editorial notes on product suitability for this body location.
+
+  related_piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs cross-linked to this body location.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs cross-linked to this body location.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string

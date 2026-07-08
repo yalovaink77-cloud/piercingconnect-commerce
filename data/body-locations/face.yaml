@@ -1,0 +1,51 @@
+id: face
+slug: face
+name: Face
+summary: >
+  Facial piercing region in this taxonomy covers periorbital and nasal bridge surface-adjacent placements such as eyebrow and bridge piercings. Migration and snagging are common concerns.
+anatomy_notes: >
+  Facial piercings in this record include eyebrow tissue and the nasal bridge surface. These are not typically through thick muscle but involve surface or shallow tissue planes with varying migration risk.
+piercing_types:
+  - bridge
+  - eyebrow
+common_problems:
+  - migration
+  - rejection
+  - snagging
+  - irritation-bump
+  - delayed-healing
+  - infection-concern
+healing_characteristics:
+  - Surface-adjacent facial piercings may have higher migration and rejection risk per APP troubleshooting
+  - Healing may take six months or longer for tougher tissue categories
+  - Exposure to hair products, glasses, and environmental contaminants may increase irritation risk
+  - Individual anatomy strongly affects longevity of bridge and eyebrow piercings
+aftercare_notes:
+  - Sterile saline rinsing per APP body aftercare guidance
+  - Protect from snagging by hair, glasses, towels, and clothing
+  - Monitor for migration signs — consult piercer promptly if jewelry position changes
+  - Avoid harsh antiseptics and ointments that trap debris
+product_considerations:
+  - Primary aftercare: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - Simple sterile saline preferred over multi-ingredient cosmetic sprays for fresh facial piercings
+related_piercing_types:
+  - bridge
+  - eyebrow
+related_problems:
+  - migration
+  - rejection
+  - snagging
+  - irritation-bump
+  - delayed-healing
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-troubleshooting
+  - app-piercing-faq
+  - app-aftercare

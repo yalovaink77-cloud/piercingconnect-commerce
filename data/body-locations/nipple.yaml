@@ -1,0 +1,51 @@
+id: nipple
+slug: nipple
+name: Nipple
+summary: >
+  The nipple region includes nipple piercings through nipple tissue when anatomically suitable. Extended healing is common; APP addresses pregnancy, breastfeeding, and jewelry considerations.
+anatomy_notes: >
+  Nipple piercings pass through nipple tissue. APP FAQ states milk ducts are numerous pore-like structures and breastfeeding is generally not prevented by usual piercing sizes, but jewelry should be removed during feeding. Pregnancy may affect healing and existing piercings.
+piercing_types:
+  - nipple
+common_problems:
+  - pressure-irritation
+  - delayed-healing
+  - irritation-bump
+  - infection-concern
+  - migration
+  - snagging
+healing_characteristics:
+  - Nipple piercings often require many months of healing; individual timelines vary
+  - Compression from bras, sports, and bags may cause pressure irritation
+  - APP notes pregnancy and immune changes may affect healing — piercing during pregnancy is discouraged
+  - Clothing provides some environmental protection compared with exposed facial piercings per APP genital/nipple commentary context
+aftercare_notes:
+  - Sterile saline rinsing per APP body aftercare guidance
+  - Wear breathable, non-occlusive clothing when possible
+  - Avoid trauma from sports, seatbelts, and sleeping pressure
+  - Follow piercer guidance on sexual contact and barrier use during healing
+  - Review APP nipple guidance with piercer if planning pregnancy or breastfeeding
+product_considerations:
+  - Primary aftercare: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - Simple sterile saline without harsh additives preferred for editorial alignment
+  - No aftercare product replaces professional jewelry sizing and pressure management
+related_piercing_types:
+  - nipple
+related_problems:
+  - pressure-irritation
+  - delayed-healing
+  - irritation-bump
+  - infection-concern
+  - migration
+  - snagging
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
+  - app-troubleshooting

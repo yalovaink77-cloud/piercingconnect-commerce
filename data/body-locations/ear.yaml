@@ -1,0 +1,78 @@
+id: ear
+slug: ear
+name: Ear
+summary: >
+  The ear region includes soft lobe tissue and avascular cartilage structures. Piercing types and healing timelines vary widely between lobe and cartilage placements.
+anatomy_notes: >
+  The ear combines soft earlobe tissue with cartilage structures including the helix, concha, tragus, and anti-tragus. Cartilage has limited direct blood supply compared with soft tissue, which may contribute to slower healing for cartilage piercings per APP comparative guidance.
+piercing_types:
+  - helix
+  - forward-helix
+  - flat
+  - conch
+  - tragus
+  - anti-tragus
+  - rook
+  - daith
+  - industrial
+  - lobe
+  - upper-lobe
+common_problems:
+  - sleeping-irritation
+  - irritation-bump
+  - migration
+  - delayed-healing
+  - snagging
+  - swelling
+  - crusting
+  - infection-concern
+  - allergic-reaction
+healing_characteristics:
+  - Soft earlobe tissue may heal faster than cartilage per APP comparative guidance
+  - Ear cartilage, navels, and nostrils are grouped as tougher tissue that may take six months or longer
+  - Cartilage piercings may be prone to irritation bumps when slept on or snagged
+  - Industrial piercings involve two cartilage channels and may require extended healing
+  - Individual healing varies by anatomy, jewelry, health, and aftercare
+aftercare_notes:
+  - Spray sterile saline labeled for wound wash once or twice daily per APP body aftercare
+  - Avoid sleeping on cartilage piercings; use pressure protection if needed
+  - Do not rotate jewelry during cleaning
+  - Avoid alcohol, hydrogen peroxide, and harsh antiseptics
+  - Return to piercer for downsizing when swelling subsides — especially important for helix-type piercings per APP FAQ
+product_considerations:
+  - Primary aftercare: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - Prefer simple isotonic sterile saline without botanical additives for cartilage aftercare editorial alignment
+  - Retail ear aftercare products (studex-advanced-2-in-1-piercing-aftercare-cleanser, inverness-ear-care-solution) differ from APP-preferred sterile saline — evaluate separately
+related_piercing_types:
+  - helix
+  - forward-helix
+  - flat
+  - conch
+  - tragus
+  - anti-tragus
+  - rook
+  - daith
+  - industrial
+  - lobe
+  - upper-lobe
+related_problems:
+  - sleeping-irritation
+  - irritation-bump
+  - migration
+  - delayed-healing
+  - snagging
+  - swelling
+  - crusting
+  - infection-concern
+  - allergic-reaction
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-piercing-faq
+  - app-troubleshooting

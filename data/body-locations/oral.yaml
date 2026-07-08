@@ -1,0 +1,54 @@
+id: oral
+slug: oral
+name: Oral
+summary: >
+  The oral region includes intraoral piercings such as tongue and smiley (frenulum). APP oral aftercare guidance emphasizes alcohol-free mouthwash and downsizing to protect teeth and gums.
+anatomy_notes: >
+  Oral piercings pass through mucosal tissue including tongue muscle and frenulum. High vascularity may affect swelling. Anatomical suitability varies — especially for smiley frenulum piercings.
+piercing_types:
+  - tongue
+  - smiley
+common_problems:
+  - swelling
+  - crusting
+  - moisture-irritation
+  - overcleaning
+  - infection-concern
+  - migration
+  - rejection
+healing_characteristics:
+  - Mucosal tissue may heal on a different timeline than external skin
+  - Significant initial tongue swelling is commonly reported; individual variation is significant
+  - APP notes excessively long oral jewelry can damage teeth and gums until downsized
+  - Smiley piercings may have higher migration or rejection risk due to thin frenulum tissue
+aftercare_notes:
+  - Rinse with alcohol-free antiseptic mouthwash 4–5 times daily per APP oral aftercare
+  - Use soft-bristled toothbrush carefully around jewelry
+  - Avoid spicy, acidic, or irritating foods if they increase discomfort — piercer guidance varies
+  - Seek urgent care for breathing or swallowing difficulty
+product_considerations:
+  - Alcohol-free antiseptic mouthwash is the primary APP-recommended oral rinse category
+  - External or dual-area rinsing may use sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml) where applicable
+  - Do not use alcohol-based mouthwash on fresh oral piercings per APP guidance
+related_piercing_types:
+  - tongue
+  - smiley
+related_problems:
+  - swelling
+  - crusting
+  - moisture-irritation
+  - overcleaning
+  - infection-concern
+  - migration
+  - rejection
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-piercing-faq
+  - app-troubleshooting

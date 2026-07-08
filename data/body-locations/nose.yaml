@@ -1,0 +1,54 @@
+id: nose
+slug: nose
+name: Nose
+summary: >
+  The nose region includes nostril, high nostril, and septum piercing placements through soft tissue and cartilage. APP groups nostrils with tougher tissue requiring extended healing.
+anatomy_notes: >
+  Nostril piercings pass through nostril soft tissue and cartilage at the rim or wall. Septum piercings target the sweet spot of thin soft tissue below nasal cartilage when anatomy permits. Placement depth and angle require professional assessment.
+piercing_types:
+  - nostril
+  - high-nostril
+  - septum
+common_problems:
+  - irritation-bump
+  - swelling
+  - crusting
+  - delayed-healing
+  - infection-concern
+  - jewelry-quality-issue
+healing_characteristics:
+  - APP notes tougher tissue such as nostrils may take six months or longer to heal
+  - Facial piercings may be more exposed to airborne contaminants than clothed body areas per APP commentary
+  - Septum healing timelines vary based on sweet-spot anatomy and individual factors
+  - Swelling and crusting may occur during early healing
+aftercare_notes:
+  - Sterile saline wound wash once or twice daily per APP body aftercare
+  - Avoid makeup, skincare, and unnecessary touching on nostril piercings
+  - Do not flip septum jewelry before piercer confirms readiness
+  - Avoid harsh cleaning products and over-cleaning
+product_considerations:
+  - Primary aftercare: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - Avoid benzalkonium-chloride ear care solutions as substitute for sterile saline on body piercings per APP guidance
+  - Fine mist saline applicators may help access nostril areas without excessive handling
+related_piercing_types:
+  - nostril
+  - high-nostril
+  - septum
+related_problems:
+  - irritation-bump
+  - swelling
+  - crusting
+  - delayed-healing
+  - infection-concern
+  - jewelry-quality-issue
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-piercing-faq
+  - app-troubleshooting

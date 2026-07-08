@@ -1,0 +1,52 @@
+id: navel
+slug: navel
+name: Navel
+summary: >
+  The navel region includes navel rim piercings when anatomy provides suitable tissue. APP groups navels with tougher tissue that may take six months or longer; snagging and moisture are common concerns.
+anatomy_notes: >
+  Navel piercings typically pass through the upper or lower navel rim rather than the deep navel cavity. Not all navel anatomy is suitable. APP FAQ addresses pregnancy and jewelry retention for healed navels.
+piercing_types:
+  - navel
+common_problems:
+  - migration
+  - rejection
+  - snagging
+  - moisture-irritation
+  - irritation-bump
+  - delayed-healing
+  - infection-concern
+healing_characteristics:
+  - APP notes navel among tougher tissue that may take six months or longer
+  - Waistbands, clothing friction, and moisture trapping commonly affect healing
+  - Migration and rejection may occur if tissue depth or jewelry fit is inadequate
+  - Healed navels may or may not remain open without jewelry — varies individually per APP FAQ
+aftercare_notes:
+  - Sterile saline rinse once or twice daily; keep area dry between cleanings
+  - Wear low-rise or breathable clothing; avoid waistband pressure
+  - Avoid submerging in baths, hot tubs, or untreated water during early healing
+  - Avoid over-cleaning and harsh products per APP guidance
+product_considerations:
+  - Primary aftercare: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - Spray applicators may reduce mechanical irritation compared with cotton friction
+  - Avoid enhanced-formula sprays with botanical additives as primary aftercare editorial default
+related_piercing_types:
+  - navel
+related_problems:
+  - migration
+  - rejection
+  - snagging
+  - moisture-irritation
+  - irritation-bump
+  - delayed-healing
+  - infection-concern
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-aftercare
+  - app-troubleshooting

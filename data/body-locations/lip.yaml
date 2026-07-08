@@ -1,0 +1,60 @@
+id: lip
+slug: lip
+name: Lip
+summary: >
+  The lip region includes labret, philtrum, medusa, monroe, and vertical labret placements through lip tissue. Oral-adjacent hygiene applies alongside external saline care.
+anatomy_notes: >
+  Lip piercings pass through lip tissue and may have both external skin and intraoral exposure depending on placement. Vertical labret may avoid intraoral entry. Tissue is vascular and mobile, affecting swelling and jewelry fit.
+piercing_types:
+  - labret
+  - philtrum
+  - medusa
+  - monroe
+  - vertical-labret
+common_problems:
+  - swelling
+  - crusting
+  - moisture-irritation
+  - overcleaning
+  - infection-concern
+  - pressure-irritation
+  - irritation-bump
+healing_characteristics:
+  - Lip and oral-adjacent tissue may heal on a different schedule than external skin piercings
+  - Initial swelling may require longer initial jewelry; downsizing timing varies per APP oral guidance
+  - Excessively long oral-adjacent jewelry may contribute to teeth or gum contact per APP FAQ
+  - Individual healing varies by placement and anatomy
+aftercare_notes:
+  - Use alcohol-free antiseptic mouthwash 4–5 times daily for oral exposure per APP oral aftercare
+  - Sterile saline for external skin side per APP body aftercare
+  - Avoid oral contact and unprotected activity during early healing per piercer guidance
+  - Return for downsizing when swelling allows — piercer should perform change
+product_considerations:
+  - External rinsing: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - Oral care: alcohol-free mouthwash per APP oral guidance — not a substitute for professional downsizing advice
+  - easypiercing-saline-solution-50ml may appear in professional kit contexts; evaluate full kit components separately
+related_piercing_types:
+  - labret
+  - philtrum
+  - medusa
+  - monroe
+  - vertical-labret
+related_problems:
+  - swelling
+  - crusting
+  - moisture-irritation
+  - overcleaning
+  - infection-concern
+  - pressure-irritation
+  - irritation-bump
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-aftercare
+  - app-piercing-faq
+  - app-troubleshooting

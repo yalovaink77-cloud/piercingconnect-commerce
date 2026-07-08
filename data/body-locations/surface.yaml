@@ -1,0 +1,51 @@
+id: surface
+slug: surface
+name: Surface
+summary: >
+  Surface piercing category describes piercings that travel under skin rather than through a distinct entry-exit tissue column, or piercings with elevated migration and rejection risk. Includes conceptual guidance for surface-adjacent placements.
+anatomy_notes: >
+  Surface piercings rely on a shallow channel under the skin with limited tissue depth between entry and exit. APP FAQ discusses surface anchors as body piercings with long-term temporary lifespan and rejection risk. Bridge and eyebrow piercings share surface-adjacent behavior.
+piercing_types:
+  - bridge
+  - eyebrow
+common_problems:
+  - migration
+  - rejection
+  - snagging
+  - irritation-bump
+  - delayed-healing
+  - embedded-jewelry
+healing_characteristics:
+  - APP notes surface anchors may be rejected by the body over months to years
+  - Tissue between entry and exit may narrow during migration per APP troubleshooting
+  - Surface piercings may require more vigilant monitoring than standard through-piercings
+  - Navel rim piercings share some surface-like snagging and migration concerns though classified under navel location separately
+  - Healing timelines vary; no guaranteed longevity for surface work
+aftercare_notes:
+  - Minimize mechanical trauma, snagging, and pressure on surface channels
+  - Sterile saline rinsing per APP guidance
+  - Consult piercer immediately if tissue between openings narrows or jewelry moves toward surface
+  - Consider retirement when migration progresses — piercer guidance recommended
+product_considerations:
+  - Primary aftercare: sterile saline wound wash (e.g. neilmed-piercing-aftercare-fine-mist, recovery-sterile-saline-wash-7-4oz, steri-wash-saline-spray, easypiercing-saline-solution-50ml)
+  - No product can prevent rejection; aftercare supports hygiene while mechanical protection reduces irritation
+related_piercing_types:
+  - bridge
+  - eyebrow
+related_problems:
+  - migration
+  - rejection
+  - snagging
+  - irritation-bump
+  - delayed-healing
+  - embedded-jewelry
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured body location record from APP and professional sources.
+    Requires deeper review before being marked active.
+sources:
+  - app-piercing-faq
+  - app-troubleshooting
