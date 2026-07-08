@@ -1,0 +1,90 @@
+schema_version: "1.0"
+
+entity: product
+
+required:
+  - id
+  - slug
+  - name
+  - brand
+  - category
+  - status
+  - trust
+  - review
+
+properties:
+
+  id:
+    type: string
+
+  slug:
+    type: string
+
+  name:
+    type: string
+
+  brand:
+    type: string
+
+  category:
+    type: string
+
+  ingredients:
+    type: array
+
+  healing_stages:
+    type: array
+
+  recommended_for:
+    type: array
+
+  not_recommended_for:
+    type: array
+
+  available_sizes:
+    type: array
+
+  sterile:
+    type: boolean
+
+  preservative_free:
+    type: boolean
+
+  drug_free:
+    type: boolean
+
+  affiliate:
+    type: object
+
+  trust:
+    type: object
+    properties:
+      score:
+        type: integer
+        minimum: 0
+        maximum: 100
+
+      level:
+        allowed:
+          - high
+          - medium
+          - low
+          - unknown
+
+  review:
+    type: object
+    properties:
+      status:
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+
+      last_reviewed:
+        format: date
+
+  sources:
+    type: array
