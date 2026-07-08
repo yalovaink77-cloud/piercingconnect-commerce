@@ -1,0 +1,53 @@
+id: h2ocean-piercing-aftercare-spray
+slug: h2ocean-piercing-aftercare-spray
+
+name: H2Ocean Piercing Aftercare Spray
+
+brand: h2ocean
+
+category: saline-spray
+
+status: draft
+
+ingredients:
+  - sea-salt
+  - purified-water
+  - lysozyme
+
+sterile: false
+preservative_free: true
+drug_free: true
+
+healing_stages:
+  - fresh-piercing
+  - early-healing
+  - active-healing
+
+recommended_for:
+  - ear-piercings
+  - nose-piercings
+  - body-piercings
+
+not_recommended_for: []
+
+available_sizes:
+  - 1.5oz
+  - 4oz
+
+affiliate:
+  available: true
+
+trust:
+  score: 82
+  level: high
+
+review:
+  status: draft
+  last_reviewed: 2026-07-08
+
+related_brand: h2ocean
+
+related_products: []
+
+sources:
+  - official-h2ocean
