@@ -1,0 +1,65 @@
+id: wound-wash
+slug: wound-wash
+name: Wound Wash
+summary: Wound wash is a retail and pharmacy labeling category for sterile saline products intended to rinse wounds. APP aftercare guidance specifically references sterile saline wound wash for piercing aftercare. In PiercingConnect taxonomy, wound wash overlaps sterile saline spray but emphasizes wound-care shelf positioning and USP-style labeling rather than piercing-branded marketing alone.
+category_type: wound-care
+primary_use: Provide pharmacy-category sterile saline rinsing labeled for wound washing.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- active-healing
+- late-healing
+- irritated-piercing
+suitable_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- undercleaning
+- infection-concern
+- overcleaning
+- crusting
+safety_notes:
+- Confirm product is sterile isotonic saline; wound wash labeling alone does not guarantee suitability
+- Some wound washes include additives—review individual product ingredients before recommending
+- Does not replace professional evaluation when infection concern signs appear
+- Commercial wound-care placement must not bypass individual product trust review
+affiliate_potential: high
+buyer_intent: comparison-research
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting

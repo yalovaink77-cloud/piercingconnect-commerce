@@ -1,0 +1,63 @@
+id: travel-aftercare-kit
+slug: travel-aftercare-kit
+name: Travel Aftercare Kit
+summary: Travel aftercare kits package TSA-friendly or small-format aftercare items for clients away from home. Professional aftercare consistency during travel typically centers on portable sterile saline options. Kit quality depends on included products; travel size alone does not establish safety.
+category_type: kit-bundle
+primary_use: Portable aftercare supplies for travel while maintaining saline rinsing routine.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- active-healing
+- late-healing
+- irritated-piercing
+suitable_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_products:
+- easypiercing-saline-solution-50ml
+- neilmed-piercing-aftercare-fine-mist
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+related_problems:
+- undercleaning
+- snagging
+- sleeping-irritation
+safety_notes:
+- Confirm travel containers meet airline liquid rules without sacrificing sterility after opening
+- Do not skip rinsing routine during travel; small sterile saline formats may help maintain consistency
+- Avoid swapping to unfamiliar harsh products simply because they are travel-sized
+- Travel kits should not include unverified antiseptics or essential oils as defaults
+affiliate_potential: moderate
+buyer_intent: travel-convenience
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting

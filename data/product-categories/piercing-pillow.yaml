@@ -1,0 +1,43 @@
+id: piercing-pillow
+slug: piercing-pillow
+name: Piercing Pillow
+summary: Piercing pillows and travel pillows with ear cutouts are comfort accessories marketed to reduce pressure on healing ear piercings during sleep. APP aftercare advises avoiding sleeping on piercings; pressure-reduction pillows may support that goal but do not replace proper jewelry, aftercare, or professional assessment of persistent irritation.
+category_type: comfort-aid
+primary_use: Reduce sleeping pressure on ear piercings using a donut or cutout pillow design.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- active-healing
+- irritated-piercing
+suitable_piercing_types:
+- helix
+- conch
+- tragus
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- daith
+related_products: []
+related_ingredients: []
+related_problems:
+- sleeping-irritation
+- pressure-irritation
+- irritation-bump
+- migration
+safety_notes:
+- Comfort accessory only; does not heal piercings or prevent all irritation
+- Continue sterile saline aftercare and avoid pressure when possible
+- Persistent bumps or pain require piercer evaluation, not only pillow changes
+- Affiliate reviews must not overstate medical outcomes from sleep positioning products
+affiliate_potential: moderate
+buyer_intent: comfort-support
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting

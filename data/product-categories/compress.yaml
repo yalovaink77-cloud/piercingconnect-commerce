@@ -1,0 +1,41 @@
+id: compress
+slug: compress
+name: Compress
+summary: Compress products—including gel packs, warm compress pads, or DIY cloth compresses—may sometimes be discussed for comfort around swollen or irritated tissue near a piercing. APP troubleshooting focuses on removing mechanical causes of irritation; compresses are supportive comfort measures, not primary piercing aftercare and not infection treatment.
+category_type: accessory
+primary_use: Apply cold or warm compress externally to support comfort during swelling or irritation.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- irritated-piercing
+suitable_piercing_types:
+- helix
+- conch
+- tragus
+- nostril
+- septum
+- labret
+- navel
+- nipple
+related_products: []
+related_ingredients: []
+related_problems:
+- swelling
+- irritation-bump
+- pressure-irritation
+- bleeding
+safety_notes:
+- Do not use compresses as a substitute for sterile saline aftercare or piercer assessment
+- Avoid excessive heat that may increase inflammation; follow clinician or piercer guidance when unsure
+- Keep compress materials clean; do not apply unclean cloths directly to a fresh piercing
+- Seek professional help if swelling worsens, spreads, or accompanies fever or foul discharge
+affiliate_potential: low
+buyer_intent: problem-solving
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-troubleshooting
+- app-piercing-faq

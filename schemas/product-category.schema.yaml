@@ -1,0 +1,151 @@
+schema_version: "1.0"
+
+entity: product-category
+
+description: >
+  Defines the standard structure for product category records inside the
+  PiercingConnect Commercial Knowledge Core.
+
+required:
+  - id
+  - slug
+  - name
+  - summary
+  - category_type
+  - primary_use
+  - suitable_healing_stages
+  - suitable_piercing_types
+  - related_products
+  - related_ingredients
+  - related_problems
+  - safety_notes
+  - affiliate_potential
+  - buyer_intent
+  - review
+  - sources
+
+properties:
+  id:
+    type: string
+    description: Unique internal identifier for the product category.
+    example: sterile-saline-spray
+
+  slug:
+    type: string
+    description: URL-safe category identifier matching id.
+    example: sterile-saline-spray
+
+  name:
+    type: string
+    description: Human-readable category name.
+    example: Sterile Saline Spray
+
+  summary:
+    type: string
+    description: >
+      Neutral overview of the category, distinguishing evidence-based use from
+      marketing. Safety before commercial opportunity.
+
+  category_type:
+    type: string
+    allowed:
+      - aftercare-solution
+      - wound-care
+      - cleaning-product
+      - kit-bundle
+      - accessory
+      - comfort-aid
+      - tool
+      - storage
+    description: Functional taxonomy grouping for filtering and content templates.
+
+  primary_use:
+    type: string
+    description: Main intended role in piercing aftercare or related support.
+
+  suitable_healing_stages:
+    type: array
+    items:
+      type: string
+    description: Healing stage IDs from data/healing-stages/ where category may be relevant.
+
+  suitable_piercing_types:
+    type: array
+    items:
+      type: string
+    description: Piercing type IDs where this category is commonly discussed.
+
+  related_products:
+    type: array
+    items:
+      type: string
+    description: Product IDs in data/products/ mapped to this category.
+
+  related_ingredients:
+    type: array
+    items:
+      type: string
+    description: Ingredient IDs commonly associated with products in this category.
+
+  related_problems:
+    type: array
+    items:
+      type: string
+    description: Problem IDs where this category may be relevant to care guidance.
+
+  safety_notes:
+    type: array
+    items:
+      type: string
+    description: Editorial safety notes. Must not make treatment or diagnosis claims.
+
+  affiliate_potential:
+    type: string
+    allowed:
+      - low
+      - moderate
+      - high
+    description: >
+      Commercial opportunity estimate for affiliate strategy. Separate from safety
+      or quality evaluation per taxonomy Rule 5.
+
+  buyer_intent:
+    type: string
+    allowed:
+      - routine-aftercare
+      - problem-solving
+      - travel-convenience
+      - comfort-support
+      - organization
+      - comparison-research
+      - post-piercing-setup
+    description: Primary search or purchase intent this category serves.
+
+  review:
+    type: object
+    required: true
+    properties:
+      status:
+        type: string
+        allowed:
+          - draft
+          - needs_review
+          - reviewed
+          - active
+          - outdated
+          - deprecated
+      last_reviewed:
+        type: string
+        format: date
+      reviewer:
+        type: string
+        required: false
+      notes:
+        type: string
+        required: false
+
+  sources:
+    type: array
+    items:
+      type: string
+    description: Source reference slugs used to build the record.

@@ -1,0 +1,56 @@
+id: jewelry-storage
+slug: jewelry-storage
+name: Jewelry Storage
+summary: Jewelry storage includes cases, boxes, and organizers for body jewelry collections. Storage supports jewelry quality by reducing scratches, tangling, and exposure to moisture or debris. It does not replace implant-grade materials or professional fit but may reduce mechanical damage to healed jewelry between wears.
+category_type: storage
+primary_use: Organize and protect body jewelry when not worn to reduce damage and contamination.
+suitable_healing_stages:
+- mature-piercing
+- retired-piercing
+suitable_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_products: []
+related_ingredients: []
+related_problems:
+- jewelry-quality-issue
+- snagging
+- allergic-reaction
+safety_notes:
+- Store clean, dry jewelry; wet or contaminated storage may harbor bacteria
+- Do not store healing jewelry removed prematurely in shared containers without cleaning protocol
+- Storage accessories do not upgrade low-quality jewelry materials
+- Commercial organization content must not distract from initial jewelry quality guidance
+affiliate_potential: moderate
+buyer_intent: organization
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-initial-jewelry
+- app-troubleshooting

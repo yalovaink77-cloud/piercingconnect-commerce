@@ -1,0 +1,60 @@
+id: sterile-gauze
+slug: sterile-gauze
+name: Sterile Gauze
+summary: Sterile gauze and non-woven sterile pads are disposable materials used to gently pat dry piercings or absorb fluid. APP troubleshooting references clean gauze or paper products for gentle pressure when bleeding occurs. Gauze supports hygiene but is not itself an active aftercare treatment.
+category_type: wound-care
+primary_use: Pat dry or protect piercing area with clean disposable material after rinsing.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- active-healing
+- late-healing
+- irritated-piercing
+suitable_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_products: []
+related_ingredients: []
+related_problems:
+- bleeding
+- crusting
+- moisture-irritation
+- infection-concern
+safety_notes:
+- Use sterile single-use products when possible; do not reuse gauze on healing piercings
+- Pat dry gently; avoid fiber snagging on jewelry
+- Gauze does not replace saline rinsing or professional evaluation
+- Loose fibers may irritate some piercings if quality is low
+affiliate_potential: moderate
+buyer_intent: routine-aftercare
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting

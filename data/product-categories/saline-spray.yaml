@@ -1,0 +1,73 @@
+id: saline-spray
+slug: saline-spray
+name: Saline Spray
+summary: Saline spray is the parent commercial category for salt-water-based piercing aftercare mists and sprays. It includes APP-aligned sterile isotonic products and formulations with sea salt, enzymes, or other additives that require separate ingredient review. PiercingConnect treats sterile isotonic saline as the professional baseline while cataloging broader saline sprays for comparison content.
+category_type: aftercare-solution
+primary_use: Broad category for saline-based piercing aftercare sprays including sterile and non-sterile formulations.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- active-healing
+- late-healing
+- irritated-piercing
+suitable_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- recovery-sterile-saline-wash-7-4oz
+- steri-wash-saline-spray
+- h2ocean-piercing-aftercare-spray
+- base-laboratories-piercing-aftercare-spray
+- easypiercing-saline-solution-50ml
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+- sea-salt
+- purified-water
+- lysozyme
+related_problems:
+- undercleaning
+- overcleaning
+- allergic-reaction
+- dryness
+- infection-concern
+safety_notes:
+- Not all saline sprays are equivalent—review sterility, additives, and APP alignment per product
+- Sea-salt or enzyme formulas may differ from packaged sterile isotonic saline recommendations
+- Comparison content must lead with safety and evidence, not affiliate commission
+- Marketing terms like "natural saline" do not replace ingredient verification
+affiliate_potential: high
+buyer_intent: comparison-research
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
+- app-piercing-faq

@@ -1,0 +1,40 @@
+id: mirror
+slug: mirror
+name: Mirror
+summary: Mirrors—including handheld, magnifying, and wearable styles—help clients inspect piercings or assist with jewelry changes when a piercer has cleared timing. Mirrors are inspection tools, not aftercare treatments. PiercingConnect discourages unsupervised early jewelry changes even when mirrors improve visibility.
+category_type: tool
+primary_use: Visual inspection and jewelry installation assistance for healed or professionally managed piercings.
+suitable_healing_stages:
+- late-healing
+- mature-piercing
+- late-healing
+suitable_piercing_types:
+- helix
+- lobe
+- nostril
+- septum
+- labret
+- medusa
+- monroe
+- philtrum
+related_products: []
+related_ingredients: []
+related_problems:
+- jewelry-quality-issue
+- embedded-jewelry
+- snagging
+safety_notes:
+- Visibility tools do not replace professional jewelry changes during healing
+- Magnification may highlight normal crusting and cause unnecessary anxiety—context matters
+- Sanitize tools and hands; mirrors themselves do not sterilize jewelry or tissue
+- Low affiliate risk category but must not encourage premature DIY jewelry swaps
+affiliate_potential: low
+buyer_intent: organization
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-piercing-faq

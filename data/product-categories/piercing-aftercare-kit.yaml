@@ -1,0 +1,64 @@
+id: piercing-aftercare-kit
+slug: piercing-aftercare-kit
+name: Piercing Aftercare Kit
+summary: Piercing aftercare kits combine multiple products—often saline spray, gauze, and instructions—into one retail package. Kits vary widely in quality; bundled items may include additives or tools not aligned with APP guidance. PiercingConnect evaluates kit components individually rather than assuming bundle safety from packaging.
+category_type: kit-bundle
+primary_use: Bundle aftercare supplies for new piercing clients or retail gifting.
+suitable_healing_stages:
+- fresh-piercing
+- early-healing
+- active-healing
+suitable_piercing_types:
+- helix
+- forward-helix
+- flat
+- conch
+- tragus
+- anti-tragus
+- rook
+- daith
+- industrial
+- lobe
+- upper-lobe
+- nostril
+- high-nostril
+- septum
+- bridge
+- eyebrow
+- labret
+- philtrum
+- medusa
+- monroe
+- vertical-labret
+- tongue
+- smiley
+- navel
+- nipple
+related_products:
+- neilmed-piercing-aftercare-fine-mist
+- easypiercing-saline-solution-50ml
+- recovery-sterile-saline-wash-7-4oz
+related_ingredients:
+- sterile-water
+- sodium-chloride-0.9-percent
+- sea-salt
+related_problems:
+- undercleaning
+- overcleaning
+- allergic-reaction
+- jewelry-quality-issue
+safety_notes:
+- Review every item inside a kit; bundled antiseptics or oils may conflict with APP aftercare
+- Kits from piercing studios selected by a piercer differ from unverified marketplace bundles
+- Instructions in kits are not a substitute for in-person piercer aftercare guidance
+- Affiliate kit promotions must disclose if components differ from APP-preferred saline-first care
+affiliate_potential: high
+buyer_intent: post-piercing-setup
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting

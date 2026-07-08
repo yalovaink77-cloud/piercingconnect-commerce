@@ -1,0 +1,40 @@
+id: healing-soak
+slug: healing-soak
+name: Healing Soak
+summary: Healing soaks refer to immersing a piercing in warm salt water or commercial soak products. APP aftercare favors packaged sterile saline over home sea-salt soaks because mixing strength, sterility, and contamination are difficult to control. This category documents the commercial and community soak concept for comparison without endorsing uncontrolled home mixing as primary aftercare.
+category_type: aftercare-solution
+primary_use: Salt-water soaks discussed historically in piercing aftercare; requires caution versus packaged saline.
+suitable_healing_stages:
+- irritated-piercing
+- active-healing
+suitable_piercing_types:
+- navel
+- nipple
+- helix
+- conch
+- daith
+related_products: []
+related_ingredients:
+- sea-salt
+- sodium-chloride-0.9-percent
+related_problems:
+- overcleaning
+- moisture-irritation
+- infection-concern
+- irritation-bump
+safety_notes:
+- APP recommends packaged sterile saline rather than homemade sea-salt soaks
+- Excessive soaking may trap moisture and contribute to irritation in some piercings
+- Non-sterile water or incorrect salt concentration introduces contamination risk
+- Soaks do not treat infection; seek professional evaluation when concern signs appear
+affiliate_potential: moderate
+buyer_intent: problem-solving
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
+- app-piercing-faq

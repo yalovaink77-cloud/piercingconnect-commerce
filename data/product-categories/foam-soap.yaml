@@ -1,0 +1,42 @@
+id: foam-soap
+slug: foam-soap
+name: Foam Soap
+summary: Foam soap products are mild cleansers sometimes used in shower routines around healed or healing external piercings. APP body aftercare notes a brief rinse with mild soap during normal bathing may be acceptable for some piercings; foam formats are a commercial variant of gentle cleansing—not a replacement for sterile saline rinsing and not a primary antiseptic treatment.
+category_type: cleaning-product
+primary_use: Support gentle external cleansing around piercings during normal bathing when approved by piercer.
+suitable_healing_stages:
+- early-healing
+- active-healing
+- late-healing
+- mature-piercing
+suitable_piercing_types:
+- navel
+- nipple
+- helix
+- nostril
+- lobe
+- septum
+related_products: []
+related_ingredients:
+- preservatives
+- purified-water
+related_problems:
+- overcleaning
+- allergic-reaction
+- dryness
+- moisture-irritation
+safety_notes:
+- Fragrance, dye, and harsh surfactants may irritate healing piercings
+- Foam soap is supplementary; sterile saline remains the primary APP-recommended rinse for many piercings
+- Discontinue if rash or increased irritation appears and consult your piercer
+- No PiercingConnect product records mapped yet—category reserved for future catalog entries
+affiliate_potential: moderate
+buyer_intent: routine-aftercare
+review:
+  status: draft
+  last_reviewed: '2026-07-08'
+  reviewer: PiercingConnect
+  notes: Initial structured product category record from APP aftercare guidance and taxonomy. Requires deeper review before being marked active.
+sources:
+- app-aftercare
+- app-troubleshooting
