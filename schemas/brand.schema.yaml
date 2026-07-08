@@ -1,0 +1,220 @@
+schema_version: "1.0"
+
+entity: brand
+
+description: >
+Defines the standard structure for brand records inside the
+PiercingConnect Commercial Knowledge Core.
+
+required:
+
+* id
+* slug
+* name
+* entity_type
+* status
+* trust
+* review
+
+properties:
+id:
+type: string
+description: Unique internal identifier for the brand.
+example: neilmed
+
+slug:
+type: string
+description: URL-safe brand identifier.
+example: neilmed
+
+name:
+type: string
+description: Public brand name.
+example: NeilMed
+
+legal_name:
+type: string
+required: false
+description: Legal company name if known.
+
+entity_type:
+type: string
+allowed:
+- manufacturer
+- marketplace
+- distributor
+- professional_association
+- publisher
+- unknown
+description: Type of brand entity.
+
+website:
+type: string
+required: false
+format: url
+description: Official brand website.
+
+headquarters:
+type: object
+required: false
+properties:
+country:
+type: string
+region:
+type: string
+required: false
+city:
+type: string
+required: false
+
+founded:
+type: integer
+required: false
+description: Year the brand or company was founded.
+
+description:
+type: string
+description: Short neutral description of the brand.
+
+product_categories:
+type: array
+items:
+type: string
+description: Product categories associated with the brand.
+examples:
+- sterile-saline-spray
+- wound-wash
+- piercing-aftercare
+
+products:
+type: array
+items:
+type: string
+description: Product IDs connected to this brand.
+
+available_regions:
+type: array
+items:
+type: string
+description: Regions or countries where the brand is commonly available.
+
+professional_relevance:
+type: object
+properties:
+used_by_professionals:
+type: boolean
+required: false
+notes:
+type: string
+required: false
+
+certifications:
+type: array
+items:
+type: string
+required: false
+description: Certifications, registrations, or compliance notes if verified.
+
+trust:
+type: object
+required: true
+properties:
+score:
+type: integer
+minimum: 0
+maximum: 100
+description: Internal trust score based on safety, evidence, transparency, and reputation.
+level:
+type: string
+allowed:
+- high
+- medium
+- low
+- unknown
+notes:
+type: string
+
+affiliate:
+type: object
+required: false
+properties:
+has_affiliate_opportunity:
+type: boolean
+programs:
+type: array
+items:
+type: string
+notes:
+type: string
+required: false
+
+risks:
+type: array
+items:
+type: string
+required: false
+description: Known concerns, limitations, or cautions.
+
+alternatives:
+type: array
+items:
+type: string
+required: false
+description: Alternative brand IDs.
+
+source_notes:
+type: array
+items:
+type: string
+required: false
+description: Notes about sources used to evaluate the brand.
+
+review:
+type: object
+required: true
+properties:
+status:
+type: string
+allowed:
+- draft
+- needs_review
+- reviewed
+- active
+- outdated
+- deprecated
+last_reviewed:
+type: string
+format: date
+required: false
+reviewer:
+type: string
+required: false
+notes:
+type: string
+required: false
+
+content_opportunities:
+type: array
+required: false
+items:
+type: object
+properties:
+type:
+type: string
+allowed:
+- brand_profile
+- product_review
+- comparison
+- buyer_guide
+- faq
+- pinterest
+- youtube_script
+- email
+priority:
+type: string
+allowed:
+- high
+- medium
+- low
+notes:
+type: string
