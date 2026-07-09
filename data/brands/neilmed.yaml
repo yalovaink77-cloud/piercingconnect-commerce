@@ -6,118 +6,111 @@ entity_type: manufacturer
 website: https://www.neilmed.com
 
 headquarters:
-country: United States
-region: California
-city: Santa Rosa
+  country: United States
+  region: California
+  city: Santa Rosa
 
 founded: 2000
 
 description: >
-NeilMed Pharmaceuticals is a US-based manufacturer known primarily for saline
-nasal irrigation products and piercing aftercare saline sprays.
+  NeilMed Pharmaceuticals is a US-based manufacturer known primarily for saline
+  nasal irrigation products and piercing aftercare saline sprays.
 
 product_categories:
-
-* sterile-saline-spray
-* wound-wash
-* piercing-aftercare
+  - sterile-saline-spray
+  - wound-wash
+  - piercing-aftercare
 
 products:
-
-* neilmed-piercing-aftercare-fine-mist
+  - neilmed-piercing-aftercare-fine-mist
 
 available_regions:
-
-* United States
-* Canada
-* United Kingdom
-* European Union
-* international-through-distributors
+  - United States
+  - Canada
+  - United Kingdom
+  - European Union
+  - international-through-distributors
 
 professional_relevance:
-used_by_professionals: true
-notes: >
-NeilMed Piercing Aftercare is commonly referenced in professional and
-consumer piercing aftercare discussions. Professional acceptance should be
-reviewed further against APP and studio-level recommendations.
+  used_by_professionals: true
+  notes: >
+    NeilMed Piercing Aftercare is commonly referenced in professional and
+    consumer piercing aftercare discussions. Professional acceptance should be
+    reviewed further against APP and studio-level recommendations.
 
 certifications: []
 
 trust:
-score: 90
-level: high
-notes: >
-High trust based on simple sterile saline positioning, established
-manufacturer background, dedicated piercing aftercare product line, and
-broad availability. Score should be reviewed after deeper source validation.
+  score: 90
+  level: high
+  notes: >
+    High trust based on simple sterile saline positioning, established
+    manufacturer background, dedicated piercing aftercare product line, and
+    broad availability. Score should be reviewed after deeper source validation.
 
 affiliate:
-has_affiliate_opportunity: true
-programs:
-- amazon-associates
-- marketplace-affiliate-programs
-- potential-retailer-affiliates
-notes: >
-No confirmed official NeilMed direct affiliate program was found during the
-initial review. Affiliate opportunities may exist through Amazon or retailers.
+  has_affiliate_opportunity: true
+  programs:
+    - amazon-associates
+    - marketplace-affiliate-programs
+    - potential-retailer-affiliates
+  notes: >
+    No confirmed official NeilMed direct affiliate program was found during the
+    initial review. Affiliate opportunities may exist through Amazon or retailers.
 
 risks:
-
-* availability-varies-by-region
-* affiliate-program-not-directly-confirmed
-* professional-acceptance-needs-additional-verification
+  - availability-varies-by-region
+  - affiliate-program-not-directly-confirmed
+  - professional-acceptance-needs-additional-verification
 
 alternatives:
-
-* h2ocean
-* steri-wash
-* generic-sterile-saline
+  - h2ocean
+  - steri-wash
+  - generic-sterile-saline
 
 source_notes:
-
-* Official NeilMed company profile confirms founding information and company background.
-* Official NeilMed global locations page confirms Santa Rosa, California headquarters.
-* Official NeilMed Piercing Aftercare store confirms dedicated piercing aftercare product family.
-* Marketplace and community references are secondary and should not be treated as primary evidence.
+  - Official NeilMed company profile confirms founding information and company background.
+  - Official NeilMed global locations page confirms Santa Rosa, California headquarters.
+  - Official NeilMed Piercing Aftercare store confirms dedicated piercing aftercare product family.
+  - Marketplace and community references are secondary and should not be treated as primary evidence.
 
 review:
-status: draft
-last_reviewed: 2026-07-08
-reviewer: PiercingConnect
-notes: >
-Initial structured brand record created from official and secondary sources.
-Requires deeper review before being marked active.
+  status: draft
+  last_reviewed: 2026-07-08
+  reviewer: PiercingConnect
+  notes: >
+    Initial structured brand record created from official and secondary sources.
+    Requires deeper review before being marked active.
 
 content_opportunities:
+  - type: brand_profile
+    priority: high
+    notes: NeilMed is a strong candidate for a dedicated brand profile.
 
-* type: brand_profile
-  priority: high
-  notes: NeilMed is a strong candidate for a dedicated brand profile.
+  - type: product_review
+    priority: high
+    notes: NeilMed Piercing Aftercare Fine Mist should receive a dedicated product review.
 
-* type: product_review
-  priority: high
-  notes: NeilMed Piercing Aftercare Fine Mist should receive a dedicated product review.
+  - type: comparison
+    priority: high
+    notes: NeilMed vs H2Ocean is a likely high-intent comparison article.
 
-* type: comparison
-  priority: high
-  notes: NeilMed vs H2Ocean is a likely high-intent comparison article.
+  - type: buyer_guide
+    priority: high
+    notes: Suitable for best sterile saline sprays for piercings.
 
-* type: buyer_guide
-  priority: high
-  notes: Suitable for best sterile saline sprays for piercings.
+  - type: faq
+    priority: medium
+    notes: Useful for questions about ingredients, usage, availability, and alternatives.
 
-* type: faq
-  priority: medium
-  notes: Useful for questions about ingredients, usage, availability, and alternatives.
+  - type: pinterest
+    priority: medium
+    notes: Can support visual aftercare and product education content.
 
-* type: pinterest
-  priority: medium
-  notes: Can support visual aftercare and product education content.
+  - type: youtube_script
+    priority: medium
+    notes: Can support beginner aftercare product explainer videos.
 
-* type: youtube_script
-  priority: medium
-  notes: Can support beginner aftercare product explainer videos.
-
-* type: email
-  priority: low
-  notes: Could be used in future aftercare onboarding sequences.
+  - type: email
+    priority: low
+    notes: Could be used in future aftercare onboarding sequences.
